@@ -1,0 +1,708 @@
+{
+ "show": "Naagin (Colors TV) Season 7",
+ "episodes_total": 50,
+ "first_air": "2025-12-27",
+ "last_air": "2026-06-14",
+ "note": "Air dates follow the Sat-Sun schedule with no gaps (matches the Wikipedia weekly ratings table: 25 weeks x 2). Titles are the official Colors TV YouTube upload titles as listed on 2026-11-11; two uploads carry no title and E10 and E13 carry the same title on the channel.",
+ "episodes": [
+  {
+   "episode": 1,
+   "air_date": "2025-12-27",
+   "weekday": "Sat",
+   "official_upload_title": "Naagin Legacy Unleashed",
+   "youtube_id": "Q7XHVgQuKvg",
+   "video_seconds": 2468,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews"
+   ],
+   "read_status": "captions read in full (all cues) + TellyReviews read in full + official video sampled as stills (240p, every 5-15 s; no sound; none between 02:30 and 06:58); 01:29-23:14 re-read cue by cue on 2026-11-11 for Chapter 1"
+  },
+  {
+   "episode": 2,
+   "air_date": "2025-12-28",
+   "weekday": "Sun",
+   "official_upload_title": "Naagin Rescues Purvi and Anantha",
+   "youtube_id": "XbMCxKjkU8Q",
+   "video_seconds": 2363,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews"
+   ],
+   "read_status": "TellyReviews read in full; captions not yet read"
+  },
+  {
+   "episode": 3,
+   "air_date": "2026-01-03",
+   "weekday": "Sat",
+   "official_upload_title": "Parmeet's Shield against the Naagin",
+   "youtube_id": "0BIremkRLMQ",
+   "video_seconds": 2365,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews"
+   ],
+   "read_status": "TellyReviews read in full; captions not yet read"
+  },
+  {
+   "episode": 4,
+   "air_date": "2026-01-04",
+   "weekday": "Sun",
+   "official_upload_title": "Naagin's Deadly Battle",
+   "youtube_id": "WLsfNsHNiME",
+   "video_seconds": 2197,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews"
+   ],
+   "read_status": "TellyReviews read in full; captions not yet read"
+  },
+  {
+   "episode": 5,
+   "air_date": "2026-01-10",
+   "weekday": "Sat",
+   "official_upload_title": "Ravish Confesses the Truth",
+   "youtube_id": "GL3daL-cHZw",
+   "video_seconds": 2332,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "TellyReviews read in full; captions read only for 28:18-30:49"
+  },
+  {
+   "episode": 6,
+   "air_date": "2026-01-11",
+   "weekday": "Sun",
+   "official_upload_title": "Gurinder Hunts Parmeet's Secret",
+   "youtube_id": "XOfZCyqHTvs",
+   "video_seconds": 2194,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "TellyReviews read in full; captions read only for 00:06-03:35 and 30:48"
+  },
+  {
+   "episode": 7,
+   "air_date": "2026-01-17",
+   "weekday": "Sat",
+   "official_upload_title": "Parmeet's Family Takes a Dark Turn",
+   "youtube_id": "gI2KoyOlPHw",
+   "video_seconds": 1787,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "captions read in full 2026-11-11 (canon/SEASON.md E07); TellyReviews read in full; no video seen; speakers inferred"
+  },
+  {
+   "episode": 8,
+   "air_date": "2026-01-18",
+   "weekday": "Sun",
+   "official_upload_title": "Purvi Awakens as Naagin",
+   "youtube_id": "pjWpyMQ8enM",
+   "video_seconds": 1898,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "TellyReviews read in full; captions not yet read"
+  },
+  {
+   "episode": 9,
+   "air_date": "2026-01-24",
+   "weekday": "Sat",
+   "official_upload_title": "Purvi Disguises as Ahana",
+   "youtube_id": "_VQCOkWbL3k",
+   "video_seconds": 2286,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 10,
+   "air_date": "2026-01-25",
+   "weekday": "Sun",
+   "official_upload_title": "Naagin's Revenge Claims Swarna",
+   "youtube_id": "v4oy0tVZ5q0",
+   "video_seconds": 2281,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 11,
+   "air_date": "2026-01-31",
+   "weekday": "Sat",
+   "official_upload_title": "Samir Faces Naagin's Revenge",
+   "youtube_id": "be6tiZM2Na4",
+   "video_seconds": 2248,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 12,
+   "air_date": "2026-02-01",
+   "weekday": "Sun",
+   "official_upload_title": "Ahana's Bold Defiance",
+   "youtube_id": "7s6-IMXM4vs",
+   "video_seconds": 2145,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 13,
+   "air_date": "2026-02-07",
+   "weekday": "Sat",
+   "official_upload_title": "Naagin's Revenge Claims Swarna",
+   "youtube_id": "ZmVhvf_-p_Y",
+   "video_seconds": 1929,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 14,
+   "air_date": "2026-02-08",
+   "weekday": "Sun",
+   "official_upload_title": "Ahana's Love Becomes Her Weakness",
+   "youtube_id": "VQuUCEj9JJQ",
+   "video_seconds": 1682,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 15,
+   "air_date": "2026-02-14",
+   "weekday": "Sat",
+   "official_upload_title": "Bharani's Plot against Love Fails",
+   "youtube_id": "TmKo-TLd6E4",
+   "video_seconds": 1968,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 16,
+   "air_date": "2026-02-15",
+   "weekday": "Sun",
+   "official_upload_title": "Ahana Performs Shiv Tandav",
+   "youtube_id": "og_EG9dWlEg",
+   "video_seconds": 1524,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 17,
+   "air_date": "2026-02-21",
+   "weekday": "Sat",
+   "official_upload_title": null,
+   "youtube_id": "hHIyTmrrUDw",
+   "video_seconds": 1879,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 18,
+   "air_date": "2026-02-22",
+   "weekday": "Sun",
+   "official_upload_title": null,
+   "youtube_id": "Vx9ZPZDHmCs",
+   "video_seconds": 1796,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 19,
+   "air_date": "2026-02-28",
+   "weekday": "Sat",
+   "official_upload_title": "Aryaman's Battle to Save India",
+   "youtube_id": "7xc13QmpwBc",
+   "video_seconds": 2173,
+   "captions": "have",
+   "written_updates": [],
+   "read_status": "captions read in full 2026-11-11 (canon/SEASON.md E19); no recap exists; no video seen; speakers inferred"
+  },
+  {
+   "episode": 20,
+   "air_date": "2026-03-01",
+   "weekday": "Sun",
+   "official_upload_title": "Can Ahana Save the Amarnath Yatris?",
+   "youtube_id": "l4pRmW4AEdY",
+   "video_seconds": 1974,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 21,
+   "air_date": "2026-03-07",
+   "weekday": "Sat",
+   "official_upload_title": "Aryaman's Secret Past Unveiled",
+   "youtube_id": "_Z3sxIkmkF0",
+   "video_seconds": 2091,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); captions not read; caption lines checked at 04:16, 09:03, 10:18"
+  },
+  {
+   "episode": 22,
+   "air_date": "2026-03-08",
+   "weekday": "Sun",
+   "official_upload_title": "Ahana's Deadly Discovery",
+   "youtube_id": "pKbu_DL3pvk",
+   "video_seconds": 2275,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 23,
+   "air_date": "2026-03-14",
+   "weekday": "Sat",
+   "official_upload_title": "The Dragon Targets Radhika!",
+   "youtube_id": "-HByhfS2kRI",
+   "video_seconds": 2251,
+   "captions": "have",
+   "written_updates": [
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 24,
+   "air_date": "2026-03-15",
+   "weekday": "Sun",
+   "official_upload_title": "Aryaman Loves Ahana",
+   "youtube_id": "1iPD5R9Bb18",
+   "video_seconds": 2147,
+   "captions": "have",
+   "written_updates": [
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 25,
+   "air_date": "2026-03-21",
+   "weekday": "Sat",
+   "official_upload_title": "Ahana's Revenge Strikes Dimple",
+   "youtube_id": "tdQO0V2RvPk",
+   "video_seconds": 1952,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 26,
+   "air_date": "2026-03-22",
+   "weekday": "Sun",
+   "official_upload_title": "The Dragon Pearl's Secret Power",
+   "youtube_id": "29QxUSHsPS0",
+   "video_seconds": 2460,
+   "captions": "have",
+   "written_updates": [
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 27,
+   "air_date": "2026-03-28",
+   "weekday": "Sat",
+   "official_upload_title": "Ahana Unmasks Pinky's Fiancé",
+   "youtube_id": "OFDGnUVxuzQ",
+   "video_seconds": 2012,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 28,
+   "air_date": "2026-03-29",
+   "weekday": "Sun",
+   "official_upload_title": "Yaman's Arrival Flips the Script",
+   "youtube_id": "tVir1wIRMaU",
+   "video_seconds": 1801,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 29,
+   "air_date": "2026-04-04",
+   "weekday": "Sat",
+   "official_upload_title": "Bharni Falls to Ravish’s Wrath",
+   "youtube_id": "GKZI8pQDjWM",
+   "video_seconds": 1899,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 30,
+   "air_date": "2026-04-05",
+   "weekday": "Sun",
+   "official_upload_title": "Ahana’s Spooky Scheme",
+   "youtube_id": "P03S0y5We24",
+   "video_seconds": 2014,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 31,
+   "air_date": "2026-04-11",
+   "weekday": "Sat",
+   "official_upload_title": "Ahana Faces Dragon King",
+   "youtube_id": "iGX2VgZI5wo",
+   "video_seconds": 1672,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 32,
+   "air_date": "2026-04-12",
+   "weekday": "Sun",
+   "official_upload_title": "Today's Episode",
+   "youtube_id": "ArMyzaYhtPk",
+   "video_seconds": 1702,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 33,
+   "air_date": "2026-04-18",
+   "weekday": "Sat",
+   "official_upload_title": "Radhika Plots Against Ahana",
+   "youtube_id": "0u4VwMUPjrE",
+   "video_seconds": 2158,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 34,
+   "air_date": "2026-04-19",
+   "weekday": "Sun",
+   "official_upload_title": "The Dragon Conspiracy Unfolds",
+   "youtube_id": "sRZ-Jj9xdOM",
+   "video_seconds": 1888,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 35,
+   "air_date": "2026-04-25",
+   "weekday": "Sat",
+   "official_upload_title": "Aryaman Hands Divorce Papers",
+   "youtube_id": "c8_yfq5sUeU",
+   "video_seconds": 1653,
+   "captions": "have",
+   "written_updates": [
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 36,
+   "air_date": "2026-04-26",
+   "weekday": "Sun",
+   "official_upload_title": "Ahana's Revenge Awakens",
+   "youtube_id": "PbAWwWz35JY",
+   "video_seconds": 1862,
+   "captions": "have",
+   "written_updates": [
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 37,
+   "air_date": "2026-05-02",
+   "weekday": "Sat",
+   "official_upload_title": null,
+   "youtube_id": null,
+   "video_seconds": null,
+   "captions": "have (Colors Rishtey upload)",
+   "written_updates": [
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); caption track fetched 2026-11-11 from Colors Rishtey, opening read only",
+   "caption_source": {
+    "channel": "Colors Rishtey",
+    "youtube_id": "snpcjxmimqg",
+    "title": "Pasha Pays a Surprise Visit at Aryaman's Wedding | Full Ep - 37",
+    "video_seconds": 1468,
+    "fetched": "2026-11-11",
+    "note": "sister-channel upload; may be a different cut from the Colors TV upload"
+   }
+  },
+  {
+   "episode": 38,
+   "air_date": "2026-05-03",
+   "weekday": "Sun",
+   "official_upload_title": "Radhika’s Deadly Betrayal",
+   "youtube_id": "e3pqoNm4mj4",
+   "video_seconds": 2066,
+   "captions": "have",
+   "written_updates": [
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 39,
+   "air_date": "2026-05-09",
+   "weekday": "Sat",
+   "official_upload_title": "Ahana's Revenge Begins",
+   "youtube_id": "l8JzdTFQ3_8",
+   "video_seconds": 1924,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 40,
+   "air_date": "2026-05-10",
+   "weekday": "Sun",
+   "official_upload_title": "Apara's Hidden Naagin Past",
+   "youtube_id": "7H5SDhws76o",
+   "video_seconds": 1982,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 41,
+   "air_date": "2026-05-16",
+   "weekday": "Sat",
+   "official_upload_title": "Radhika's Hidden Agenda",
+   "youtube_id": "DN0gGUsFWRY",
+   "video_seconds": 2026,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 42,
+   "air_date": "2026-05-17",
+   "weekday": "Sun",
+   "official_upload_title": "Apara Is Rescued",
+   "youtube_id": "OdhDXNoONKg",
+   "video_seconds": 1524,
+   "captions": "have",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 43,
+   "air_date": "2026-05-23",
+   "weekday": "Sat",
+   "official_upload_title": "Apara Regains Her Lost Memory",
+   "youtube_id": "m71uFhf-lnM",
+   "video_seconds": 1582,
+   "captions": "have (Colors Rishtey upload)",
+   "written_updates": [
+    "tellyreviews",
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyReviews recap read in full (canon/SEASON.md); caption track fetched 2026-11-11 from Colors Rishtey, opening read only",
+   "caption_source": {
+    "channel": "Colors Rishtey",
+    "youtube_id": "mFSF4d0ePJg",
+    "title": "Radhika Comes Looking For Apra At Her House | Full Ep - 43",
+    "video_seconds": 1601,
+    "fetched": "2026-11-11",
+    "note": "sister-channel upload; may be a different cut from the Colors TV upload"
+   }
+  },
+  {
+   "episode": 44,
+   "air_date": "2026-05-24",
+   "weekday": "Sun",
+   "official_upload_title": "Apara's Bold Plan to Find Nagmani",
+   "youtube_id": "cJgHXFIvLh4",
+   "video_seconds": 2202,
+   "captions": "have (Colors Rishtey upload)",
+   "written_updates": [
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); caption track fetched 2026-11-11 from Colors Rishtey, read 02:48-13:19 only",
+   "caption_source": {
+    "channel": "Colors Rishtey",
+    "youtube_id": "Rf2m1RdOfdc",
+    "title": "Apra Gets to Know the History Of Her Long Lost Family | Full Ep - 44",
+    "video_seconds": 1932,
+    "fetched": "2026-11-11",
+    "note": "sister-channel upload; may be a different cut from the Colors TV upload"
+   }
+  },
+  {
+   "episode": 45,
+   "air_date": "2026-05-30",
+   "weekday": "Sat",
+   "official_upload_title": "First Rescue, Then Revenge!",
+   "youtube_id": "ycNPpgDPrhQ",
+   "video_seconds": 2045,
+   "captions": "have",
+   "written_updates": [
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 46,
+   "air_date": "2026-05-31",
+   "weekday": "Sun",
+   "official_upload_title": "Apara Plots against Radhika",
+   "youtube_id": "WgRqf0QjCCo",
+   "video_seconds": 1974,
+   "captions": "have",
+   "written_updates": [
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 47,
+   "air_date": "2026-06-06",
+   "weekday": "Sat",
+   "official_upload_title": "Naagin's Quest for Revenge",
+   "youtube_id": "FEjPKyrHDmU",
+   "video_seconds": 1427,
+   "captions": "have",
+   "written_updates": [
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); captions not read"
+  },
+  {
+   "episode": 48,
+   "air_date": "2026-06-07",
+   "weekday": "Sun",
+   "official_upload_title": "The Battle for Naagmani",
+   "youtube_id": "MIv4VJbLm9M",
+   "video_seconds": 2092,
+   "captions": "have",
+   "written_updates": [
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); captions not read; caption lines checked at 19:56"
+  },
+  {
+   "episode": 49,
+   "air_date": "2026-06-13",
+   "weekday": "Sat",
+   "official_upload_title": "The Naagvansh in Danger",
+   "youtube_id": "1CWtUtNG2Uw",
+   "video_seconds": 1900,
+   "captions": "have",
+   "written_updates": [
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); captions not read; caption lines checked at 27:46"
+  },
+  {
+   "episode": 50,
+   "air_date": "2026-06-14",
+   "weekday": "Sun",
+   "official_upload_title": "The Rise of Naagrani Ahana",
+   "youtube_id": "HfSHIsJDvJ8",
+   "video_seconds": 2186,
+   "captions": "have",
+   "written_updates": [
+    "tellyboosters"
+   ],
+   "read_status": "digest: TellyBoosters recap read in full (canon/SEASON.md); captions not read; caption lines checked at 03:57, 07:39, 25:52"
+  }
+ ],
+ "note_read_depth": "Episode 1: full captions, one recap, stills of the whole episode, beat ledger. Episodes 2-8: one recap each in full; Episode 7 also from its whole caption track; caption passages in 5, 6 and 8. Episodes 9-50: one recap each in full; Episode 19 from its whole caption track instead; caption lines checked where a ruling rests on them. All 50 episodes have a caption track as of 2026-11-11 (37, 43, 44 from Colors Rishtey). No episode after the first has a beat ledger. Updated 2026-11-11."
+}

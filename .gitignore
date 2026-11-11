@@ -1,0 +1,7 @@
+# The raw record stays in the workshop and is never published.
+captions/
+canon/sources/
+canon/frames/
+__pycache__/
+*.pyc
+*.zip
