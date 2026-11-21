@@ -1,4 +1,4 @@
-> **Partial Drive update — please read first.** The current rebuilt draft chapters 1–9 (two parts each) and selected project records (`REBUILD.md`, `HISTORY.md`, `OPEN.md`, and `foundation/BUTTERFLY.md`) have been retrieved from Drive. These drafts are not marked accepted. The older repository text below and other files have not been fully updated and may describe superseded story states. Chapters after 9 and the complete current workshop have **not** yet been reliably reconstructed or synced; do not treat this repository as a complete current snapshot. Previous chapter versions remain in Git history.
+> **Partial Drive update — please read first.** The current rebuilt draft chapters 1–10 (two parts each), `REBUILD.md`, `HISTORY.md`, `OPEN.md`, and `foundation/BUTTERFLY.md` were retrieved from Drive. Drafts are not marked accepted. [Historical project files and earlier drafts](archive/README.md) are preserved separately and are not the current rebuild. Other root files may describe superseded states. A complete current workshop and Chapters 21–23 and 25–28 have not been verified or synced.
 
 # Naagin 7 — The Shesh Naag
 

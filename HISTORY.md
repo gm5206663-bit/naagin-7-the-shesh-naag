@@ -3896,3 +3896,80 @@ superseded whole-Ch9 ×2 (1Hk7BxmlgAzv9Zij3RruHZGyu9L-l4Cqg,
 1FiaAtxavSrb4TEBI6kCp6wxrH19nMyGS) + HISTORY
 (1gIraQzmFsf74ZJP6bsMyY8CQz5pY9gk9) + REBUILD
 (1RhyrpGsHlk5ZgIEB77fPqtOjYW6XivOl) trashed after the new heads verified.
+## §201 — TRUE REBUILD: Chapter 10 re-derived fresh (Parts 1 + 2), marked REBUILT (2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only ship. This
+chapter stood as two draft halves with stale wholes beneath them on the
+Drive; both halves re-derived cue by cue against the raw track and rebuilt
+in place from the derived spine — 39 proved pairs, two fresh footers, no
+sentence inherited unexamined. Part 1 = B01–B13 (the arrival to Arjun's ask)
++ TITLES; Part 2 = B14–B17 (the box to the fall) + the bridge. Split law
+holds: shared TITLES, per-half footers + SPLIT rows, figures measured not
+inherited, bridge with Part 2 (dialogue-free, Ch8 template), clean cut at
+B13|B14 — the bench stays Part 1's; the lane opens Part 2.
+
+READ: captions/E04.hi.txt L1–L42 read cue by cue (00:04–13:56, 42 blocks,
+27 with a marker, 25/2 per half); the full TellyReviews E04 recap, which
+alone carries the pull, the thread and the change; beats B01–B17. Rulings
+recorded during the cycle, pre-write: five declared ASR repairs (*bevs* to
+*babes*, *fraud* to *saaf*, *bem* to *be-man*, *chairs* to *cheers*,
+*batti* to Bharani) with micro-repairs (*Den*/*Then*, *fully*, *pehna*,
+*lao*, *Magar*, *ke*, *under control*); the congratulations re-speakered
+to Tina per the beats; the spectacles re-speakered to Tina and Roma on the
+vocatives; Karan's aside to Aryaman about Vihaan, tail a cutoff; the
+stepmother's relation and name both withheld per the book's rollout; two
+mangled tails and three stray fragments struck, unguessed. No new
+butterflies, no new OPEN rows; BF-12, BF-13, BF-14, BF-62, BF-63 paid,
+BF-86 bent twice. DERIVE (spines on REBUILD row 10): the pull substituted
+whole with no show line moved; the L19 pull-commentary struck as its
+consequence; the voice's one line added per §9.3; her uptake at *hum
+naaginon* added per the beats; the *meri marzi* echo struck — the track
+ends on her flat report.
+
+P1, load-bearing fixes: *pretty* for *lovely* at the door and in the lane;
+the Vikram call re-speakered with *babes*; *fully*; the cutoff tail kept;
+Karan's spotlight jibe restored; the warning whole with Tina named; L11
+restored whole; *Wo bhi yahin tha* restored; *Aapne*/*saaf*; the *100%*
+sentence restored; Parmeet's line to Tina's father; *rishta* for *bandhan*;
+Purvi's dismissal restored; Ravish's cut-in restored; *O, one second*
+restored; the exit lines restored; the summons in order with *Unhein*; the
+plea singular; the sung line; Karan's aside; *achha* for *badhiya* twice;
+the *bura* exchange bent and added; the Ravish question added; the L25
+phone beat; the three cries; the mother's explanation; the hanging
+questions; *Cheers*; *under control*. P2: the stumble-call in order; the
+box exchange in order; two women for two men; the falter; the joined
+address; *Kaam?* struck; B17 in the track's order; *Saaf-saaf* and *Mera
+Ravish sir* restored; the witnessed kiss restored; the invented Q&A struck
+whole; the door drawn to; the dialogue precap struck whole and the bridge
+written without speech. Struck throughout: *Jai*, *Baat.*, *Ram*, *Arya*,
+the *bete-ko* completion, the *darwaza* reply, the double-used *Main
+bhabhi?*, *Bhaiya-ki-shaadi*/*sirf-kaam*, the cap reply, the fussing, the
+B13 *Thank you*, the hand-taking, the lane excuse, *Deep. Aaj. Abhi.*,
+*Ravish sir?*, *Yeh sach hai*, *Tum kya karengi* and the echo. *Anant ki
+piye* kept verbatim, beats-cited, meaning unresolved. Ledger amended with
+cause, local: WORLD's after-Ch10 checkpoint rewritten against the rebuilt
+page — its unasked skin, its asking *bhabhi*, its hand, its turned back
+and its unsaid name were three builds old, and it never recorded the ask,
+the photographs, the ten minutes, the second leak or the door.
+
+Gates: per-half battery green (P1 picture 13 scenes 0 SHORT; camera green
+with no advisories, 150 of 303 paragraphs, 7,612 words; oc green, twelve
+scenes, seventeen quotations, three owned silences; gap 24/24 with 05:23
+owned as BF-13's substitution; thread 12/13 = 92%; dialogue 24/24; P2
+picture 3 scenes 0 SHORT; camera green with a non-fatal N3 40% advisory,
+26 of 65 paragraphs, 1,399 words; oc green, two scenes, three quotations,
+one owned silence; gap 6/6; dialogue 6/6; thread 2/3 = 67% fenced, at the
+chapter floor; beat, score, eyes, address, ripple, butterfly, money green;
+said-count zero in both halves); check.py exit 0 with the final GREEN and
+zero RED/FAIL across the battery; DESK 8.3/10. Drafts, unaccepted.
+Episode 4 stands open at 13:56 for Chapter 11.
+
+Ship (O084): Part 1 / Part 2 new heads
+1T4Y4PonXv2hrE1loAg2KuGSjlHM8pCyD / 1woy98J4-4jU1-z8yFVhaTGIAcnc5y3pd
+(54,157 / 16,515 B, md5-verified); HISTORY + REBUILD re-shipped;
+superseded Ch10 ×6 (1sW5hlNLMYPseSZGjWnv9mqBiqa0lRjek,
+1AJ-rA2MtYrXvljsD7rztwmtZCGt_1kZV, 1InlR6FI4VcMtQMDLgvv5cbLmb0ntyBEH,
+1AtcCzCwraIch8XGpu0M-lrXj4MsXY5Oc, 1dc9yf4EmkQX7z-USrz33IzfUGLgNxpQ6,
+1Ks7eEfFVYEbSXifL0OE5fPGQ0gwq5Jv6) + HISTORY
+(11m7SiI8FAe68iBzj6JaFe1FrcjB8nLTW) + REBUILD
+(1u5g2jD4ZJtFxuAsBoWFH-nIdhy587awF) trashed after the new heads verified.
