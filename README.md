@@ -1,5 +1,7 @@
 > **Partial Drive update — please read first.** The current rebuilt draft chapters 1–10 (two parts each), `REBUILD.md`, `HISTORY.md`, `OPEN.md`, and `foundation/BUTTERFLY.md` were retrieved from Drive. Drafts are not marked accepted. [Historical project files and earlier drafts](archive/README.md) are preserved separately and are not the current rebuild. Other root files may describe superseded states. A complete current workshop and Earlier drafts of Chapters 20–23 were recovered from a November 18 snapshot; Chapters 25–28 have not been located. No complete current workshop has been verified.
 
+> **Validation:** The repository is a partial recovery, not a verified working workshop. The inherited `tools/check.py` exits nonzero on this mixed tree (including historical archive files, missing raw/beat files, and an older camera rule); its results must not be interpreted as a clean current-workshop validation.
+
 # Naagin 7 — The Shesh Naag
 
 **Owns: the way in, and where the stored material is on Drive.** One screen, then follow the pointers.
