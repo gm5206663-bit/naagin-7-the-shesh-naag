@@ -42,13 +42,19 @@ Two of them get hold of him.
 
 His arm comes up, and his finger finds the girl by the passage door.
 
-"Sir, ye file Aryaman sir ki — woh." His voice drops, and the drop is worse. "Yehi ladki hai. Yehi ichchhadhari naagin hai. Haan, yehi hai. Dekha hai maine. Isne abhi-abhi apni kechuli nikaali hai. Roop bhi badla hai. Ye hum sabko maar degi. Please humein bacha lo."
+"Sir, ye file Aryaman sir ki — woh." His voice drops, and the drop is worse.
 
-Nobody moves in the room.
+"Yehi ladki hai. Yehi ichchhadhari naagin hai. Haan, yehi hai. Dekha hai maine. Isne abhi-abhi apni kechuli nikaali hai. Roop bhi badla hai. Ye hum sabko maar degi. Please humein bacha lo."
 
-"Ye ladki kaun hai?" Parmeet says. "Mere ghar mein staff bina bataye kab se aane laga?"
+Nobody moves in the room, with fear.
 
-"Sir, sir, mujhe lagta hai kuch confusion hai." Purvi's voice is very quiet. "Hum toh jeete-jaagte insaan hain. Aapke saamne khade hain. Hum naagin kaise ho sakte hain?"
+"Ye ladki kaun hai?" Parmeet says.
+
+"Mere ghar mein staff bina bataye kab se aane laga?"
+
+"Sir, sir, mujhe lagta hai kuch confusion hai." Purvi's voice is very quiet.
+
+"Hum toh jeete-jaagte insaan hain. Aapke saamne khade hain. Hum naagin kaise ho sakte hain?"
 
 "Tum naagin ho." Rajat does not blink. "Tum naagin ho."
 
@@ -58,11 +64,15 @@ Nobody moves in the room.
 
 The room laughs.
 
-"Vihaan." Parmeet says it from the side table, with his glass still in his hand. "Teri report?"
+"Vihaan." Parmeet says it from the side table, with his glass still in his hand.
+
+"Teri report?"
 
 The room turns. Purvi's head comes up.
 
-"Koi naagin nahin hai." Vihaan says it from the garden door, in a voice with nothing in it. "Do din. Jo mila, woh report mein hai. Report aapke table pe hai. Koi naagin nahin hai."
+"Koi naagin nahin hai." Vihaan says it from the garden door, in a voice with nothing in it.
+
+"Do din. Jo mila, woh report mein hai. Report aapke table pe hai. Koi naagin nahin hai."
 
 "Aur yeh?" Parmeet's glass moves an inch toward Rajat, held at the door.
 
@@ -70,23 +80,29 @@ The room turns. Purvi's head comes up.
 
 "Toh hum khabar band kar dein?"
 
-"Khabar band karne ki zaroorat nahin," he says. He comes in off the step, and puts both hands in his pockets. "Khabar yeh hai ki ek aadmi ne apni aankhon se kuch dekha. Woh khabar hum chalayenge. Naam naagin ka nahin hoga."
+"Khabar band karne ki zaroorat nahin," he says. He comes in off the step, and puts both hands in his pockets.
+
+"Khabar yeh hai ki ek aadmi ne apni aankhon se kuch dekha. Woh khabar hum chalayenge. Naam naagin ka nahin hoga."
 
 Parmeet looks at his son for a long moment over the rim of his glass.
 
-"Achha." He sets the glass down. "Kal subah toh aana mere paas. Saath file ke. Aur Vihaan — tu ek hafte se is ghar mein sabse zyada bol raha hai. Ab tu is ghar mein sabse zyada sunega."
+"Achha." He sets the glass down.
+
+"Kal subah toh aana mere paas. Saath file ke. Aur Vihaan — tu ek hafte se is ghar mein sabse zyada bol raha hai. Ab tu is ghar mein sabse zyada sunega."
 
 "Ji."
 
-Purvi stands in the middle of the drawing room with the file against her chest and her mouth open, and nothing comes out of it.
+Purvi stands in the middle of the drawing room with the file against her chest and her mouth open, and nothing comes out of it, with shock.
 
 The scare drops off Rajat's face, and he laughs, and he is enjoying himself too much.
 
-"Oh my God." He has his hands on his knees now. "Ye kya, aapne naagin-shagin laga ke rakha hai? Main toh sochta tha ki aap ameer log thode se crazy hote ho. Par aaj toh maine dekh hi liya. Sach mein crazy hote hain. Main toh bas yahan pe thode se paise ke liye aaya tha. Lekin aap dono ko dekh ke meri hansi control hi nahin ho rahi hai."
+"Oh my God." He has his hands on his knees now.
+
+"Ye kya, aapne naagin-shagin laga ke rakha hai? Main toh sochta tha ki aap ameer log thode se crazy hote ho. Par aaj toh maine dekh hi liya. Sach mein crazy hote hain. Main toh bas yahan pe thode se paise ke liye aaya tha. Lekin aap dono ko dekh ke meri hansi control hi nahin ho rahi hai."
 
 "Uncle, aap toh bura hi maan rahe hain," his companion says, with his hand out.
 
-"Hans-hans ke kahin tera heart attack na ho jaye."
+"Hans-hans ke kahin tera heart attack na ho jaye.", the score sounding under the joking (m07:52).
 
 "Uncle. Hisaab kar diya gaya hai aapka paisa. Lena hai ya dena hai," Vihaan says from the garden door.
 
@@ -111,7 +127,9 @@ Outside, the drive is full of white cars with their noses to the wall in the las
 
 The men have Rajat on the gravel between them, and he is not laughing now.
 
-"Main keh raha hoon — woh naagin hai!" He twists round. "Kisi se bhi poochh lo!"
+"Main keh raha hoon — woh naagin hai!" He twists round.
+
+"Kisi se bhi poochh lo!"
 
 "Ghar jao," one of them says, and pushes him. "Ghar jao aur so jao."
 
@@ -121,7 +139,9 @@ The men come back up the drive. They go past a young man in a dark shirt at the 
 
 "Woh kaun tha?" he says.
 
-"Rajat. Woh peeta hai." The man shrugs with one shoulder. "Keh raha hai ghar mein naagin hai."
+"Rajat. Woh peeta hai." The man shrugs with one shoulder.
+
+"Keh raha hai ghar mein naagin hai."
 
 The other one laughs. They go in.
 
@@ -145,19 +165,23 @@ His jaw goes tight at the corner, and his breath comes short, and his hand is li
 
 "Chashma," Vihaan says to the spectacles.
 
-"Naye hain." Purvi turns them over. "Didi ne banwa diye. Maine lunch time pe pehne, aur poori duniya usmein bohot zyada awaaz kar rahi thi."
+"Naye hain." Purvi turns them over.
+
+"Didi ne banwa diye. Maine lunch time pe pehne, aur poori duniya usmein bohot zyada awaaz kar rahi thi."
 
 "Tumne utaar diye," he says.
 
-"Maine utaar diye." She puts them in her bag. "Bahut ajeeb din hai, sir."
+"Maine utaar diye." She puts them in her bag.
+
+"Bahut ajeeb din hai, sir."
 
 Behind her, Parmeet's voice comes out of the drawing room, mild and even: "Vihaan. Andar aao."
 
-Vihaan goes past her. At the door of the drawing room he stops and looks back. She is still standing in the middle of the hall with the bag hanging off her hand at her side. Then the door shuts behind him.
+Vihaan goes past her. At the door of the drawing room he stops and looks back, with reluctance. She is still standing in the middle of the hall with the bag hanging off her hand at her side. Then the door shuts behind him.
 
 Down at the gate a taxi stands with its engine running, and a man gets into it, and another man gets in after him.
 
-"Excuse me, suniye." The first one leans forward. "Woh Parmeet Suri ka cabin kahan hai?"
+"Excuse me, suniye.", the score sounding under the asking (m09:00, first of two). The first one leans forward. "Woh Parmeet Suri ka cabin kahan hai?", the score sounding under the seeking (m09:00, second of two).
 
 The driver pulls out toward the main road.
 
@@ -194,7 +218,7 @@ The man looks at him for a while.
 
 He peels the tape off, and Rajat's mouth comes open, and nothing comes out of it but air.
 
-Rajat is looking at him and not at anything else.
+Rajat is looking at him and not at anything else, with terror.
 
 He puts a bottle of water in beside him.
 
@@ -213,13 +237,17 @@ A load of pipes has come off the back of it and gone along the road in a scatter
 
 Two men stand at the edge of the field with a torch between them and look down into it.
 
-"Ye isi laayak tha." One of them puts the torch beam on the shape in the grass. "Humne ise nahin maara, toh maut ne ise maar diya."
+"Ye isi laayak tha." One of them puts the torch beam on the shape in the grass.
+
+"Humne ise nahin maara, toh maut ne ise maar diya."
 
 The two men walk back to the lorry, and their voices go under the bonnet and stop.
 
 "Ab Ananta — matlab hamari Purvi ka kya hoga?"
 
-"Ab doosra kadam." The voice comes from behind the torch beam, and it belongs to none of the men. "Doosra kadam tab aayega jab Mahanaagrani ke shareer ka tap badhne lagega. Is avastha mein unki andar ki shaktiyaan poori tarah jaagrit hone lagengi. Mann aur tan dono se. Unki soch aur samajh itni gehri ho jayegi ki kisi bhi insaan se unki tulna karna asambhav ho jayega."
+"Ab doosra kadam." The voice comes from behind the torch beam, and it belongs to none of the men.
+
+"Doosra kadam tab aayega jab Mahanaagrani ke shareer ka tap badhne lagega. Is avastha mein unki andar ki shaktiyaan poori tarah jaagrit hone lagengi. Mann aur tan dono se. Unki soch aur samajh itni gehri ho jayegi ki kisi bhi insaan se unki tulna karna asambhav ho jayega.", the score sounding under the foretelling (m10:16).
 
 The torch beam comes up off the field and goes across the road to the bus shelter, where a woman sits alone with a bag on her knees.
 
@@ -231,7 +259,7 @@ The older one has white hair loose down her back and a lamp in her hand and a sh
 
 The younger one wears a man's shirt the colour of wet sand, and her hair is dragged back wet.
 
-She watches the bus shelter with her arms folded and her jaw set.
+She watches the bus shelter with her arms folded and her jaw set, with resolve.
 
 An hour ago she sits in the driver's seat of a car on the shoulder of this road, and she opens the dicky, and her voice is a man's voice, and the man in the boot believes every word of it.
 
@@ -242,7 +270,7 @@ The newsroom floor late in the evening, and half the desks dark and the rest goi
 
 Somebody has put a plant on her desk. Somebody else has stacked four more files on it, and the tray has a note on top that says before six in a hand she knows, and two men at the far end of the floor are arguing about a headline.
 
-Purvi comes in with the bag in both hands and stops.
+Purvi comes in with the bag in both hands and stops, with astonishment.
 
 The tray is empty.
 
@@ -252,15 +280,17 @@ Vihaan comes along the far side of the floor, stops at the duty desk to look at 
 
 The reports are gone. The presentation runs on the big screen with her name in the corner of the first slide and the sound off.
 
-"Ye kya hua?" She looks at the empty tray. "Saare files to chale gaye hain."
+"Ye kya hua?" She looks at the empty tray, with confusion. "Saare files to chale gaye hain."
 
 A girl goes past with a paper cup of coffee and looks at her twice.
 
-"O hello, sapne dekhne ka time nahin hai." The girl does not stop. "Boss tumhein dhoondh rahe hain. Jaldi se apna assignment complete karo. Vahan dekho."
+"O hello, sapne dekhne ka time nahin hai." The girl does not stop.
+
+"Boss tumhein dhoondh rahe hain. Jaldi se apna assignment complete karo. Vahan dekho."
 
 "Ye kya?" She is alone at the desk now. "Mujhe bina chashme ke sab kuch saaf dikhai de raha hai."
 
-"Kya gadbad kar rahe ho? Jao, kaam karo," the man at the next desk says without looking up.
+"Kya gadbad kar rahe ho? Jao, kaam karo," the score sounding under the rebuking (m11:32), the man at the next desk says without looking up.
 
 "Saara kaam ho gaya, sir."
 
@@ -272,11 +302,17 @@ Aryaman is coming through the floor with his jacket hanging off one hand. He sto
 
 At eleven that morning Aryaman tells the floor, pleasantly, that she will not last the day, and the floor agrees with him.
 
-"Ek hafte ka kaam ek din mein khatm kar diya." He takes the folder and opens it, and turns one page, and another, and the pages keep going. "Chashme mein dum toh hai."
+"Ek hafte ka kaam ek din mein khatm kar diya." He takes the folder and opens it, and turns one page, and another, and the pages keep going.
 
-"Sir, chashma nahin hai." She says it before she can stop herself. "Utaar diya hai maine chashma. Dikh raha hai mujhe sab. Aapko mail kar diye maine saare reports aur presentations. Ja rahi hoon ab main. See you."
+"Chashme mein dum toh hai."
 
-"Ruko." He closes the folder. "Jo aapke pehle din itna late ho gaya — maa toh bahut naraaz ho jayegi."
+"Sir, chashma nahin hai." She says it before she can stop herself.
+
+"Utaar diya hai maine chashma. Dikh raha hai mujhe sab. Aapko mail kar diye maine saare reports aur presentations. Ja rahi hoon ab main. See you.", the score sounding under the reporting (m11:53, first of two).
+
+"Ruko." He closes the folder.
+
+"Jo aapke pehle din itna late ho gaya — maa toh bahut naraaz ho jayegi.", the score sounding under the needling (m11:53, second of two).
 
 "Sir?"
 
@@ -291,7 +327,9 @@ The Circle road at half past nine at night, and the last bus standing at the ker
 
 Purvi comes round the corner at a run with her bag banging on her hip, and the door shuts as she gets there, and the bus pulls out.
 
-"Are, mere Shiv ji, ye kya kar diya!" She stands in the road with her hand out. "Bus chhut gayi. Ye toh aakhri bus thi."
+"Are, mere Shiv ji, ye kya kar diya!" She stands in the road with her hand out, with dismay.
+
+"Bus chhut gayi. Ye toh aakhri bus thi."
 
 The bus stops forty metres on. The door opens. The conductor leans out.
 
@@ -301,7 +339,9 @@ The bus stops forty metres on. The door opens. The conductor leans out.
 
 "Thoda bhaag ke aana." He laughs. "Thak gayi?"
 
-"Thodi der ruk jaate." She is not laughing. "Aapko maloom hai na ki Connaught Circle se Purani Dilli jaane ki aakhri bus hai? Chhoot jaati toh?"
+"Thodi der ruk jaate." She is not laughing.
+
+"Aapko maloom hai na ki Connaught Circle se Purani Dilli jaane ki aakhri bus hai? Chhoot jaati toh?"
 
 "Chalaiye, chalaiye — late ho gaye already." He bangs the rail. "Jai Hanuman gyaan gun saagar, jai kapees tihun lok ujaagar — Ram doot atulit bal dhaama, Anjani putra Pavan sut naama."
 
@@ -315,9 +355,11 @@ Her face is in the bus window as it goes past. She stares out past him at nothin
 
 "Yahin paas mein toh. Circle paas mein."
 
-"Yahan se aath kilometre door hai." He turns round. "Aur tum aath minute mein pahunch gayi? Bus se bhi tez bhaag ke bus pakad li. Hai, sachchi?"
+"Yahan se aath kilometre door hai." He turns round.
 
-Purvi looks at her own hands.
+"Aur tum aath minute mein pahunch gayi? Bus se bhi tez bhaag ke bus pakad li. Hai, sachchi?"
+
+Purvi looks at her own hands, with wonder.
 
 He holds his palm out for the fare without stopping the song, and she pays, and he sings on.
 
@@ -328,7 +370,9 @@ The bus goes on through the lit street, and the conductor goes back up the aisle
 
 The empty street past the last bus stop at midnight, and the lamps on all down it, and nobody under them but her.
 
-"Ye sab ho kya raha hai?" She says it to the empty street. "Mujhe bina chashme ke dikhne lag gaya. Mera bukhaar bhi utar gaya. Meri skin bhi theek ho gayi hai. Aur ab main aath kilometre, aath minute mein daud ke aa gayi. Kahin main superwoman toh nahin ban gayi hoon?"
+"Ye sab ho kya raha hai?" She says it to the empty street.
+
+"Mujhe bina chashme ke dikhne lag gaya. Mera bukhaar bhi utar gaya. Meri skin bhi theek ho gayi hai. Aur ab main aath kilometre, aath minute mein daud ke aa gayi. Kahin main superwoman toh nahin ban gayi hoon?"
 
 The Naag Mandir stands at the top of eight steps with every lamp in it burning straight.
 
@@ -344,25 +388,29 @@ Purvi turns round once, and there is nobody at the door.
 
 "Ye aapki pehli kechuli hai." Uttara comes out between the lamps with her white hair loose. "Jaanti ho, Bharani?"
 
-"Main—" Purvi's hand goes to her own throat. "Mera naam Purvi hai."
+"Main—" Purvi's hand goes to her own throat, with panic. "Mera naam Purvi hai."
 
-"Bharani." The old woman says it again, and it is not a correction. "Anant kul ka bahut ehsaan hai hum par. Anant kul ki naaginon mein Sheshnaag ka ansh hai. Isiliye hum sab naag-naagin Anant kul ki naaginon ko bahut maante hain."
+"Bharani." The old woman says it again, and it is not a correction.
+
+"Anant kul ka bahut ehsaan hai hum par. Anant kul ki naaginon mein Sheshnaag ka ansh hai. Isiliye hum sab naag-naagin Anant kul ki naaginon ko bahut maante hain."
 
 The lamps lean and stand straight. In the corner where the light does not go, something lets out a hiss — dry, unhurried, close to the floor — and both women look at the corner at once, and the corner has nothing in it but a brass bowl and its shadow.
 
 "Toh hum Naagrani Ananta ko bata kyun nahin deti?" The second voice comes from the dark behind the throne, and it is younger. "Ki woh ichchhadhari naagin hamari Maharani hai?"
 
-"Ye itna aasaan nahin hai, Bharani." Uttara's lamp comes up. "Ananta ne chaubees saal tak ek insaan ki tarah jindagi ji hai, aur ab use achanak pata chale ki woh naagin — Mahanaagin hai — toh kaise sambhaalegi woh apne aap ko? Isliye humein unke paas unke saaye ki tarah rehna hoga."
+"Ye itna aasaan nahin hai, Bharani." Uttara's lamp comes up.
+
+"Ananta ne chaubees saal tak ek insaan ki tarah jindagi ji hai, aur ab use achanak pata chale ki woh naagin — Mahanaagin hai — toh kaise sambhaalegi woh apne aap ko? Isliye humein unke paas unke saaye ki tarah rehna hoga."
 
 "Kaun ho aap log?" Purvi's voice does not carry far. "Kya ho raha hai mere saath ye? Kar kya raha hai mera shareer?"
 
 "Baitthiye." The old woman puts her lamp down on the step of the throne. "Aur suniye."
 
-"Rishi Kashyap ki pehli patni Kadru. Maa thi woh hazaar naagon ki. Unhone Rishi Kashyap ki doosri patni Vinasha ko chhal se paanch sau saal tak apni daasi bana ke rakha tha. Is chhal mein Sheshnaag aur unke kuch bhaiyon ko chhod kar, saare saanpon ne Kadru ka saath diya."
+"Rishi Kashyap ki pehli patni Kadru. Maa thi woh hazaar naagon ki. Unhone Rishi Kashyap ki doosri patni Vinasha ko chhal se paanch sau saal tak apni daasi bana ke rakha tha. Is chhal mein Sheshnaag aur unke kuch bhaiyon ko chhod kar, saare saanpon ne Kadru ka saath diya.", the score sounding twice over the telling (m14:02 + m14:42 as one).
 
-The hall goes quiet enough to hear the lamps. Purvi sits down on the cool stone with her bag against her knees, and under the lamp the skin at the inside of her wrist has lifted a little, a corner of it, the way a label lifts off a bottle. She looks at it and does not touch it.
+The hall goes quiet enough to hear the lamps. Purvi sits down on the cool stone with her bag against her knees, and under the lamp the skin at the inside of her wrist has lifted a little, a corner of it, the way a label lifts off a bottle. She looks at it and does not touch it, with dread.
 
-"Jab Vinasha ke putra Garud ka janm hua, aur unhein apni maa ke saath kiye hue chhal ka pata chala, toh badla lene ke liye unhone saare saanpon ka sanhaar shuru kar diya."
+"Jab Vinasha ke putra Garud ka janm hua, aur unhein apni maa ke saath kiye hue chhal ka pata chala, toh badla lene ke liye unhone saare saanpon ka sanhaar shuru kar diya.", the score sounding under the avenging (m14:42, second of two).
 
 "Aur tab Anant kul ke Sheshnaag Bhagwan Vishnu ke sharan mein gaye."
 
@@ -370,7 +418,9 @@ The hall goes quiet enough to hear the lamps. Purvi sits down on the cool stone 
 
 Uttara lifts her hand, and the shadow of her hand goes up the pillar and over the carved hoods.
 
-"Mujhe ye sab nahin jaanna." Purvi's voice is quiet, and it does not shake. "Jaanna hai mujhe ki kar kya raha hai mera shareer. Dekh rahi thi main aaj subah bina chashme ke. Daud ke aayi hoon main aath kilometre aaj raat. Meri skin—" She turns her forearm over.
+"Mujhe ye sab nahin jaanna." Purvi's voice is quiet, and it does not shake.
+
+"Jaanna hai mujhe ki kar kya raha hai mera shareer. Dekh rahi thi main aaj subah bina chashme ke. Daud ke aayi hoon main aath kilometre aaj raat. Meri skin—" She turns her forearm over.
 
 The lamps are behind her forearm now, and the light comes through the edge of the lifted skin, and it is thin and dry and it is not her colour.
 
@@ -378,13 +428,15 @@ The lamps are behind her forearm now, and the light comes through the edge of th
 
 Uttara looks at her for a long moment.
 
-"Chaar charan hote hain," she says. "Teen poore ho chuke. Chautha aakhri hai, aur chautha aapke ghante ka hai — aapke janamdin ke aakhri ghante ka. Ye kechuli aapki pehli hai, iska matlab ye hai ki aapka shareer ab apna purana roop chhod raha hai."
+"Chaar charan hote hain," she says.
+
+"Teen poore ho chuke. Chautha aakhri hai, aur chautha aapke ghante ka hai — aapke janamdin ke aakhri ghante ka. Ye kechuli aapki pehli hai, iska matlab ye hai ki aapka shareer ab apna purana roop chhod raha hai."
 
 "Matlab ye ki nikal raha hai aapke shareer se woh jo hain aap." She puts her hand out and does not touch her. "Dheere dheere. Dard ke saath. Aur jab poora nikal jaayega, tab aap woh hongi jo aap pehle thi."
 
 "Pehle main kaun thi?"
 
-"Anant kul ki beti." The old woman's eyes are wet and she does not wipe them. "Aapke ghar ne aapko chaubees saal ke liye udhaar diya tha, Maharani. Aaj se woh udhaar wapas le raha hai."
+"Anant kul ki beti." The old woman's eyes are wet and she does not wipe them, with grief. "Aapke ghar ne aapko chaubees saal ke liye udhaar diya tha, Maharani. Aaj se woh udhaar wapas le raha hai."
 
 Purvi looks at the throne at the end of the hall, with the cloth over it and the brass bowl of red on its step. She looks at it for long enough that the lamps seem to lean toward it, and for a moment the cloth has a shape under it that the cloth does not have when she blinks.
 
@@ -431,7 +483,7 @@ This half is the afternoon into the midnight of Episode 3, in the episode's own 
     RIPPLED: none — R-01 to R-04 read against this half's prose (`foundation/RIPPLE.md`): no love slot touched
               (R-01); the pull unplayed (R-02 — the hall feeling stays unknowing, and the window keeps it); he is
               not silenced (R-03 — he speaks in the house and on the porch, and the two mute scenes are owned on
-              `SILENT:`); no romance scored (R-04 — score only where the track marks it, and the card once).
+              `SILENT:`); no romance scored (R-04 — score only where the track marks it, and the card once). Style pass 2026-11-22 re-read: R-01/R-02/R-03 stand as asserted (the hall feeling stays unknowing; the window keeps it; the two mute scenes owned on SILENT); R-04 stands — the score named is neutral (sounding/joking/avenging), every naming on a marker, the card's *roof off* untouched as the owned exception; his register untouched (hands in pockets, the garden door, the back seat).
     BASE:     Naagin 7, Episode 3, 06:51 to 15:43 of the official upload. Beats B08 to B16, in order, and the
               serial's own precap.
     VOICE:    Hindi dialogue, transliterated from the caption track, cue for cue, except the authored dialogue named
@@ -460,7 +512,7 @@ This half is the afternoon into the midnight of Episode 3, in the episode's own 
               crop with the lamp; the plant, the signed files and the big screen; the girl with the paper cup; the
               black car at the Circle lights; the fare paid without stopping the song; the shoes in her hand; the
               itch, the wrist-skin, the hiss twice, the shape under the throne-cloth, the knees and the cold; the
-              precap's lit window, tonic glass and running girl.
+              precap's lit window, tonic glass and running girl. Deep 2026-11-23: word-splits only; no line added, no aired text altered.
     SEEN:     On `O025` — the room turning as his father says his name, and Purvi's head coming up with it; and in
               the hall, a woman in the middle of the marble looking up at him with her spectacles in her fingers.
     ADDED:    **The report said out loud, kept (`BF-56`).** Canon gives the room no report, and Chapter 5's file is
@@ -531,4 +583,4 @@ This half is the afternoon into the midnight of Episode 3, in the episode's own 
               lit. The inserts that carry weight are the glass, the cloth, the file, the door, the bucket, the
               spectacles, the bag, the keys, the boot lamp, the tape, the bottle, the tray, the sheet, the paper
               cup and the rope. `tools/picture_check.py`: 7 counted scenes, 0 short (the precap stages, unfenced
-              from the picture, and carries the door, the glass and the bottle).
+              from the picture, and carries the door, the glass and the bottle). The style pass of 2026-11-22 names the score on ten markers in nine pairs (joking m07:52; asking + seeking m09:00; foretelling m10:16; rebuking m11:32; reporting + needling m11:53; telling m14:02+m14:42 as one; avenging m14:42), and names fear, shock, reluctance, terror, resolve, astonishment, confusion, wonder, dismay, panic, dread and grief where the still room, the open mouth, the look back, the stare, the set jaw, the stop, the empty tray, the hands, the out hand, the throat, the untouched skin and the wet eyes show them (laughs already stood; the hall feeling stays unknowing per R-02). The card at 08:32 carries no marker (its score-owning stands as the footered exception). The Dicky and Last Bus play unscored (no markers); the bridge keeps its §4 cue. No new string: nothing held asks for one. No tasha, no pair theme. Music-only and footered (5): 09:33, 09:45, 11:02, 11:27, 12:34. Battery: picture 7/7 ok; camera green; thread 5/6 green; butterfly/eyes/score-0/money/ripple/oc/beat green; dialogue 16/16; gap 17/17 (16 whole + PARTLY 09:00) + 12 music; rescan A6/C-new12 (pre-existing, unchanged — all sit on aired dialogue); check GREEN. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/scores/cues byte-identical; omens arc in-scene (Naagin glass held-aimed-lowered, knees-cloth brackets, doors bang-to-out, laughter rises-dies, report tabled-said-forward, denial-to-card; Porch Rajat held-to-mask-dropped, men out-and-back, file chest-to-hands, spectacles fingers-to-bagged, taxi out-back-off, door shuts; Dicky car waits-secret, dicky breathes once lamp-on-off, tape on-to-air, water in-to-rolling; Death beam dead-to-living, voices swallowed, lamp held-between; Week tray owed-to-clear, files stacked-to-signed, reports gone-to-running, folder up-taken-closed, floor mocks-to-indifferent; Bus door open-shut-open, bus out-to-relents, run-to-rest, song brackets, window kept; Kechuli lamps straight-leaning-out-moon, bell moves-to-rings, hiss twice closing-in, skin itch-to-proof, breathless-to-cannot-remember, warm-to-cold-inside, vow said-repeated); tissue chained (flower boxes land P1's sagai; report said from P1's table; Rajat runs P1's Terrace; glass-chain continues; pockets doubled; knees-cloth to hall; file through to hall hands; spectacles land P1's promise; gate open on Ch5's shut; shirt passes dicky-to-watcher; keys on Ch5's chain; first-sign to second-stage; two-women rhyme Ch2's gate; shelter to Last Bus; watcher becomes teller; initials sign silent; week's-work completes Ch6's listing; bagged sight to clear sight; jacket-walk rhymes P1; morning taunt remembered; Shiv-ji called; London call on Ch6's hour; eight-minutes phrase verbatim to temple; bell lands Ch6's precap; wrist lifts where Ch6 bruised; drawn throne stands; eights rhyme; sanctum moon on Ch6's); gravity is his conduct-and-owned-silences (report said flat, story set, laughter stopped cold at the money line; hall look held-and-left-reluctant; files signed-silent with his initials; car-window unlooked — the room steadies, she stands shocked, her tray empties, the window keeps); no new score, no new business.

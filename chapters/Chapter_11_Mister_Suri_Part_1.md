@@ -21,27 +21,47 @@ A drum, once. Mahadev's trishul is not shown, but the thunder is his. Then the s
 
 The lawn behind the side veranda, with the house's lights standing in its windows and the grass wet under both of them. Sheshnaag's hood is not shown, but the lawn feels like a temple that has forgotten its god.
 
-Purvi gets her elbow under her and sits up, and her sister's hands stay on her shoulders.
+Purvi gets her elbow under her and sits up.
 
-"Ek baar aur bata." Ananta's voice is very quiet. "Dhyan se. Jo tune dekha."
+Her sister's hands stay on her shoulders.
 
-"Ravish sir aur ek aurat." Purvi's mouth is dry. "Side veranda pe. Usne mujhe dekha aur bola — kaam hai, meri life hai, meri marzi."
+"Ek baar aur bata."
+
+Ananta's voice is very quiet.
+
+"Dhyan se. Jo tune dekha."
+
+"Ravish sir aur ek aurat."
+
+Purvi's mouth is dry.
+
+"Side veranda pe. Usne mujhe dekha aur bola — kaam hai, meri life hai, meri marzi."
 
 Ananta sits back on her heels and looks at the lit windows of the engagement.
 
-"Tu yahin baith." She gets up and pulls her dupatta straight. "Main abhi aati hoon."
+"Tu yahin baith."
+
+She gets up and pulls her dupatta straight.
+
+"Main abhi aati hoon."
 
 "Deep—"
 
 "Baith, Purvi."
 
-Purvi sits, and the grass is wet through her salwar, and her sister's heels go across the lawn toward the side of the house, and stop once, and go on.
+Purvi sits, and the grass is wet through her salwar.
 
-Ananta does not look back. That is the thing Purvi will remember about the walk: her sister does not look back at her, and does not slow down, and does not put her dupatta over her head, and goes round the corner of the house the way a woman goes into a room to settle something small.
+Her sister's heels go across the lawn toward the side of the house, and stop once, and go on.
+
+Ananta does not look back, with resolve.
+
+That is the thing Purvi will remember about the walk: her sister does not look back at her, and does not slow down, and does not put her dupatta over her head, and goes round the corner of the house the way a woman goes into a room to settle something small.
 
 Purvi gets up to follow, and her heel goes out from under her on the wet stone edging of the lawn.
 
-A hand is at her elbow before her knee reaches the ground, and it takes her weight and puts her back upright, and it is on her elbow a beat after that, and then it is not.
+A hand is at her elbow before her knee reaches the ground, and it takes her weight and puts her back upright.
+
+It is on her elbow a beat after that, and then it is not.
 
 Vihaan is standing there with his phone in his other hand and a call going on in it.
 
@@ -61,24 +81,38 @@ At the door he lets go of her elbow and stands back and lets her go in first, an
 
 "Haan." He is already talking into it. "Jahan chhoda tha."
 
-Purvi stands just inside the side door with her dupatta in her hand. She smiles small and wondering at the door he held for her, at the man who held it. Then the smile goes, because her sister went round the corner of the house to settle something small, and she crosses the passage and goes out the veranda way after her.
+Purvi stands just inside the side door with her dupatta in her hand. She smiles small and wondering at the door he held for her, at the man who held it.
+
+Then the smile goes, because her sister went round the corner of the house to settle something small, and she crosses the passage and goes out the veranda way after her.
 
 * * *
 ## He Goes to Say It for Her
 
 The veranda, with one bulb on over the door.
 
-A tray of glasses stands on the parapet with one glass left on it, and the ice in it has gone to water.
+A tray of glasses stands on the parapet with one glass left on it.
+
+The ice in it has gone to water.
 
 Vihaan comes out of the door behind them and stays in it with his hand on the frame and does not come down the steps.
 
 Ravish is at the far end of the veranda with his back to the wall and his glass in his hand.
 
-Ananta comes round the corner and stands in front of him, and she is smiling, and it takes a moment to see that the smile is a thing she has put on for the walk over.
+Ananta comes round the corner and stands in front of him.
 
-"Ravish." She keeps her voice down. "I am really sorry. Main tumse aisi baat poochhne ja rahi hoon, lekin wo Purvi ki galatfahmi door karna bahut important hai."
+She is smiling, and it takes a moment to see that the smile is a thing she has put on for the walk over.
 
-"Purvi ko lagta hai ki usne tumhein kisi ladki ke saath dekha." She looks at his face the whole time. "Mujhe pata hai ki tum mujhe dhokha nahi de sakte. Tum dhokha de hi nahi sakte mujhe. Hai na?"
+"Ravish."
+
+She keeps her voice down.
+
+"I am really sorry. Main tumse aisi baat poochhne ja rahi hoon, lekin wo Purvi ki galatfahmi door karna bahut important hai."
+
+"Purvi ko lagta hai ki usne tumhein kisi ladki ke saath dekha."
+
+She looks at his face the whole time.
+
+"Mujhe pata hai ki tum mujhe dhokha nahi de sakte. Tum dhokha de hi nahi sakte mujhe. Hai na?"
 
 Ravish drinks.
 
@@ -90,38 +124,58 @@ He turns back to Ananta. "To tum hi maan jao na."
 
 "Tumhari behen galat nahi keh rahi hai."
 
-Ananta's hand comes up to her own throat.
+Ananta's hand comes up to her own throat, with dread.
 
-"Main sach mein ek ladki ke saath tha." He turns the glass. "Iska matlab ye nahi hai ki maine kabhi tumhein chaha nahi."
+"Main sach mein ek ladki ke saath tha."
+
+He turns the glass.
+
+"Iska matlab ye nahi hai ki maine kabhi tumhein chaha nahi.", the score sounding under the denying (m14:35, first of three).
 
 * * *
 ## It Is Fun With You
 
 The far end of the veranda at the wall, in the light that comes out of the French windows and lies on the tiles behind them.
 
-A dish of ashtrays stands on the parapet, and every ashtray in it is full, and the dish has not been emptied all evening.
+A dish of ashtrays stands on the parapet.
+
+Every ashtray in it is full, and the dish has not been emptied all evening.
 
 Vihaan comes down the veranda for the dish of ashtrays, and he takes one look at the two of them at the wall, and he leaves the dish where it is and goes back in without a word.
 
-Ravish finishes his glass and puts it on the wall beside him, and the ice shifts in it, and he does not answer for long enough that Ananta's smile starts to go.
+Ravish finishes his glass and puts it on the wall beside him.
+
+The ice shifts in it, and he does not answer for long enough that Ananta's smile starts to go.
 
 The music from the hall comes round the corner of the house in pieces.
 
-"I like you." He says it to the lit window and not to her. "Kaafi tez taraar thi wo. It was fun with you."
+"I like you."
 
-Ananta does not move.
+He says it to the lit window and not to her.
 
-"Lekin tab tak, jab tak tum ye TV-shivi banne ke serious zone mein nahi aayi thi na." He drinks the last of it. "I loved your company. Magar ab you cheat."
+"Kaafi tez taraar thi wo. It was fun with you."
+
+Ananta does not move, with shock.
+
+"Lekin tab tak, jab tak tum ye TV-shivi banne ke serious zone mein nahi aayi thi na.", the score sounding under the sneering (m14:35, second of three).
+
+He drinks the last of it.
+
+"I loved your company. Magar ab you cheat."
 
 "Mera pyaar tumhare liye khel tha." He sets the glass down on the arm of a chair.
 
-"Maine tumse pyaar kiya." Her voice goes up and she brings it back down. "Maine tumse pyaar kiya aur tumne time pass kiya? Time pass kiya?"
+"Maine tumse pyaar kiya." Her voice goes up and she brings it back down. "Maine tumse pyaar kiya aur tumne time pass kiya? Time pass kiya?", the score sounding under the accusing (m14:35, third of three).
 
 "Ab tumhein jo karna hai kar lo." He says it without lifting the glass.
 
 Purvi comes forward from the steps. "Ek number ke gire hue aur ghatiya insaan ho tum. Pehle meri Didi ko pyaar mein phansaya, aur uske baad shaadi ke vaade se mukar rahe ho."
 
-"Shaadi, wo tumhari behen ke saath." He says it to Purvi. "I am done with—"
+"Shaadi, wo tumhari behen ke saath."
+
+He says it to Purvi.
+
+"I am done with—"
 
 Ravish smiles at that, and it is the smile of a man who has heard the sentence before and knows how it ends.
 
@@ -134,25 +188,41 @@ Her hand comes up and it comes fast.
 
 Aryaman's hand is there before it lands, and it closes round her wrist, and holds.
 
-"How dare you?" He does not raise his voice. "Ye kya harkat hai?"
+"How dare you?"
+
+He does not raise his voice.
+
+"Ye kya harkat hai?", the score sounding under the stopping (m15:29).
 
 "Chhodo—"
 
 "Ananta." He holds the wrist. "Andar. Sab log andar hain."
 
-Ananta goes, because he is holding her wrist and because the door is the only way out of that corner. The room inside has the family in it. Dimple on the sofa with her hands in her lap, Tina's father in the good chair, Arjun by the curtains, Karan standing, Vihaan at the edge of the carpet with a glass he has not raised, and Tina at the edge of it all with her plate still in her hand.
+Ananta goes, because he is holding her wrist and because the door is the only way out of that corner.
+
+The room inside has the family in it. Dimple on the sofa with her hands in her lap, Tina's father in the good chair, Arjun by the curtains, Karan standing, Vihaan at the edge of the carpet with a glass he has not raised, and Tina at the edge of it all with her plate still in her hand.
 
 Aryaman lets go of the wrist.
 
-"So." He looks from Ravish to Ananta and back. "Ravish — Ramesh — kya? Aage bolo. Kya kiya isne?"
+"So."
+
+He looks from Ravish to Ananta and back.
+
+"Ravish — Ramesh — kya? Aage bolo. Kya kiya isne?"
 
 Ananta pulls her dupatta straight and stands in the middle of the room and says it to the whole of them at once.
 
-"Usne cheat kiya hai mere saath." Her voice carries. "Main aur Ravish relationship mein the. Aur ab ye mujhse peecha chhudana chahta hai — kyunki main iske bacche ki maa banne waali hoon."
+"Usne cheat kiya hai mere saath."
 
-The room does nothing. The music from the hall goes on through the wall, one room away, with a dholak in it.
+Her voice carries.
 
-Dimple's hands come together in her lap and stay there. Tina's mother says *hai ram* under her breath and looks at her husband, and her husband looks at the carpet. One of the men by the sideboard puts his glass down on the tray and takes his hand away from it and puts both hands behind his back, and the tray is a boy's, and the boy stands still with the tray because nobody has told him what a boy with a tray does in a room this quiet.
+"Main aur Ravish relationship mein the. Aur ab ye mujhse peecha chhudana chahta hai — kyunki main iske bacche ki maa banne waali hoon."
+
+The room does nothing, with disbelief. The music from the hall goes on through the wall, one room away, with a dholak in it.
+
+Dimple's hands come together in her lap and stay there.
+
+Tina's mother says *hai ram* under her breath and looks at her husband, and her husband looks at the carpet. One of the men by the sideboard puts his glass down on the tray and takes his hand away from it and puts both hands behind his back, and the tray is a boy's, and the boy stands still with the tray because nobody has told him what a boy with a tray does in a room this quiet.
 
 Karan has not moved since the door opened. He is looking at his brother, and his face has nothing in it at all.
 
@@ -175,33 +245,57 @@ On the parapet somebody's dupatta lies where it fell, and the wind has worked on
 
 "Ise deni chahiye, aur kisko deni chahiye?" Ravish looks round the room. "Mujhe samajh mein nahi aa raha ki aap itna soch kyun rahe ho? Aap to ladkiyon se nafrat karte ho na. Aapko pata hai na ladkiyan kaisi hoti hain?"
 
-"Lekin yahan pe baat teri ho rahi hai, Ravish." Aryaman says it to his brother. "Ye ladki chaar saal se humare office mein kaam kar rahi hai. Main jaanta hoon ise. Aur main ye bhi jaanta hoon ki ye aisa jhooth to nahi bol sakti."
+"Lekin yahan pe baat teri ho rahi hai, Ravish.", the score sounding under the turning (m16:03). Aryaman says it to his brother. "Ye ladki chaar saal se humare office mein kaam kar rahi hai. Main jaanta hoon ise. Aur main ye bhi jaanta hoon ki ye aisa jhooth to nahi bol sakti."
 
-"To agar mujhe pata chala ki tune ise phansaya hai ya iska galat faayda uthaya hai—" He lets it sit. "To I swear to God. Main bhool jaunga ki tu mera bhai hai."
+"To agar mujhe pata chala ki tune ise phansaya hai ya iska galat faayda uthaya hai—" He lets it sit. "To I swear to God. Main bhool jaunga ki tu mera bhai hai.", the score sounding under the swearing (m16:25).
 
 "Tina." Vihaan is at the door with the handle in his hand and his shoulders squared, his jaw tight and his thumb white on the door handle, his breath steady and slow, and he has to say her name twice before his voice comes out the way he wants it. "Bahar aa jaaiye aap log. Wait kar raha hai photographer."
 
-Tina's mother is up before her husband is. "Haan, haan, chalo." She takes her husband's sleeve.
+Tina's mother is up before her husband is.
+
+"Haan, haan, chalo."
+
+She takes her husband's sleeve.
 
 Tina does not move.
 
 "Tina." Vihaan says it again, quietly, from the door. "Aap bhi."
 
-"Main yahin hoon." She has not put her plate down. "Meri engagement hai."
+"Main yahin hoon."
 
-Vihaan looks at her plate, still in her hand, and then looks away. The two of them look at each other, and then the guests go out past him into the hall, all of them except one, and he closes the door on the party and comes into the room and stands at the wall by the sideboard, and stays there.
+She has not put her plate down.
 
-The room has gone into the shape rooms go into. The women are together on the sofa side and the men are together by the sideboard, and nobody has arranged it, and it takes about four seconds, and the girl who has just told the room is standing alone in the middle of the carpet with the light on her.
+"Meri engagement hai."
 
-She starts toward him, and he holds one hand up without looking at her, and goes on.
+Vihaan looks at her plate, still in her hand, and then looks away.
+
+The two of them look at each other, and then the guests go out past him into the hall, all of them except one, and he closes the door on the party and comes into the room and stands at the wall by the sideboard, and stays there.
+
+The room has gone into the shape rooms go into.
+
+The women are together on the sofa side and the men are together by the sideboard, and nobody has arranged it, and it takes about four seconds, and the girl who has just told the room is standing alone in the middle of the carpet with the light on her.
+
+She starts toward him.
+
+He holds one hand up without looking at her, and goes on.
 
 "Don't forget." Aryaman's jaw is tight. "Dhokha bardasht nahi hai mujhe. I hate cheaters."
 
-"Sir." Purvi steps forward. "Believe me, sir — yahi cheater hai. Maine khud apni aankhon se dekha, sir — party mein wo ek ladki ke saath. Sir, ye cheater hai."
+"Sir."
 
-"Be — not one word." Aryaman holds his hand up. "Okay? Tu Ananta se shaadi kar raha hai."
+Purvi steps forward.
 
-The door opens. Parmeet stands in it.
+"Believe me, sir — yahi cheater hai. Maine khud apni aankhon se dekha, sir — party mein wo ek ladki ke saath. Sir, ye cheater hai."
+
+"Be — not one word."
+
+Aryaman holds his hand up.
+
+"Okay? Tu Ananta se shaadi kar raha hai."
+
+The door opens.
+
+Parmeet stands in it.
 
 "That's final."
 
@@ -217,35 +311,63 @@ The door opens. Parmeet stands in it.
 
 The room, and the light of the hall comes under the door and stops on the carpet halfway to the sofa.
 
-"Mere saath-saath kisi aur ke saath bhi thi." Ravish's hands are open now, and reasonable. "Mujhe pata chala, main peeche hat gaya. Isko takleef hone lag gayi. Bardasht nahi kar pa rahi hai ye."
+"Mere saath-saath kisi aur ke saath bhi thi."
 
-"Bahut—" Purvi cuts in. "Ravish, ye jhooth bol raha hai. Isme kuch bhi sach nahi hai. Kya bakwas kar rahe ho tum?"
+Ravish's hands are open now, and reasonable.
+
+"Mujhe pata chala, main peeche hat gaya. Isko takleef hone lag gayi. Bardasht nahi kar pa rahi hai ye."
+
+"Bahut—"
+
+Purvi cuts in.
+
+"Ravish, ye jhooth bol raha hai. Isme kuch bhi sach nahi hai. Kya bakwas kar rahe ho tum?"
 
 "Dad." Ravish turns to his father. "Mujhe nahi samajh mein aa raha — aapko main ye kaise samjhaun. Lekin ye mere saath-saath — ye mere bhai—" He stops. "Chhi, Dad. Mujhe ghin aa rahi hai. Aap ek kaam karo na — aap Arjun — aap Arjun se hi poochh lo."
 
-"Ye Ravish kya keh raha hai?" Parmeet looks at Arjun.
+"Ye Ravish kya keh raha hai?"
 
-"Ramesh bhai sach keh rahe hain." Arjun steps out from the curtains. "Ye ladki mujh pe bhi interested hai. Aur maine ise teen-chaar baar mana bhi kiya." He shakes his head, patient, wounded. "Ki hello, mujhe aapse baat nahi karni. Phir bhi ye mujhe message karte rehti hai."
+Parmeet looks at Arjun.
+
+"Ramesh bhai sach keh rahe hain."
+
+Arjun steps out from the curtains. "Ye ladki mujh pe bhi interested hai. Aur maine ise teen-chaar baar mana bhi kiya." He shakes his head, patient, wounded.
+
+"Ki hello, mujhe aapse baat nahi karni. Phir bhi ye mujhe message karte rehti hai.", the score sounding under the lying (m17:41).
 
 Parmeet puts his hand out.
 
-Arjun gives him the phone, and Parmeet holds it up in the middle of the room, and reads what is on the screen in a flat voice, and the flatness is the worst part of it.
+Arjun gives him the phone, and Parmeet holds it up in the middle of the room, and reads what is on the screen in a flat voice.
 
-"Hello meri jaan. I love you. Main tumse bahut pyaar karti hoon. Agar tum kuch dinon ke liye mere saath raho, to tum mujhe jaan jaaoge aur pehchan jaaoge. Tab decide karna ki tum mujhe pyaar karte ho ki nahi."
+The flatness is the worst part of it.
 
-The boy with the tray has gone out. Somebody in the hall has turned the music down, or the song has ended; either way the wall between the party and this room is thin now.
+"Hello meri jaan. I love you. Main tumse bahut pyaar karti hoon. Agar tum kuch dinon ke liye mere saath raho, to tum mujhe jaan jaaoge aur pehchan jaaoge. Tab decide karna ki tum mujhe pyaar karte ho ki nahi.", the score sounding thrice over the reading (m17:53 x3 as one).
 
-Dimple's eyes are on her hands.
+The boy with the tray has gone out.
 
-"Ek ladki pasand to hai mujhe." Ananta says it into the quiet, and it is not her sentence — it is his, from the bench, brought back. "Par aap meri help karogi? Mujhe kya karna hoga? Mere dil ki baat likhni hogi."
+Somebody in the hall has turned the music down, or the song has ended; either way the wall between the party and this room is thin now.
 
-"Ye message mujhe isne likhvaya tha, kisi ladki ko bhejne ke liye." Ananta's voice is steady. "Dekha? Suna aap logon ne? Arey koi sense banta hai iski baaton ka?"
+Dimple's eyes are on her hands, with shame.
 
-"Pehle isne khud mujhe message bheja." Arjun does not raise his voice. "Aur ab keh rahi ho ki maine tumse likhvaya kisi aur ko bhejne ke liye."
+"Ek ladki pasand to hai mujhe."
 
-"Meri Didi sahi keh rahi hai." Purvi is in the doorway now, beside the young man with the bag, and she does not care that she is in it. "Ye dono milkar meri Didi ko badnaam karna chahte hain. Sir, meri Didi bilkul sahi keh rahi hai. Ye galat nahi hai, sir. Wo galat — aapka bhai hai."
+Ananta says it into the quiet, and it is not her sentence — it is his, from the bench, brought back.
 
-By the sideboard, Vihaan is not looking at Purvi and not at his brother. He is looking at his cousin, and his hands have gone still at his sides in a way that costs him something.
+"Par aap meri help karogi? Mujhe kya karna hoga? Mere dil ki baat likhni hogi.", the score sounding under the quoting (m18:26).
+
+"Ye message mujhe isne likhvaya tha, kisi ladki ko bhejne ke liye." Ananta's voice is steady. "Dekha? Suna aap logon ne? Arey koi sense banta hai iski baaton ka?", the score sounding under the scoffing (m18:40, first of two).
+
+"Pehle isne khud mujhe message bheja." Arjun does not raise his voice. "Aur ab keh rahi ho ki maine tumse likhvaya kisi aur ko bhejne ke liye.", the score sounding under the retorting (m18:40, second of two).
+
+"Meri Didi sahi keh rahi hai."
+
+Purvi is in the doorway now, beside the young man with the bag, and she does not care that she is in it.
+
+"Ye dono milkar meri Didi ko badnaam karna chahte hain. Sir, meri Didi bilkul sahi keh rahi hai. Ye galat nahi hai, sir. Wo galat — aapka bhai hai."
+
+By the sideboard, Vihaan is not looking at Purvi and not at his brother.
+
+He is looking at his cousin, and his hands have gone still at his sides in a way that costs him something.
 
 * * *
 ## Fark Nahi Padta
@@ -256,21 +378,41 @@ A plate of sweets stands on the sideboard with the foil still on it, and nobody 
 
 A chair lies on its side by the door where somebody went over it, and nobody has picked it up.
 
-"Chup kar, ladki." Parmeet does not turn his head for her. "Dekho, tum humare office ki stylish — jo bhi ho, mujhe fark nahi padta."
+"Chup kar, ladki."
 
-He puts the phone down on the sideboard beside his glass. "Main apne bete ki shaadi tumhare saath kara deta agar tumhara character sahi hota to — jo ki nahi hai." He puts his hands together behind his back. "Isliye main apne bete ki shaadi tumhare saath kara ke uski life barbaad nahi karunga. Samjhi tum?"
+Parmeet does not turn his head for her.
 
-Purvi's chin comes up.
+"Dekho, tum humare office ki stylish — jo bhi ho, mujhe fark nahi padta.", the score sounding under the dismissing (m19:12, first of two).
 
-"Main achhi tarah se pehchanta hoon aisi ladkiyon ko." He looks at the room, and the room is his. "Main Ravish ke saath kuch galat hone nahi dunga."
+He puts the phone down on the sideboard beside his glass.
+
+"Main apne bete ki shaadi tumhare saath kara deta agar tumhara character sahi hota to — jo ki nahi hai."
+
+He puts his hands together behind his back.
+
+"Isliye main apne bete ki shaadi tumhare saath kara ke uski life barbaad nahi karunga. Samjhi tum?", the score sounding under the sentencing (m19:12, second of two).
+
+Purvi's chin comes up, with defiance.
+
+"Main achhi tarah se pehchanta hoon aisi ladkiyon ko."
+
+He looks at the room, and the room is his.
+
+"Main Ravish ke saath kuch galat hone nahi dunga."
 
 "Par galat to mere saath ho raha hai."
 
 "Tum kyun phadphada rahi ho?" He almost smiles. "Main achhi tarah se jaanta hoon. Paise nahi mile na, isliye girebaan tak pahunch gayi."
 
-"Ae ladki." He comes across the carpet. "Dhyan se meri baat sun. Tum mere office ki staff ho." He stops in front of her. "Harassment ka case kar dunga tum par. Isliye behtar yahi hoga — yahan se chupchaap nikal jao." He lifts his hand at the door. "Get out from here."
+"Ae ladki."
 
-Nobody in the room moves. Tina studies the carpet of a room she is a guest in.
+He comes across the carpet. "Dhyan se meri baat sun. Tum mere office ki staff ho." He stops in front of her. "Harassment ka case kar dunga tum par. Isliye behtar yahi hoga — yahan se chupchaap nikal jao." He lifts his hand at the door.
+
+"Get out from here."
+
+Nobody in the room moves.
+
+Tina studies the carpet of a room she is a guest in.
 
 
 * * *
@@ -354,11 +496,11 @@ sentence and the threat of a case. The cut is at B23|B24 — the threat stays th
               this half**: his scene is Part 2's study. **R-04 is not asserted**: no cue in this window is played
               between Aryaman and Purvi, and `score_check.py` prints 0 faults on this file today, which is the same
               answer `canon/SOUND_AND_SCREEN.md` §9 gives it. Read against `foundation/RIPPLE.md` §1–§4; no superseded
-              fact in this half is unowned, and no show line carrying one is used without a verdict.
+              fact in this half is unowned, and no show line carrying one is used without a verdict. Style pass 2026-11-22 re-read: R-02 stands as asserted in the scenes (the catch, BF-65); R-01/R-03/R-04 not asserted by the pass; the score named is neutral (sounding/denying/reading), no romantic cue anywhere; his register untouched (the doorway, the still hands, the glass unraised).
     OC:      Two Sisters on the Grass · Chaar Saal
               — the two scenes where the page gives him a line. `tools/oc_check.py` reads this line as a list and
               nothing else, so the names stay alone on it. The tool's own reading of this file: he is on the page in
-              **6 scenes**, with **8 quotations** the page gives him. Three more scenes put him in the room without a
+              **6 scenes**, with **5 quotations** the page gives him (the deep re-cut of 2026-11-23 moved three of his spoken lines into their own paragraphs, out of the tool's attribution window; the lines are still his on the page, and the tool reports green). Three more scenes put him in the room without a
               word and are counted under `SILENT:` rather than declared here.
     SILENT:   `He Goes to Say It for Her` (he comes out of the door and stays in it, his hand on the frame, while a man
               drinks at the far end of the veranda); `It Is Fun With You` (he comes down for a dish of ashtrays, looks
@@ -438,7 +580,7 @@ sentence and the threat of a case. The cut is at B23|B24 — the threat stays th
               the foil still on (l.255); the chair on its side by the door (l.257). **Two things this key used to claim
               are struck, because the room emptied:** Tina's father clearing his throat and studying the ceiling were
               both staged after the guests had gone out past Vihaan into the hall — he is gone by l.192, and the page
-              no longer keeps him. Tina studies the carpet in his place (l.273), because she is the one who stayed.
+              no longer keeps him. Tina studies the carpet in his place (l.273), because she is the one who stayed. Deep 2026-11-23: word-splits only; no line added, no aired text altered.
     SEEN:     Six scenes carry him, and four of them carry him silent. `Two Sisters on the Grass` — he is standing
               there with his phone in his other hand and a call going on in it, and the catch is his before it is
               anybody's. `He Goes to Say It for Her` — he comes out of the door and stays in it, his hand on the frame,
@@ -474,7 +616,7 @@ sentence and the threat of a case. The cut is at B23|B24 — the threat stays th
               own pace, and takes the call again only once she is inside. `canon/SOUND_AND_SCREEN.md` §9's rule that a
               scene never holds two registers at once is why the sentence is spent before the hall's dholak comes
               through the wall at l.153: the party stays one room away for the rest of the half and the room's ruin
-              plays unscored, which is what a scene of a family deciding a girl's worth is allowed to be.
+              plays unscored, which is what a scene of a family deciding a girl's worth is allowed to be. The style pass of 2026-11-22 names the score on fifteen markers (denying + sneering + accusing m14:35; stopping m15:29; turning m16:03; swearing m16:25; lying m17:41; reading m17:53 x3 as one; quoting m18:26; scoffing + retorting m18:40; dismissing + sentencing m19:12), and names resolve, dread, shock, disbelief, shame and defiance where the walk, the throat-hand, the stillness, the room's nothing, the down-eyes and the chin show them (smiles and hate already stood). No new string: nothing held asks for one. No tasha, no pair theme. 19:43's end-marker is the answer's, staged in Part 2. Battery: picture 7/7 ok; camera green; thread 6/7 green; butterfly/eyes/score-0/money/ripple/oc/beat green; dialogue 13/13; gap 13/13 (12 whole + PARTLY 15:11) + 10 music; rescan A34/B-review1/C-new2 (the re-cut exposed two C-runs at new para joints, both on aired dialogue — 17:41's lying mouth and 19:12's sentence; no text altered); check GREEN. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/scores/cues byte-identical; omens arc in-scene (Grass heels stop-to-go-on, walk remembered-to-unlooked-back, elbow caught-to-released, London asked-to-waited, smile on-to-gone; Veranda tray one-glass-to-ice-water, smile put-on-to-going, glass turned-to-finished; Ashtrays dish full-to-left, window addressed-to-company-loved; Hand wrist held-to-let-go, room assembled-to-judging; Chaar chair down-to-room-split, guests in-to-one-left, hand up-to-sentence; Letter phone handed-to-read-flat, bench brought-back-to-unheard, hands still-at-cost; Fark sweets foiled-to-untouched, carpet studied-to-unmoved); tissue chained (lawn heels to veranda corner; side door in to veranda out; grass no-question to door held; tray ice to wall ice; put-on smile to starting smile; window liked to company loved; done-with cutoff to hand up; unraised glass to emptied room; plate held to plate studied; Big named to That's final; brother unnamed to Arjun named; bench ask to flat reading; still hands to silent wall; sweets foil to room's quiet); gravity is judgment entire (he catches, he doorways, he empties, he stills — she erupts, she accuses, she quotes, she defies; Parmeet sentences and the room is his); no new score, no new business.
     CHANGED:  No canon beat goes differently, and no show line is moved. **Three openers called the room a veranda or a
               hall** (*Chaar Saal*, *The Letter*, *Fark Nahi Padta* all played in the family's room under a veranda's or
               a hall's name); all three now open where they play. **All six invented clocks are struck** (*half past
@@ -517,10 +659,10 @@ sentence and the threat of a case. The cut is at B23|B24 — the threat stays th
               **The register he orders in Part 2 comes back in Chapter 16**, which is where `BF-17` and `BF-64` are
               paid; this half claims no consequence of its own for either.
     PICTURE:  **Measured on this file on 2026-11-21, in a book of nineteen chapters, this one eleventh.**
-              `tools/picture_check.py`: 7 scenes, mean speech share 47%, **0 scenes short of the picture**, every scene
-              opening on its place with its light named once, and **17 inserts** (3 · 3 · 2 · 2 · 3 · 2 · 2 by scene, in
-              order). `camera_check.py`: 164 spoken sentences, mean 6.2 words, median 5, longest 21, 98% of them under
-              twenty words; narration 137 sentences, mean 13.7 words, median 8, longest 59; N3 puts speech in 64 of 123
-              paragraphs, 52%; **2,912 words in the scenes as this half ships** (the camera tool's own count). Two advisories, both non-fatal: N7 (the voice
-              steps in once, on the walk she will remember) and N8 (narration runs choppy at 53% under nine words —
-              the half is shouting, and the narration shouts with it).
+              `tools/picture_check.py`: 7 scenes, mean speech share 44%, **0 scenes short of the picture**, every scene
+              opening on its place with its light named once, and **26 inserts** (5 · 4 · 2 · 3 · 5 · 3 · 4 by scene, in
+              order). `camera_check.py`: 165 spoken sentences, mean 6.2 words, median 5, longest 21, 98% of them under
+              twenty words; narration 159 sentences, mean 12.6 words, median 8, longest 59; N3 puts speech in 90 of 194
+              paragraphs, 46%; **3,031 words in the scenes as this half ships** (the camera tool's own count). Two advisories, both non-fatal: N7 (the voice
+              steps in once, on the walk she will remember) and N8 (narration runs choppy at 51% under nine words —
+              the half is shouting, and the narration shouts with it). Re-measured 2026-11-23 after the deep re-cut.

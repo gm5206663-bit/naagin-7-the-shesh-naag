@@ -19,29 +19,29 @@ A drum, once. Mahadev's trishul is not shown, but the thunder is his. Then the s
 
 ## The Aroras' House
 
-Blue light through cloud, and a shaft of white standing in it, and the dark going past on both sides. Twenty-four years go past in it. *San 2025.*
+Blue light through cloud. A shaft of white standing in it. The dark going past on both sides. Twenty-four years go past in it. *San 2025.*
 
-The light goes, and a Delhi morning comes up in its place: a television playing in the corner of a front room, pictures of the Kumbh going past behind a woman anchor, the channel's mark in the corner of the screen. Certificates in black frames on the brick above it. The narration comes over the house the way morning comes over it, out of nowhere and everywhere at once.
+The light goes. A Delhi morning comes up in its place. A television playing in the corner of a front room — pictures of the Kumbh going past behind a woman anchor, the channel's mark in the corner of the screen. Certificates in black frames on the brick above it. The narration comes over the house the way morning comes over it, out of nowhere and everywhere at once.
 
 "San 2025. Poore ek sau chawalis saal baad aaya hai yeh Maha Mahakumbh." The voice is the same voice that spoke over the Kumbh of 2001, older now, and glad. "Poori duniya ke saamne Bharat ka vandan hoga, abhinandan hoga. Bharat karega duniya ki khaatedaari. Atithi devo bhava — kehte hain na hamaare desh mein. Yeh sirf Mahakumbh hi nahin — Bharat ke sar ka taaj hai. Poori duniya ko bula raha hai Prayagraj."
 
-The camera goes past the screen and finds the hall behind it: a carved wooden screen, a door with glass panes, a small framed picture with an arch in blue. The kitchen opens off it, jars in rows, steel, cut vegetables on the board, and a woman at the counter with her hair in a bun and her glasses on, who has heard all of this before and is listening anyway.
+The camera goes past the screen and finds the hall behind it: a carved wooden screen, a door with glass panes, a small framed picture with an arch in blue. The kitchen opens off it — jars in rows, steel, cut vegetables on the board. A woman at the counter with her hair in a bun and her glasses on. She has heard all of this before. She is listening anyway.
 
-The hall holds its morning the way it has held it for years. The carved sofa stands under the curtains with its floral cushions square. Tea steams on the low table. A brass tray holds two biscuits, and a fly walks round them, and round them again.
+The hall holds its morning the way it has held it for years. The carved sofa stands under the curtains with its floral cushions square. Tea steams on the low table. A brass tray holds two biscuits. A fly walks round them. And round them again.
 
-He sits with his tea under the panel on the wall — the panel is the size of a door, Shiva with a trident worked across him in silver, painted by a man in the market, the silver gone dull in one corner where the sun gets in. He is in a white kurta with a mustard waistcoat buttoned over it, his hair black and combed, his glasses on. He has drunk out of this cup since Amritsar.
+He sits with his tea under the panel on the wall. The panel is the size of a door — Shiva with a trident worked across him in silver, painted by a man in the market, the silver gone dull in one corner where the sun gets in. He is in a white kurta with a mustard waistcoat buttoned over it. His hair black and combed. His glasses on. He has drunk out of this cup since Amritsar.
 
-She moves between the hall and the open kitchen, a steel thali in her hand with the steam off it between them: glasses, dark printed sari, maroon blouse, the house paper open where she left it. The jars stand in their rows behind her. The television plays under everything with the pictures going past, the anchor, the Kumbh, the mark in the corner.
+She moves between the hall and the open kitchen. A steel thali in her hand, the steam off it between them. Glasses, dark printed sari, maroon blouse. The house paper open where she left it. The jars stand in their rows behind her. The television plays under everything — the pictures going past, the anchor, the Kumbh, the mark in the corner.
 
-At the gate a boy stands with his cycle against the wall and a paper packet held up in both hands. He does not ring. He waits the way a boy waits who has been told to put it into a hand and not to leave it on a wall.
+At the gate a boy stands with his cycle against the wall. A paper packet held up in both hands. He does not ring. He waits the way a boy waits who has been told to put it into a hand and not to leave it on a wall.
 
-Shalini puts her paper down and goes out and comes back with the packet, and stands in the hall turning it over.
+Shalini puts her paper down. She goes out. She comes back with the packet. She stands in the hall turning it over.
 
 "Kitne hue?"
 
 "Khaate se, aunty ji." The boy is already on the cycle. "Paisa nahin."
 
-She carries it in, and the packet goes into the drawer under the crockery shelf where the packets go, and she shuts the drawer and keeps her hand on it a second longer than the drawer needs.
+She carries it in. The packet goes into the drawer under the crockery shelf, where the packets go. She shuts the drawer. She keeps her hand on it a second longer than the drawer needs.
 
 "Kya hai?" He says it into his tea.
 
@@ -51,9 +51,9 @@ She carries it in, and the packet goes into the drawer under the crockery shelf 
 
 "Toh laate raho." She sits down. "Yeh alag hai."
 
-He looks at the drawer, and at her, and at the panel, and lets it go the way he lets most things go now.
+He looks at the drawer. At her. At the panel. He lets it go the way he lets most things go now, with resignation.
 
-"Itna kuch badal gaya." He says it to the panel. "Hum Amritsar se Delhi aa gaye."
+"Itna kuch badal gaya." He says it to the panel, with nostalgia. "Hum Amritsar se Delhi aa gaye."
 
 "Hmm."
 
@@ -71,28 +71,29 @@ He sits back. The fly goes round the biscuits again.
 
 "Donon ghar pe nahin hain."
 
-"Ghar pe nahin hain?" He is up, and then he is not, and he sits down again. "Kahan gaye donon?"
+"Ghar pe nahin hain?" He is up, and then he is not, and he sits down again, with surprise. "Kahan gaye donon?"
 
 "Shopping karne." She turns a page. "Aapki Ananta ko jab tak woh bazaar nahin jaati hai na, gale ke neeche khaana nahin utarta."
 
 "Arre, hamari padi hai Ananta."
 
-He laughs into his tea. Somewhere deep in the house the bell goes, twice, and neither of them moves for it.
+He laughs into his tea. Somewhere deep in the house the bell goes, twice. Neither of them moves for it.
 
 * * *
+
 ## A Son Comes Home
 
-A gate with a nameplate on the pillar: SURI in English, and the same name under it in Gurmukhi, and the morning sun on the brass of it. A taxi stops outside, and the driver gets out to open the back door.
+A gate with a nameplate on the pillar: SURI in English. The same name under it in Gurmukhi. The morning sun on the brass of it. A taxi stops outside. The driver gets out to open the back door.
 
-The man who gets out is twenty-four. He is tall, taller than the driver, in a dark shirt with the sleeves rolled and no jacket over it, and his hair is longer than this city wears it.
+The man who gets out is twenty-four. He is tall — taller than the driver — in a dark shirt with the sleeves rolled and no jacket over it. His hair is longer than this city wears it.
 
 One bag in his hand. A camera in its case off his other shoulder — his own camera, and a good one; he has carried one since he turned nineteen.
 
-The driver starts on the bags. The tall man shakes his head once, and takes them himself, and stands a moment on the pavement looking at the house.
+The driver starts on the bags. The tall man shakes his head once. He takes them himself. He stands a moment on the pavement looking at the house.
 
-His hand goes flat on the nameplate as he passes it. A man does that who has been away a long time.
+His hand goes flat on the nameplate as he passes it, with tenderness. A man does that who has been away a long time.
 
-Inside, the hall is all flowers and work. Marble underfoot, buckets on wet newspaper, two women arguing over a list. A caterer's boy comes through with a crate of glasses, breathing hard. Every chair in the room has been moved. A man stands on a stool with a garland in both hands, and he is not tall enough for the hook.
+Inside, the hall is all flowers and work. Marble underfoot. Buckets on wet newspaper. Two women arguing over a list. A caterer's boy comes through with a crate of glasses, breathing hard. Every chair in the room has been moved. A man stands on a stool with a garland in both hands. He is not tall enough for the hook.
 
 Two men are carrying a panel out through the far door, flat way on, and it will not go. The tall man sets his bag down, looks at the door, at the panel, at the grip of the hands on it, and says one word: "Ghumao." They turn it up on its side and it goes, and he picks his bag up again.
 
@@ -108,7 +109,7 @@ Nisha drops the list. "Aapne kaha tha kal!" She grins at him, and her hand goes 
 
 "Maine kaha tha main aaunga." He puts his bag down. "Kab aaunga, yeh nahin kaha tha."
 
-Both of them are on him at once, and he stands it without moving his feet. Pinky takes his face in her two hands. She laughs, and then she cries, and then she kisses his cheek, hard, and holds it there.
+Both of them are on him at once. He stands it without moving his feet. Pinky takes his face in her two hands. She laughs. Then she cries. Then she kisses his cheek, hard, and holds it there.
 
 "Flight early thi. Airport pe koi nahin tha." He says it over her shoulder. "Toh taxi le li."
 
@@ -128,7 +129,7 @@ He is looking past her at the hall. The flowers. The crate of glasses. The panel
 
 "Tu hamare saath chal raha hai." Pinky has his free arm. "Humein ek aadmi chahiye. Channel chalna hai, mandap dekhna hai — aur sabko dikhna bhi hai ki ghar ka beta ghar aa gaya hai."
 
-She takes his face again and turns it to the light. His smile touches his mouth and dies, and his jaw goes tight, and his ears burn, and his hand hangs light at his side, and he lets her turn him, and he does not look away, and his breath is short all at once and he does not know why.
+She takes his face again and turns it to the light. His smile touches his mouth and dies. His jaw goes tight. His ears burn, with embarrassment. His hand hangs light at his side. He lets her turn him. He does not look away. His breath is short all at once. He does not know why.
 
 "Look at him. Is chehre ko dekho." Her thumb pushes his hair back off his forehead. "Arre, London ne hamare ladke ke saath kya kiya hai."
 
@@ -144,7 +145,7 @@ She turns him to the room with her hands still on him.
 
 "Tu saalon London mein tha, bhai. Nau ghante kuch nahin hai."
 
-He looks at the two of them, and at the hall, and he does not argue.
+He looks at the two of them. At the hall. He does not argue.
 
 "Papa kahan hain?"
 
@@ -152,30 +153,31 @@ He looks at the two of them, and at the hall, and he does not argue.
 
 Photographs stand in frames on the wall by the stairs. Two boys at a cricket match. A family at a wedding. A big house with a lawn.
 
-He goes up, and the house goes on shouting under him.
+He goes up. The house goes on shouting under him.
 
 * * *
+
 ## The Room on the Fourth Floor
 
-The fourth floor at four in the afternoon, and the sun at the end of the corridor lying in a long shape on the landing floor.
+The fourth floor at four in the afternoon. The sun at the end of the corridor, lying in a long shape on the landing floor.
 
-His room is at the end of it. His initials stand on a brass plate on the door, and the plate has been polished and the frame around it has not. The bed inside is made up and has never been slept in.
+His room is at the end of it. His initials stand on a brass plate on the door. The plate has been polished. The frame around it has not. The bed inside is made up and has never been slept in.
 
-The room at the top of the house has been kept ready. Sheets turned down, the pillow square. A jug of water with a glass upside down over its mouth. The window stands open on the street; the inside of its frame has been wiped, and the wall around it not.
+The room at the top of the house has been kept ready. Sheets turned down. The pillow square. A jug of water with a glass upside down over its mouth. The window stands open on the street. The inside of its frame has been wiped. The wall around it not.
 
 The shelf holds a boy's things. A wooden elephant. A cardboard tube with certificates rolled in it. A birthday photograph: a baby in a paper cap with one hand flat on the icing of a cake, the single candle unlit, two grown-ups laughing at him from behind the table. In the photograph the cake is never cut.
 
-He sets the bag at the foot of the bed and does not open it. He opens the camera case instead, takes the body out, and sets it on the desk where the lamp ought to be standing.
+He sets the bag at the foot of the bed and does not open it. He opens the camera case instead. He takes the body out. He sets it on the desk where the lamp ought to be standing.
 
-There is no lamp on the desk, in the flat four o'clock light, and there never has been. What is there instead is a watch, face up, the strap worn soft at the third hole. A pen with a plain black barrel and no clip. A small brass case, matchbox-sized, that opens on a lens cleaner and a strip of chamois. And a shirt cuff folded once at the wrist and left there, the only cloth in that room with a press to it, because the man who irons it knows what he is doing.
+There is no lamp on the desk, in the flat four o'clock light. There never has been. What is there instead is a watch, face up, the strap worn soft at the third hole. A pen with a plain black barrel and no clip. A small brass case, matchbox-sized, that opens on a lens cleaner and a strip of chamois. And a shirt cuff folded once at the wrist and left there — the only cloth in that room with a press to it, because the man who irons it knows what he is doing.
 
 Nobody in the house has ever priced any of it. Nisha will sit on the arm of that chair in a minute with the camera in both hands, the watch and the pen and the brass case six inches from her elbow, and she will not look at them once — they do not look like anything.
 
-He turns the watch over, and sets it down again face up.
+He turns the watch over. He sets it down again face up.
 
 The fan turns. The curtain moves. Down in the street a dog barks twice at nothing and stops.
 
-Steps on the stairs, quick, and Nisha in the doorway with a plate of pakoras in one hand.
+Steps on the stairs, quick. Nisha in the doorway with a plate of pakoras in one hand.
 
 "Bag neeche rakha hai aur bag khol diya hai." She comes in and sits on the arm of the chair. "Bas itna hi kiya hai tune. Papa poochenge ki kapde almirah mein hain ya nahin, aur mujhe jhoot bolna padega."
 
@@ -183,13 +185,13 @@ Steps on the stairs, quick, and Nisha in the doorway with a plate of pakoras in 
 
 "Main bahut achhi hoon us kaam mein." She holds the plate out. He takes one, and eats it standing. "Aur tu itna lamba ho gaya hai ki ab chhat problem hai. Is ghar mein."
 
-Her eye goes to the desk. She is off the chair and has the camera in both hands before he can stop her, and holds it out at arm's length the wrong way round, at him.
+Her eye goes to the desk. She is off the chair. She has the camera in both hands before he can stop her. She holds it out at arm's length the wrong way round, at him.
 
 "Nisha."
 
 "Kuch bol. Tere chehre pe suit karega. Pinky kehti hai teri photograph deewar pe lagwaani chahiye."
 
-He leans over and turns the lens ring, and the screen at the back comes on, and he stands still while she makes four seconds of film of him in his own room, holding her breath over it.
+He leans over and turns the lens ring. The screen at the back comes on. He stands still while she makes four seconds of film of him in his own room, holding her breath over it.
 
 "Yeh bahut achha hai," she says. "Main bahut achhi hoon is kaam mein."
 
@@ -201,36 +203,37 @@ He leans over and turns the lens ring, and the screen at the back comes on, and 
 
 "Jahan woh humein sun nahin sakte?" She pulls at his sleeve the way she pulled at it in the hall, and goes out. "Bahut kharab. Aur teri desk bhi, Monday se. Kursi laga di hai unhone."
 
-Through the floor a man's voice on a telephone, in the English a Delhi man uses on a telephone, then the same voice in Punjabi, and a chair going back.
+Through the floor a man's voice on a telephone — in the English a Delhi man uses on a telephone, then the same voice in Punjabi. A chair going back.
 
-He puts the camera in its case over his shoulder. He leaves the bag where it lies at the foot of the bed, shut, nothing of it unpacked, and pulls the door shut on a made bed and a jug of water.
+He puts the camera in its case over his shoulder. He leaves the bag where it lies at the foot of the bed — shut, nothing of it unpacked. He pulls the door shut on a made bed and a jug of water.
 
 * * *
+
 ## The Study
 
-The first floor, and a door with a brass plate that says OFFICE on it, and inside a room that smells of new carpet and cold coffee, with its tube light on over the desk and its window shut behind the chair.
+The first floor. A door with a brass plate that says OFFICE on it. Inside, a room that smells of new carpet and cold coffee. The tube light on over the desk. The window shut behind the chair.
 
-Parmeet Suri sits behind the desk with his glasses on the bridge of his nose and a folder open under one hand. Baljeet stands at the end of the desk with a pen in his fingers and nothing to write on.
+Parmeet Suri sits behind the desk with his glasses on the bridge of his nose. A folder open under one hand. Baljeet stands at the end of the desk with a pen in his fingers and nothing to write on.
 
 "Baith." Parmeet does not look up.
 
-Vihaan sits in the chair by the window instead of the one in front of the desk, and turns it so that he can see the door.
+Vihaan sits in the chair by the window instead of the one in front of the desk. He turns it so that he can see the door.
 
 "Kumbh ka coverage hum karenge." Parmeet turns a page. "Poore desh ka channel. Baljeet ne teen hafte ka roster banaya hai. Sangam pe do OB vans, chaubees ghante. Main chahta hoon ki jab woh ghadi chale, channel pe hum hon."
 
-"Aap chahte hain ki koi Pandit ji bolein, ya aap chahte hain ki koi gine?" His hands are on his knees, the knuckles white under the skin. "Sangam pe teen crore log honge, Papa. Jab giro, tab channel ka naam kisi ko yaad nahin rahega."
+"Aap chahte hain ki koi Pandit ji bolein, ya aap chahte hain ki koi gine?" His hands are on his knees, the knuckles white under the skin, with anger. "Sangam pe teen crore log honge, Papa. Jab giro, tab channel ka naam kisi ko yaad nahin rahega."
 
 "Crowd management hamara kaam nahin hai." Baljeet does not raise his eyes from his pen.
 
 "Hamara kaam khabar hai." Vihaan says it to Baljeet. "Khabar ka pehla farz yeh hai ki jo bheed aapke bharose khadi hai, woh gire na."
 
-Parmeet looks up at him over his glasses, and looks at him a moment longer than the sentence deserves.
+Parmeet looks up at him over his glasses. He looks at him a moment longer than the sentence deserves.
 
 "Tu London se aaya hai," he says. "Toh London ki baat kar." He shuts the folder and slides a second one across the desk. "Yeh chaar saal ke accounts hain. Read them, initial every page, and sign the last one."
 
-Vihaan opens it where it lies. He reads the way he reads a script, a finger going down the left-hand column, and the room goes quiet around the sound of the pages.
+Vihaan opens it where it lies. He reads the way he reads a script — a finger going down the left-hand column. The room goes quiet around the sound of the pages.
 
-With the roster papers there is a feed sheet that buys the satellite for the first four days, and the signature at its foot is his own, put there at the London desk a month earlier. Nobody where it is going has met the man who signed it.
+With the roster papers there is a feed sheet that buys the satellite for the first four days. The signature at its foot is his own, put there at the London desk a month earlier. Nobody where it is going has met the man who signed it.
 
 On the fourth page of the accounts there is a payment out, twice a year, four years running, to a consultancy with an address in Dubai and no name of a person on it.
 
@@ -238,11 +241,11 @@ On the fourth page of the accounts there is a payment out, twice a year, four ye
 
 "Woh tujhe jaanne ki zaroorat nahin hai."
 
-"Main sign karunga isko." His finger stays on the line. "Aur main iske saamne likhunga *bina vivaran*. Do lafz. Aapke hisaab mein jhooth nahin hoga, aur mere hisaab mein sach hoga."
+"Main sign karunga isko." His finger stays on the line, with resolve. "Aur main iske saamne likhunga *bina vivaran*. Do lafz. Aapke hisaab mein jhooth nahin hoga, aur mere hisaab mein sach hoga."
 
-Baljeet's pen stops.
+Baljeet's pen stops, with alarm.
 
-Parmeet takes his glasses off and sets them down on the desk, and does not say anything for a while.
+Parmeet takes his glasses off and sets them down on the desk. He does not say anything for a while.
 
 "Kar." He picks his glasses up again. "Aur aaj raat party mein iski baat kisi se nahin hogi. Aryaman ke din pe."
 
@@ -252,7 +255,7 @@ Parmeet takes his glasses off and sets them down on the desk, and does not say a
 
 "Monday." Vihaan shuts the folder and stands with it under his arm.
 
-He goes out. The door shuts on the two of them, and through it, after a moment, Parmeet's voice begins again, low, in Punjabi — and it is not talking about the Kumbh.
+He goes out. The door shuts on the two of them. Through it, after a moment, Parmeet's voice begins again, low, in Punjabi. It is not talking about the Kumbh.
 
 * * *
 
@@ -270,7 +273,7 @@ NAMES: Shalini is the track's own (heard three times, one of them "Arre Shalini 
     OC:      A Son Comes Home · The Room on the Fourth Floor · The Study
     FENCE:  none — every fenced scene in this story is in Part 2
     SPLIT:   Part 1 of `Chapter_02_The_Year_of_the_Mahakumbh`. Part 2 holds the scenes from `## The Bazaar`; this half runs from `## 2025` to `## The Study`. The two halves share one footer's evidence only where the evidence is the episode's; each half's figures (`picture_check`, `camera_check`, `thread_check`) are its own and are measured, not inherited.
-    RIPPLED:  none — R-01 to R-04 re-read against the rebuilt prose and nothing in it asserts a superseded fact. No Aryaman in any love grammar; the pair are never near each other; he is in three scenes in this half and speaks in all three; no romantic score anywhere near Aryaman's name. The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule that touches it must be named here instead of `none`.
+    RIPPLED:  none — R-01 to R-04 re-read against the rebuilt prose and nothing in it asserts a superseded fact. No Aryaman in any love grammar; the pair are never near each other; he is in three scenes in this half and speaks in all three; no romantic score anywhere near Aryaman's name. Style pass 2026-11-22 re-read: R-01/R-02/R-03 stand as asserted (no Aryaman in any love grammar; the pair never near each other; he is in three scenes and speaks in all three, she in none of them); R-04 stands — no score named anywhere in this half, new or old (no marker stands in its window); his register untouched (the camera, the four desk objects, the two words in the margin, the Monday desk). The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule that touches it must be named here instead of `none`.
     LEDGER:   run 2026-11-20 over the timed track and the frames (`O041`): six live butterflies touch this chapter
               (`BF-02`, `BF-03`, `BF-04`, `BF-32`, `BF-90`, `BF-110`); nothing new; the struck ghat and the struck
               fan-cut carried no numbers, and neither did the re-hung speakers, staging, picture and words.
@@ -296,7 +299,7 @@ NAMES: Shalini is the track's own (heard three times, one of them "Arre Shalini 
               pen with no clip, a brass case that opens on a lens cleaner, a shirt cuff with a press to it — four
               objects, no sum, and **Nisha's elbow six inches from all of them and nobody in that house ever pricing
               them**, because they do not look like anything. `foundation/MONEY.md` §3a forbids a figure for him;
-              the wealth is written in objects and omissions or it is not written at all.
+              the wealth is written in objects and omissions or it is not written at all. The style pass of 2026-11-22 names no score (no marker in the window) and names resignation, surprise, nostalgia, tenderness, embarrassment, anger, alarm and resolve where the let-go, the up-and-down, the panel address, the nameplate hand, the burning ears, the white knuckles, the stopped pen and the stayed finger show them (the tea laugh, the grins, the laugh-and-cry and the dying smile already stood). The titles' thunder and the bell and the dog play as authored (no markers). No new string: nothing held asks for one. No tasha, no pair theme. Music-only: none in this half. Battery: picture green (1 short of the picture, within tolerance); camera green; thread 3/4 green; butterfly/eyes/score-0/money/ripple/oc/beat green; dialogue 2/2; gap 2/2 whole + 0 music blocks; rescan A0/B-trace2/C0 (pre-existing, unchanged — both sit on aired dialogue); check GREEN. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/cues byte-identical; omens arc in-scene (Aroras light-goes/morning-comes, fly's circle, bell twice unanswered; Son room-noise-to-quiet-one-by-one-to-shouting; Room watch over-and-up, bag shut-and-left; Study glasses on-off-on, pen with no paper); tissue chained (packet-to-drawer BF-32; panel listened-to; stairs up; photo cap/candle back to Ch1; no-lamp (lamp-chain's gap); father's voice through floor-to-through door; London signature-to-margin hand); gravity is presence (his three scenes; chair by the window; one word, not his hands); no score (no markers), no new business.
     BASE:     Naagin 7, Episode 1, 23:14 to 24:17 of the official upload, as reference, with the blue transition
               (23:10) carrying the year in. Part 1 of a split chapter: adapted B13–B14 (the 2025 narration over the
               Arora house, through Shalini and her husband); Part 2 carries B15–B19.
@@ -331,7 +334,7 @@ NAMES: Shalini is the track's own (heard three times, one of them "Arre Shalini 
               glasses, the caterer's boy, the garland, the one word at the panel, the briefing for the night); the room on
               the fourth floor entire (the initials plate, the kept bed, the jug, the shelf and its photograph, the bag
               unopened, the camera's four seconds); the study entire, with the feed sheet standing among its roster papers;
-              small movement between frames.
+              small movement between frames. Deep 2026-11-23: word-splits only; no line added, no aired text altered.
     SEEN:     `O025` in the hall: the room going quiet one person at a time; Pinky's hands on his face and the shirt sent to the
               bin; Nisha's *chhat problem* and the photograph for the wall. And in the study: the chair by the window instead of the
               one in front of the desk; the finger down the left-hand column; Baljeet's pen stopping.

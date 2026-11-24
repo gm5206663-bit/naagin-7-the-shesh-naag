@@ -29,13 +29,19 @@ The newsroom is awake and loud. Two women write on the rundown board and rub thi
 
 Ananta stands at the board with a chalk in one hand and the phone against her ear with the other.
 
-"Hello." Arjun's voice comes out of the phone, from the cabin upstairs. "Ananta, tum kahan ho yaar? Hamari meeting kab ki khatm ho gayi hai. Purvi ko milwana tha bhai se. Pehle hi din late hai woh. Hum tumhara yahan pe kab se—"
+"Hello." Arjun's voice comes out of the phone, from the cabin upstairs.
 
-"Haan sir." Ananta looks across the newsroom at her sister. "Purvi mere saath mein hi hai."
+"Ananta, tum kahan ho yaar? Hamari meeting kab ki khatm ho gayi hai. Purvi ko milwana tha bhai se. Pehle hi din late hai woh. Hum tumhara yahan pe kab se—"
 
-In the cabin Aryaman takes the phone from his brother's hand. "Achha, achha, theek hai. Main samajh gaya." A pause. "Tum Purvi ko B-46 channel file ke saath upar bhej do."
+"Haan sir." Ananta looks across the newsroom at her sister.
 
-The chalk stops on the board.
+"Purvi mere saath mein hi hai."
+
+In the cabin Aryaman takes the phone from his brother's hand. "Achha, achha, theek hai. Main samajh gaya." A pause.
+
+"Tum Purvi ko B-46 channel file ke saath upar bhej do."
+
+The chalk stops on the board, with surprise.
 
 Purvi comes to the board with her bag against her chest. Ananta points down the stairs with the chalk. The record room.
 
@@ -66,9 +72,13 @@ Purvi has not moved from the doorway.
 
 "Tum light stand ho," she says.
 
-"Chashma." He puts his pen down. "Chashma tumhare chehre pe nahin hai."
+"Chashma." He puts his pen down.
 
-"Banwa rahi hoon. Didi lunch time pe le aayengi." She comes in and puts her bag down on the end of the table. "Purane waale flyover ke neeche road pe hain."
+"Chashma tumhare chehre pe nahin hai."
+
+"Banwa rahi hoon. Didi lunch time pe le aayengi." She comes in and puts her bag down on the end of the table.
+
+"Purane waale flyover ke neeche road pe hain."
 
 "Toh aaj yeh sab chashme ke bina padhogi."
 
@@ -76,7 +86,9 @@ Purvi has not moved from the doorway.
 
 "Good."
 
-"Record room hai yeh," he says. "Aur mera nahin. Channel ki files idhar hain — B matlab channels, saath rakhte hain. Aryaman sir ko de do, woh jaante hain."
+"Record room hai yeh," he says.
+
+"Aur mera nahin. Channel ki files idhar hain — B matlab channels, saath rakhte hain. Aryaman sir ko de do, woh jaante hain."
 
 "Aapko do din mein sab pata chal gaya."
 
@@ -92,19 +104,27 @@ Vihaan takes the voucher and turns it over. "Chalees crate bottles."
 
 "Chalees, sahab."
 
-"Hamne ikattis liye. Wapas bhej do. Aur kehna mera kehna hai." He puts the voucher down and takes the pen from behind the boy's ear and signs the back of it.
+"Hamne ikattis liye. Wapas bhej do. Aur kehna mera kehna hai."
+
+He puts the voucher down and takes the pen from behind the boy's ear and signs the back of it.
 
 The boy goes out with the voucher. Purvi has watched all of it.
 
-The door shuts behind the boy. The fan goes round, and the tube light buzzes and holds.
+The door shuts behind the boy.
 
-"Woh wahan hai." She points at the third shelf from the door. "B matlab channels. Channels saath rakhte hain."
+The fan goes round, and the tube light buzzes and holds.
+
+"Woh wahan hai." She points at the third shelf from the door.
+
+"B matlab channels. Channels saath rakhte hain."
 
 Purvi goes along the shelf with her finger and pulls out a blue box file and puts it on the table and opens it. "B-46. Yeh hai."
 
 "Toh tumhein mil gayi."
 
-"Mil gayi." She starts putting the papers back. Her hands are shaking. One bundle slides out of the file and comes open on the floor, and the pages go across the tiles, and his printout comes out from under the shelf with them, because the bundles stand stacked on each other since morning. Purvi goes down on one knee and gathers what is hers; he crouches and gets his own sheet from under the shelf and squares it against the floor and puts it back at the top of his stack. Something small and brown comes up out of her page in her own hand.
+"Mil gayi." She starts putting the papers back. Her hands are shaking.
+
+One bundle slides out of the file and comes open on the floor, and the pages go across the tiles, and his printout comes out from under the shelf with them, because the bundles stand stacked on each other since morning. Purvi goes down on one knee and gathers what is hers; he crouches and gets his own sheet from under the shelf and squares it against the floor and puts it back at the top of his stack. Something small and brown comes up out of her page in her own hand.
 
 It is a marigold. Dried, and flat, and the colour of old paper with orange still in it.
 
@@ -116,7 +136,9 @@ It is a marigold. Dried, and flat, and the colour of old paper with orange still
 
 "Aapne Monday kaha tha."
 
-"Toh late hai." He puts it in her palm and closes her fingers over it with his own, and takes his hand away. "Yeh lo. Ab diya."
+"Toh late hai." He puts it in her palm and closes her fingers over it with his own, and takes his hand away.
+
+"Yeh lo. Ab diya."
 
 She looks down at her fist. Then she puts the marigold into the file between two pages, and shuts the file, and picks it up.
 
@@ -126,7 +148,9 @@ Vihaan has turned back to his boxes.
 
 "Ye sab kya hai?" She means the boxes, and the printout, and the figures on it.
 
-"Saal ke ledgers. London ke aur hamare." He puts the lid on one and stacks it on the table. "Delhi waale kisi ne April se balance nahin kiye. London ka hissa ho gaya hai."
+"Saal ke ledgers. London ke aur hamare." He puts the lid on one and stacks it on the table.
+
+"Delhi waale kisi ne April se balance nahin kiye. London ka hissa ho gaya hai."
 
 "April se?"
 
@@ -134,13 +158,21 @@ Vihaan has turned back to his boxes.
 
 "Chuha."
 
-"Chuha maine nahin dekha. Maine dekha hai ki chuha kya kha raha hai." He puts the lids on the rest and stacks them, and takes his printout in his hand.
+"Chuha maine nahin dekha. Maine dekha hai ki chuha kya kha raha hai."
+
+He puts the lids on the rest and stacks them, and takes his printout in his hand.
 
 "Garmi hai," Purvi says.
 
-"Bukhaar ko garmi pasand hai." He squares the printout against the table. "Ya pasand nahin hai. Main doctor nahin hoon. Main chuhe ka makaan-maalik hoon."
+"Bukhaar ko garmi pasand hai." He squares the printout against the table.
 
-He goes out. Purvi stands in the record room with the blue file against her chest and the marigold inside it. She is smiling. Then the smile goes, and she puts her hand flat on the table and waits for the room to stop moving.
+"Ya pasand nahin hai. Main doctor nahin hoon. Main chuhe ka makaan-maalik hoon."
+
+He goes out.
+
+Purvi stands in the record room with the blue file against her chest and the marigold inside it. She is smiling.
+
+Then the smile goes, and she puts her hand flat on the table and waits for the room to stop moving.
 
 * * *
 ## The Training of a Dear Heart
@@ -151,13 +183,17 @@ In the cabin Aryaman has the file open on the desk in front of him and a red pen
 
 Purvi comes up the stairs with the blue file against her chest and the pass swinging from her neck. At the door of the cabin she stops, and takes hold of the frame, and says it to nobody.
 
-"Hey Bhagwan, mujhe job Didi ke kehne par mil toh gayi hai. Par bas Aryaman sir ko mera kaam pasand aa jaye."
+"Hey Bhagwan, mujhe job Didi ke kehne par mil toh gayi hai, the score sounding under the hoping (m34:34). Par bas Aryaman sir ko mera kaam pasand aa jaye."
 
 Purvi goes in.
 
-"Purvi, listen." Arjun sits forward on the sofa. "Bhai, ye aapki personal assistant. Come on, bhai, aapke PA ki post ke liye aayi hai woh." He puts his head back, and he is enjoying himself. "Woh — aur aane se pehle hi aapne usko dara diya."
+"Purvi, listen." Arjun sits forward on the sofa. "Bhai, ye aapki personal assistant. Come on, bhai, aapke PA ki post ke liye aayi hai woh." He puts his head back, and he is enjoying himself.
 
-"Shuru se dara dena zaroori hai." Aryaman does not look up from the page. "Taaki aage kuch bhi ho jaye, dar na lage. Yahi iski training ki shuruaat hai."
+"Woh — aur aane se pehle hi aapne usko dara diya."
+
+"Shuru se dara dena zaroori hai." Aryaman does not look up from the page.
+
+"Taaki aage kuch bhi ho jaye, dar na lage. Yahi iski training ki shuruaat hai."
 
 "Ye kaisi training hai, bhai?"
 
@@ -171,21 +207,29 @@ He puts the pen down and talks over her. "Kal raat se main yahin par hoon. Mere 
 
 Purvi stands over him. He looks up at her for the first time.
 
-Purvi sits. She takes a pen out of the stand, and her hand is not steady, and she puts it down on the paper and holds it with both hands.
+Purvi sits. She takes a pen out of the stand, and her hand is not steady, and she puts it down on the paper and holds it with both hands, with nervousness.
 
-"Uske baad office aake mere nine o'clock show ka rundown ready karo." He turns his hand over. "Uske baad gyaarah baje meri dinner pe meeting hai. Uske liye reservation. Hamare last fiscal ke har month ka ledger balance karo. Pichhle paanch saal ki TRP study karo aur mere liye report ready karo. Hamare employees ke payment schedule ko study karo, aur how can you make more efficient. Ye sab karke do."
+"Uske baad office aake mere nine o'clock show ka rundown ready karo." He turns his hand over.
+
+"Uske baad gyaarah baje meri dinner pe meeting hai. Uske liye reservation. Hamare last fiscal ke har month ka ledger balance karo, the score sounding under the listing (m35:11). Pichhle paanch saal ki TRP study karo aur mere liye report ready karo. Hamare employees ke payment schedule ko study karo, aur how can you make more efficient. Ye sab karke do."
 
 Purvi writes. The pen goes down the page.
 
-Purvi looks at the page. Then she looks up. "Yeh toh ek hafte mein—"
+Purvi looks at the page. Then she looks up.
 
-"Yeh ek din ka kaam hai." He looks at her. "And yes. One single more thing."
+"Yeh toh ek hafte mein—"
 
-Purvi's pen is ready. "Single more, sir? Ye—" She waits. "Ye last ki cheez main—"
+"Yeh ek din ka kaam hai." He looks at her.
+
+"And yes. One single more thing."
+
+Purvi's pen is ready. "Single more, sir? Ye—" She waits.
+
+"Ye last ki cheez main—"
 
 He does not look up. He does not say what the thing is.
 
-Purvi waits. The pen stays where it is on the page, and the last line on it is blank, and she goes on waiting.
+Purvi waits. The pen stays where it is on the page, and the last line on it is blank, and she goes on waiting, with confusion.
 
 Then, under her breath, to the paper, she says: "Itna saara kaam — main insaan hoon ya naagin?"
 
@@ -194,7 +238,9 @@ Then, under her breath, to the paper, she says: "Itna saara kaam — main insaan
 
 The office stairs at noon with the light coming down from the top. Karan stands on the landing in a peach kurta with the phone to his ear and one hand on the rail.
 
-"Haan ji, Tauji." He starts down. "Woh naagin hi hai."
+"Haan ji, Tauji." He starts down.
+
+"Woh naagin hi hai."
 
 His slippers go down the steps. Below, the building works.
 
@@ -208,13 +254,17 @@ The elder's room is at the end of the top corridor, with the blinds down and one
 
 Parmeet is at the window with his hands behind his back. Two men stand by the door. Baljeet stands by the chair.
 
-"Good." Baljeet puts his hand on the back of the chair. "Matlab ki naagin hai. Mere bete Karan pe bharosa mat karo. Woh kuch bhi ancient bolta rehta hai woh. Dekho, koi naagin nahin hai, bhai sahib."
+"Good." Baljeet puts his hand on the back of the chair.
+
+"Matlab ki naagin hai. Mere bete Karan pe bharosa mat karo. Woh kuch bhi ancient bolta rehta hai woh. Dekho, koi naagin nahin hai, bhai sahib."
 
 Nobody answers him.
 
 In the corridor the morning's work goes past: a boy with two cups of tea, a woman with a folder against her chest, the lift opening and shutting.
 
-Vihaan comes along the corridor with nothing in his hands; his jacket is over the back of a chair by the lift, where it has been since he came up, and London's day is over, so he is going down. He has been on the phone since seven and these are the last ten steps of it. The woman with the folder looks at him as he passes, and then down at her folder again.
+Vihaan comes along the corridor with nothing in his hands; his jacket is over the back of a chair by the lift, where it has been since he came up, and London's day is over, so he is going down. He has been on the phone since seven and these are the last ten steps of it.
+
+The woman with the folder looks at him as he passes, and then down at her folder again, with shyness.
 
 The door of the elder's room opens and shuts behind the men, and the latch goes over, and it is a good door. Nothing comes through it.
 
@@ -229,15 +279,19 @@ Aryaman stands by the window in a red suit with a glass in his hand. Baljeet sta
 
 Parmeet stands at the window with his back to the room.
 
-"Ye lo." His voice is flat and it carries. "Hai purana zamana hai. Ye desh itna purana hai ki hum soch bhi nahin sakte. Hum — dushman desh kabhi is desh ka chhota-sa hissa hua karte the. Hum is desh ke saamne khade bhi nahin ho sakte."
+"Ye lo." His voice is flat and it carries.
 
-Nobody moves in the room.
+"Hai purana zamana hai. Ye desh itna purana hai ki hum soch bhi nahin sakte. Hum — dushman desh kabhi is desh ka chhota-sa hissa hua karte the. Hum is desh ke saamne khade bhi nahin ho sakte."
+
+Nobody moves in the room, with awe.
 
 "Yeh desh Vishnu aur Shiv ka desh hai, jiski raksha khud Sheshnaag aur Naagraj Vasuki karte hain. Aage bhi is desh par kabhi sankat aayega, toh Naaglok ke in naagon mein itni shakti hai ki ye dushman par bhayanak waar karenge."
 
 Aryaman's glass does not move in his hand.
 
-"Main chance nahin le sakta." He turns round. "Agar ye chhatri na gire aur humein nuksan pahuncha sakti hai—" He puts one hand flat on the desk. "Humein apni aankhein khuli rakhni hongi. Us par nazar rakhni hogi ki kaun hai woh naagin."
+"Main chance nahin le sakta." He turns round. "Agar ye chhatri na gire aur humein nuksan pahuncha sakti hai—" He puts one hand flat on the desk.
+
+"Humein apni aankhein khuli rakhni hongi. Us par nazar rakhni hogi ki kaun hai woh naagin."
 
 * * *
 ## Dragon
@@ -246,9 +300,11 @@ The room with the blinds down and the one lamp on the desk, and the light of it 
 
 Parmeet stands behind his chair with both hands on the back of it.
 
-"Mujhe bahut saalon se pata tha." He comes away from the window. "Ki ek na ek din, is desh ke liye, woh ichchhadhari naagin aayegi zaroor. Isiliye maine usko yahan bulaya."
+"Mujhe bahut saalon se pata tha." He comes away from the window.
 
-Baljeet looks up from the chair. "Kisko?"
+"Ki ek na ek din, is desh ke liye, woh ichchhadhari naagin aayegi zaroor. Isiliye maine usko yahan bulaya."
+
+Baljeet looks up from the chair, with curiosity. "Kisko?"
 
 "Kuch logon ka manna hai ki woh insaan the. Lekin kuch logon ka manna hai ki woh is dharti par kabhi the hi nahin."
 
@@ -272,13 +328,13 @@ A dark lab. Glass catching the lamp in rows.
 
 "Munh se aag ugalte ye dragon poori dharti pe raaj karna chahte the. Lekin dheere-dheere inka ant ho gaya. Lekin hamare mission ke liye humein dragon chahiye thi. Iski vinashkari shaktiyan chahiye thin. Isiliye humne iske genes mein ferbadl karke isey phir se paida kiya."
 
-A giant python moves through a desert canyon.
+A giant python moves through a desert canyon, with the score sounding under the recounting (m38:27).
 
 Dragons at war, fire from their mouths.
 
 "Is dragon ko — hamare azhda ko — jo ab poore Bharat desh mein kehar banke tootega."
 
-The room is very quiet. Somewhere below in the building a phone rings and stops.
+The room is very quiet, with dread. Somewhere below in the building a phone rings and stops.
 
 * * *
 ## This Is My Weapon
@@ -291,9 +347,11 @@ Beyond it there is a passage, and the passage goes down, and there is light at t
 
 They go down. The passage turns twice and goes on down, and the wall of it is warm on one side.
 
-One of the men stops at the last turn and does not go round it. Nobody says anything to him and he does not come on.
+One of the men stops at the last turn and does not go round it, with fear. Nobody says anything to him and he does not come on.
 
-At the bottom there is a room with a shutter across it, and the shutter is iron. The iron is discoloured in the middle in a long shape, and the shape is the height of a man and a half. Two men stand at the shutter with their backs to it. They do not turn round. They have been standing there a long time.
+At the bottom there is a room with a shutter across it, and the shutter is iron.
+
+The iron is discoloured in the middle in a long shape, and the shape is the height of a man and a half. Two men stand at the shutter with their backs to it. They do not turn round. They have been standing there a long time.
 
 The light down here is orange. It lies on the grey elder's face and the red-suited young man's, close together.
 
@@ -301,7 +359,9 @@ Parmeet puts his hand on the shutter.
 
 "Ye kya hai?" one of the men says.
 
-"Ye hai mera hathiyaar." Parmeet says it quietly, into the room, with his hand on the iron. "Ye hathiyaar itna khatarnak hai ki agar maine isey khula chhod diya na, toh poore desh mein kehar macha dega."
+"Ye hai mera hathiyaar." Parmeet says it quietly, into the room, with his hand on the iron.
+
+"Ye hathiyaar itna khatarnak hai ki agar maine isey khula chhod diya na, toh poore desh mein kehar macha dega."
 
 Behind the shutter something moves. It is a sound of weight going from one side to the other, and then a scrape, and then nothing.
 
@@ -315,17 +375,23 @@ Upstairs, in the dark corridor, a figure stands at the lift with his hands in hi
 
 The door of the elder's room opens. Parmeet comes out.
 
-"Vihaan." Parmeet stops. "Tum yahan kya kar rahe ho?"
+"Vihaan." Parmeet stops.
 
-"Lift, Papa." He says it without turning round. "Woh neeche gayi hai. Main uska intezaar kar raha hoon."
+"Tum yahan kya kar rahe ho?"
 
-Parmeet looks at him for a long moment.
+"Lift, Papa." He says it without turning round.
+
+"Woh neeche gayi hai. Main uska intezaar kar raha hoon."
+
+Parmeet looks at him for a long moment, with suspicion.
 
 "Jao."
 
 Parmeet goes back into the room, and the door shuts.
 
-The lift doors open. Vihaan steps in, and the floor of it is warm under his shoes, and he rides it down.
+The lift doors open.
+
+Vihaan steps in, and the floor of it is warm under his shoes, and he rides it down.
 
 * * *
 ## What Comes Next
@@ -349,7 +415,7 @@ The lamps go on burning straight, and the wrist goes on turning under them.
               is the episode's; each half's figures (`picture_check`, `camera_check`, `thread_check`) are its own and are measured,
               not inherited.
     RIPPLED:  none — R-01 to R-04 re-read against the rebuilt prose and nothing in it asserts a superseded fact. Aryaman and Purvi
-              share only the cabin, at work, and the scene plays unscored with no tune near them; he speaks no canon line; one
+              share only the cabin, at work, and the scene plays unscored with no tune near them; Style pass 2026-11-22 re-read: R-01/R-02/R-03 stand as asserted (the cabin shared at work only; no canon line from him; the one silence owned in `SILENT`); R-04 stands — the score named is neutral (sounding/hoping/listing/recounting), every naming on a marker, and no tune plays near them as a pair (the hoping sits on her door-line said to nobody, the listing on his work-list); his register untouched (the boxes, the good door, the lift). he speaks no canon line; one
               silence is written on him and is owned in `SILENT`. The chapter's own divergences are on `foundation/BUTTERFLY.md`;
               a rule that touches it must be named here instead of `none`.
     LEDGER:   run 2026-11-20 over the track and the beats (`O041`): one live butterfly touches this half
@@ -401,7 +467,7 @@ The lamps go on burning straight, and the wrist goes on turning under them.
               merged call; Rajat's corridor arrival and his interrogation (E3's); the doubled aside and its *goonda* tail; the man by
               the chair kept separate from Baljeet; *top of the house*; *Baljeet, darwaza band karo*; the extra *kaun*; *woh ek
               kahani hai* twice with its echo; *darkaar* and *sanhaarak*; *Azha*; *aao, tum sab*; *yahan koi neeche nahin aata*;
-              *mere saath aao … sunoge* with the room doors (he is never inside); *Arya*; *parcel nahin hai*; the pass in the teeth.
+              *mere saath aao … sunoge* with the room doors (he is never inside); *Arya*; *parcel nahin hai*; the pass in the teeth. Deep 2026-11-23: word-splits only; no line added, no aired text altered.
     SEEN:     Two places: the two women at the record-room door, one of them looking back over her shoulder (`O025`); the woman with
               the folder, looking at him as she passes.
     CHANGED:  The B31 call re-speakered to Arjun with Aryaman relaying (the page had Ananta greeting herself, and Aryaman's voice out
@@ -429,4 +495,4 @@ The lamps go on burning straight, and the wrist goes on turning under them.
               at eleven in striped morning, the office stairs at noon, the lamp-room with its window, the lamp-room after, the back of
               the top floor under one bulb, the temple at midnight. The inserts that carry weight are the register, the chalk, the voucher,
               the marigold, the red pen, the blank line, the peach kurta, the photograph, the glass, the grille, the manuscript, the shutter
-              and the wrist. Speech share under two-thirds in every scene, `camera_check` green.
+              and the wrist. Speech share under two-thirds in every scene, `camera_check` green. The style pass of 2026-11-22 names the score on three markers (hoping m34:34; listing m35:11; recounting m38:27), and names surprise, nervousness, confusion, shyness, awe, curiosity, dread, fear and suspicion where the stopped chalk, the unsteady hand, the blank last line, the dropped glance, the still room, the look up, the quiet room, the last turn not taken and the long look show them (her laughs and her record-room smile already stood). The arrival, the record room, the stairs, the elders' long speeches and the weapon play unscored (no markers); the precap keeps its §4 cue. No new string: nothing held asks for one. No tasha, no pair theme. Music-only: none in this half. Battery: picture 7/7 ok; camera green; thread 3/4 green; butterfly/eyes/score-0/money/ripple/oc/beat green; dialogue 8/8; gap 8/8 whole + 3 music; rescan A1/C-new7 (pre-existing, unchanged — all sit on aired dialogue); check GREEN. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/scores/cues byte-identical; omens arc in-scene (Arrival chalk writes-stops-points, letters unlit; Record tube flickers-to-buzzes-holds, fan turns-to-rounds, door stops-opens-shuts, boxes open-to-lidded-stacked, printout beside-squared-handed-out, voucher in-turned-signed-out, marigold up-to-palm-to-pages-shut, hands shake-gather-fist-flat, smile laughs-to-goes; Training pen stand-unsteady-both-written-ready-stays, page blank-stays-blank, pen red-to-down; Karan door opens-shuts-latched, lift open-shut-to-waited; Vishnu glass held-never-moved, back turned-to-round; Dragon hands chair-to-sits, lamp hums-in-stays, pictures men-paper-glass-beast-fire, phone rings-stops; Weapon key out-opens-to-shuts, warmth wall-floor-lift, hand on-hums-off, thing stirs-settles); tissue chained (sleeves-wrist from P1's cuffs; bag lap from P1's spill; chashma-absent from P1's folded; printout-and-ledgers from the terrace; B-46 to blue file to cabin; 'Garmi hai' snake-to-her; hand-flat-waits verbatim P1's Ice; Rajat testifies from Ch5's room; slippers down the chain; lift-wait to lift-figure, hands-pockets held; chair-back Baljeet-to-Parmeet; key-rhyme Ch5's lock; shut-chain continued); gravity is his conduct-and-owned-silence (boxes-and-voucher worked, marigold returned-and-closed-in-her-fingers, corridor walked-and-waited-at-lift; Purvi watches-laughs-receives-steadies, folder-glance drops, Parmeet stops-questions-suspects); no new score, no new business.

@@ -8,15 +8,15 @@ The birth night, some days after the Suri night. Then the story.
 
 ## The First Lane
 
-An old white car on a road at night. The professor drives it himself, both hands on the wheel, and the windscreen takes the light of each lamp he passes.
+An old white car on a road at night. The professor drives it himself, both hands on the wheel. The windscreen takes the light of each lamp he passes.
 
 "Uttari pahadiyon ke khatm hone ke baad. Shehar ki sarhad ki pehli gali. Jis ghar ke bahar ek chhota Shivling hai. Us ghar mein. Wahin wo milegi. Ananta."
 
-The Arora house at night, and the front room lit, and the television on. The set stands on a dark cabinet against an ochre wall, the picture red and blue, and a strip along the bottom says BREAKING NEWS.
+The Arora house at night. The front room lit. The television on. The set stands on a dark cabinet against an ochre wall, the picture red and blue. A strip along the bottom says BREAKING NEWS.
 
 "Ghuspaithiyon ne hamare desh mein ghusna shuru kar diya hai." The news-reader does not hurry. "Dushman desh se bahut log hamare desh mein ghuskar hamare logon ko markar unki jagah le rahe hain. Savdhan rahiye aur satark rahiye."
 
-Gurinder sits turned toward the screen, young, spectacled, in a check shirt. The phone lies beside his hand. Shalini sits across from him in a pink suit, her hands in her lap.
+Gurinder sits turned toward the screen. Young, spectacled, in a check shirt. The phone lies beside his hand. Shalini sits across from him in a pink suit, her hands in her lap.
 
 "Shalini." He says it to the screen, not to her. "Ye Parmeet aur Nimrat parjai ji phone nahin utha rahe. Unke ghar gaya tha main. Wahan taala hai."
 
@@ -24,17 +24,19 @@ He shakes his head slowly.
 
 "Na jaane wo poora Suri parivaar achanak se, bina bataye, kahan gayab ho gaya. Tu bhi zara dhyan se rahiyo. Sambhal ke."
 
+Worry — his aloud, hers folded in her lap.
+
 "Ye dekhiye na." She points at the screen. "Baar-baar kya bata rahe hain news mein."
 
-The television fills the silence with the warning. What is inside the Suri lock, behind the taala Gurinder found, is Vihaan — asleep in the cot, with the paper cap beside the rail, waiting out the night the way only a boy of one can.
+The television fills the silence with the warning. What is inside the Suri lock, behind the taala Gurinder found, is Vihaan. Asleep in the cot. The paper cap beside the rail. Waiting out the night the way only a boy of one can.
 
 * * *
 
 ## Refused
 
-The Aroras' front room at night, and the lamp burning, and the street door shut on the lane. Then a knock, and both of them look up.
+The Aroras' front room at night. The lamp burning. The street door shut on the lane. Then a knock. Both of them look up.
 
-The lamp burns on the cabinet, and the television murmurs, and neither of them moves.
+The lamp burns on the cabinet. The television murmurs. Neither of them moves.
 
 "Is waqt kaun aaya?" Shalini is up. "Main dekhti hoon, ruko." She goes to the door and stops short of it. "Kaun hai?"
 
@@ -43,6 +45,8 @@ Her hand stays flat on the door. Behind her, Gurinder gets up.
 "Main Tushar Sinha. Main ek scientist hoon. Please darwaza kholiye. Mujhe aapse zaroori baat karni hai."
 
 "Nahin nahin." She puts her hand flat on the door. "Hum nahin darwaza kholenge."
+
+Fear — it holds her hand to the door.
 
 The professor's shadow moves under the door.
 
@@ -72,7 +76,7 @@ He starts to shut the door. The professor's foot does not move.
 
 "Dekhiye, ek, ek minute, ek minute." Tushar lays a hand on his own chest. "Ye, yahi address hai. Wo, wo yahin rehti hai. Aap use bulaiye. Mujhe baat karni hai usse. Zaroori hai. Uska jaanna — ki is desh ko sirf, sirf wohi bacha sakti hai."
 
-Nobody in the doorway speaks. The lane is empty behind him, and the lamps burn on.
+Nobody in the doorway speaks. The lane is empty behind him. The lamps burn on.
 
 "Ab ki gal kar raha hai yeh?" Gurinder turns to her.
 
@@ -88,21 +92,21 @@ The door shuts. The lamp throws their shadows up the wall.
 
 "Ji, menu ki pata."
 
-A car stands in the lane with the engine off. The man with the moustache sits in it with his keys in his lap, watching the Arora door — the keeper, who keeps Vihaan, waiting to see where the professor goes next.
+A car stands in the lane with the engine off. The man with the moustache sits in it with his keys in his lap, watching the Arora door. The keeper, who keeps Vihaan, waiting to see where the professor goes next.
 
 * * *
 
 ## The Woman at the Door
 
-Storm cloud over the lane, and the Aroras' front room with the television on and the lamp burning. Another knock, and Gurinder rubs his face.
+Storm cloud over the lane. The Aroras' front room with the television on and the lamp burning. Another knock. Gurinder rubs his face.
 
 The television plays to an empty stare. Neither of them is watching it.
 
 "Ab mujhe ye wahi hoga. Scientist. Pata nahin kyun phir se aa gaya. Ye scientist bhi." He pulls the door open. "Are bhai, humne kaha na, yahan par koi—"
 
-The woman does not flinch. The shawl stays over her head, and her hands stay joined.
+The woman does not flinch. The shawl stays over her head. Her hands stay joined.
 
-A woman stands on the step with a grey shawl over her head. The shawl is a coarse grey cloth, and under it her forehead shows blood at the hairline. Her hands are joined.
+A woman stands on the step with a grey shawl over her head. The shawl is a coarse grey cloth. Under it her forehead shows blood at the hairline. Her hands are joined.
 
 "Mujhe madad ki zaroorat hai."
 
@@ -112,13 +116,13 @@ Shalini pushes past him. The lamp catches the blood at the woman's hairline.
 
 "Ye to pet se hai ji." Shalini's voice changes entirely. "Lagta hai iski delivery hone wali hai." She is not frightened of her; she is frightened for her. She takes the woman by the arm. "Aao ji, chheti aao. Aaiye, andar aaiye."
 
-They lay her down and cover her with a dark sheet, and Shalini kneels beside her with both arms round her.
+They lay her down and cover her with a dark sheet. Shalini kneels beside her with both arms round her.
 
 "Bas, bas, bas, bas. Aaram se. Main paani laati hoon. Aaram se, aaram se."
 
 "Ye beti hai."
 
-Shalini wraps the sheet closer round the child, and the woman's hand finds the small back.
+Shalini wraps the sheet closer round the child. The woman's hand finds the small back.
 
 "Aap, aap fikr mat kijiye." Shalini's hand is on the woman's hair. "Hum aapko kuch nahin hone denge."
 
@@ -126,11 +130,13 @@ Shalini wraps the sheet closer round the child, and the woman's hand finds the s
 
 "Ji, hum…" Gurinder's hands open and close. "Lekin hum ise kyun?"
 
-"Kyunki wo chahte hain." Her finger comes up. Music goes under the line. "Ye unki ichchha hai."
+"Kyunki wo chahte hain." Her finger comes up. The score goes under the line. "Ye unki ichchha hai."
 
 "Wo kaun hai?"
 
 "Wo Vikral. Wo Akal. Wo Mahakal."
+
+Awe — the three names stand in the room.
 
 "Bahut log aayenge ise maarne ke liye." Her hand comes down on the small back. "Par aapko ise bachana hai. Jaise aaj ise maine bachaya hai."
 
@@ -138,15 +144,15 @@ Shalini wraps the sheet closer round the child, and the woman's hand finds the s
 
 ## Sarvashreshth
 
-The lamp burns in the Arora room, and the woman lies under the dark sheet with the child against her, and her voice goes out of the room and onto the road she walked.
+The lamp burns in the Arora room. The woman lies under the dark sheet with the child against her. Her voice goes out of the room and onto the road she walked.
 
-High ground at night, blue under the moon. The woman walks alone with the grey shawl drawn round her, one hand under her belly, and the wind pulls at the cloth.
+High ground at night, blue under the moon. The woman walks alone with the grey shawl drawn round her, one hand under her belly. The wind pulls at the cloth.
 
 "Mujhe Sarvashreshth Naagin ke naam se jaana gaya. Maine teen janm liye. Pehle Pratha, phir Prarthana, aur phir Pragati. Teenon janmon se insaan. Par janm Sarvashreshth Naagin ka."
 
-She stops to breathe, and goes on.
+She stops to breathe. She goes on.
 
-The shawl is grey cloth against the blue dark, and her hand never leaves her belly.
+The shawl is grey cloth against the blue dark. Her hand never leaves her belly.
 
 "Ek naagin kitne bhi roop badal le, kitni bhi zindagi jee le — par uske liye wo pal sabse bada hota hai jab uske Bhagwan use chunte hain. Kisi maksad ke liye mujhe chuna gaya. Tujhe janm dene ke liye."
 
@@ -166,11 +172,13 @@ Wolves come at her on the ridge: a snarling head, then the pack.
 
 She turns and fights.
 
+Fury — a mother's, and a naagin's.
+
 * * *
 
 ## Ananta
 
-The room in the dark, and the lamp still burning. She lies with the child against her. Her eyes are open. There is blood on her face and on her neck.
+The room in the dark. The lamp still burning. She lies with the child against her. Her eyes are open. There is blood on her face and on her neck.
 
 The dark sheet holds her shape. The lamp burns on beside the bed.
 
@@ -178,11 +186,13 @@ The dark sheet holds her shape. The lamp burns on beside the bed.
 
 "Ananta!" Shalini freezes. "Wo aadmi bhi yahi naam le raha tha. Ananta."
 
+Shock — the name lands twice.
+
 Shalini takes the child in her arms. The white sheet hides all but the face.
 
-A ruined room, lit blue. Roots hang from the roof. There is one wooden chair. Tushar is dragged down between two men and put on the floor. The bald one and the man with the moustache have him by the throat. Against the far wall, on the floor, a boy sits with a large book across his knees and both arms round it. He is awake, and nobody in the room has any use for him.
+A ruined room, lit blue. Roots hang from the roof. There is one wooden chair. Tushar is dragged down between two men and put on the floor. The bald one and the man with the moustache have him by the throat. Against the far wall, on the floor, a boy sits with a large book across his knees and both arms round it. He is awake. Nobody in the room has any use for him.
 
-The dust lies thick on the floor, and the roots hang without moving.
+The dust lies thick on the floor. The roots hang without moving.
 
 "Bol. Hamara naash karne kaun aane wala hai? Bata. Bol. Bol, bol."
 
@@ -190,7 +200,7 @@ The dust lies thick on the floor, and the roots hang without moving.
 
 "Tum log mujhe maar sakte ho. Mera ant kar sakte ho. Uska koi ant nahin. Ye Bharat hai — Kaal Bhairav, Mahakal ki bhoomi."
 
-He lies on his side in the dust with his glasses still on and blood at his mouth, and the glass flashes when he turns his face. His mouth opens wide. He is not afraid of them. He is in pain.
+He lies on his side in the dust with his glasses still on and blood at his mouth. The glass flashes when he turns his face. His mouth opens wide. He is not afraid of them. He is in pain.
 
 "Jab-jab tum jaise dushman aaye hain, wo aayi hai."
 
@@ -208,7 +218,7 @@ He lies on his side in the dust with his glasses still on and blood at his mouth
 
 "Kaun aa rahi hai? Bol, bol, kaun aa rahi hai? Kaun aa rahi hai?"
 
-The blow falls among the shouts. His face lies against the floor, and the eyes are closed.
+The blow falls among the shouts. His face lies against the floor. The eyes are closed.
 
 * * *
 
@@ -227,7 +237,17 @@ This part is the birth night: the news, the refusal, the birth and the charge, t
     FENCE:  The Woman at the Door · Sarvashreshth · Ananta
     SPLIT:  This half carries B06 to B12 and the precap; the Kumbh, the gathering, the Suri night, the keeping, the prophecy
             and the farewell are Part 1. Figures below are measured on this half, not inherited.
-    RIPPLED:  none — R-01 to R-04 re-read against the rebuilt prose and nothing in it asserts a superseded fact.
+    RIPPLED:  none — R-01 to R-04 re-read against the rebuilt prose and nothing in it asserts a superseded fact. Re-read 2026-11-22 for the style pass (one score re-voicing on its marker, feelings on frames): nothing added asserts a superseded fact.
+    CORRECTED: Style pass 2026-11-22 (score re-voiced on the window's one marker, feelings
+              named per O019/O035; gates re-run pass-night: picture 5/5 (0 SHORT, mean
+              speech 54%), camera green, oc green, thread 3/3, butterfly 58
+              clean, eyes green, score 0 faults, money green, ripple green (none
+              declared), beat green, dialogue 18/18, gap 19/19 (1 music),
+              rescan A0/B-paste0/B-rev0/B-tr3/C-new10, check RED-1 standing Ch16
+              (59% RED, pre-existing, standard). D1: B-traces L159/L163/L165 all
+              aired B10 account dialogue with same-block C-cover (L163 same-line;
+              L159/L165 bracketed L151/L157/L163/L167, caps 17:42/18:17 verified)
+              — nothing to break. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/scores/cues byte-identical; omens arc in-scene (First Lane windscreen takes the lamps one by one; Refused hand flat-to-moved, door shut-open-shut; Woman hands joined-to-finding-to-raised-to-laid; Ridge hand-on-belly-then-fights; Ananta eyes open-to-closed); tissue chained (lamp-chain continues: road-lamps, room-lamp, ridge-moon; cap beside the rail; taala-to-lock; white car road-to-kerb; television warning-to-stare); gravity where true (kept boy owns the lane's close; keeper owns the door's close); precap untouched; no new music, no new business.
     BASE:     Naagin 7, Episode 1, 12:30 to 23:14 of the official upload, as reference. Beats B06 to B12 produce the premise.
     VOICE:    Hindi dialogue, transliterated from the timed caption track wherever the track carries the line (1345 timed cues,
               `canon/SOURCE_DOSSIER.md` §E1; the local merged reading copy is `captions/E01.hi.txt`); authored in
@@ -258,7 +278,7 @@ This part is the birth night: the news, the refusal, the birth and the charge, t
               the pack, the fight; the naming; the blue ruin with its roots and its chair, the dragged-down professor, the throat
               hold, the glasses and the blood, the wide mouth, the blow among the shouts, the closed eyes.
               Authored and declared: small movement between frames (who rises, who opens, which hand the finger); the boy with
-              the book against the far wall (`BF-89`); the white-wrapped child. The kidnap itself is not staged (TR's only).
+              the book against the far wall (`BF-89`); the white-wrapped child. The kidnap itself is not staged (TR's only). The style pass of 2026-11-22 re-voices the charge's Music line to the score idiom (marker unchanged: C 16:40 — the window's only marker), and names worry, fear, awe, fury and shock where the frames show them. The title song stays unrendered and the precap unscored, as declared. Deep 2026-11-23: word-splits only; no line added, no aired text altered.
     CHANGED:  B06 and B07 are two scenes now, not one: the news and the locked house are the lane's business, the knock and
               the refusal are the door's, and the watcher in the car belongs to the door. R21 stands: the dying litany
               names the king as well as the queen (`O023`); canon's names only her. The old "gold SN", the lamp on the
@@ -266,7 +286,7 @@ This part is the birth night: the news, the refusal, the birth and the charge, t
               light, the bangle, the glassless window, the ridge drums and the precap drum are all struck — none of them
               is on the screen.
     ADDED:    Feeling is named in plain words once, at the moment the stills or the cues show it (`O019`), and never
-              explained. No feeling is named that the episode does not show.
+              explained. No feeling is named that the episode does not show. The 2026-11-22 pass names five: worry in the Arora room (his aloud, hers folded in her lap), fear at the refusal, awe at the three names, fury on the ridge, shock at the naming — the torture's pain and fearlessness already stand named. The chapter's repetition-as-music is aired and untouched: *bas* said four times over, *bol* tolling through the ruin.
     RECEIPT:  What each addition is for, and what it costs, per `L-27`. The two-scene split: B06 ends on the lock, B07 on
               the watcher, and each carries a true trace of the kept boy instead of the old false ones. `BF-89`: the
               professor's son sits in the ruined room with the entrusted book, because the taking the state forward

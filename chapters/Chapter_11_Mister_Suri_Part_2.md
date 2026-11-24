@@ -21,17 +21,25 @@ A drum, once. Mahadev's trishul is not shown, but the thunder is his. Then the s
 
 The room, with the lights still on and the family standing where the shouting began.
 
-Purvi does not go to the door. She stands where she is and puts her hands together in front of her, and her voice comes out of her chest and not her throat.
+Purvi does not go to the door.
 
-"Agar aap logon ko lagta hai ki aap log yoon cheekhenge, chillayenge mujh par aur main dar jaaungi—" She looks at Parmeet. "You are wrong, Mister Suri."
+She stands where she is and puts her hands together in front of her, and her voice comes out of her chest and not her throat.
+
+"Agar aap logon ko lagta hai ki aap log yoon cheekhenge, chillayenge mujh par aur main dar jaaungi—"
+
+She looks at Parmeet.
+
+"You are wrong, Mister Suri."
 
 The room is very still, and she hears her own voice in it and does not stop.
 
-Ananta takes one step into the room. "Aapke bete ki asliyat hai, main saari media ko bataungi. Is ghar ke bete ne mere saath kya kiya hai? Ye main sabko bataungi."
+Ananta takes one step into the room.
 
-"Chal." Ananta holds her hand out to her sister.
+"Aapke bete ki asliyat hai, main saari media ko bataungi. Is ghar ke bete ne mere saath kya kiya hai? Ye main sabko bataungi."
 
-Her hands are shaking and she holds them together in front of her so that they will not be seen shaking, and it is a small thing and it is the bravest thing in the room.
+"Chal." Ananta holds her hand out to her sister, the score sounding under the leaving (m19:43, the threat before it Part 1's).
+
+Her hands are shaking and she holds them together in front of her so that they will not be seen shaking, with fear, and it is a small thing and it is the bravest thing in the room.
 
 The skin of her forearms is hot. There is a taste in her mouth that is not any food she has eaten that day, and the corner of her jaw itches, and her hand cannot reach the place it itches.
 
@@ -39,7 +47,9 @@ She scratches the corner of her jaw once, and a flake of the khaal comes away un
 
 Nobody in the room is looking at her hands except the boy by the wall, who is looking at nothing else.
 
-She turns and goes, and Ananta goes with her, and they take their dupattas off the chair by the door, and the handkerchiefs they had in their hands come out with them and fall on the carpet by the sideboard, and neither of them knows it.
+She turns and goes, and Ananta goes with her.
+
+They take their dupattas off the chair by the door, and the handkerchiefs they had in their hands come out with them and fall on the carpet by the sideboard, and neither of them knows it.
 
 Parmeet watches them go. Then he bends down and picks both handkerchiefs up off the floor and puts them in his trouser pocket, one after the other, unhurried, and looks at the cloth of the second one for a moment in the light of the sideboard.
 
@@ -49,7 +59,9 @@ He sees it the way a man sees a car come home at two in the morning: the fact, p
 
 "Tina." Vihaan says it from the wall. "Chaliye."
 
-This time she goes. She sets the plate down on the sideboard first, and she sets it down carefully, the way a person sets down a thing they have held for a long time, and she goes out through the door he holds open for her, and he goes with her, and the door shuts.
+This time she goes.
+
+She sets the plate down on the sideboard first, and she sets it down carefully, the way a person sets down a thing they have held for a long time, and she goes out through the door he holds open for her, and he goes with her, and the door shuts.
 
 In the hall, at the foot of the stairs, out of the hearing of the room, she stops and puts her hand flat against the wall.
 
@@ -63,7 +75,9 @@ In the hall, at the foot of the stairs, out of the hearing of the room, she stop
 
 She looks at him a moment longer than is comfortable, and then she goes up the stairs to the room they have given her, and her heels go all the way to the top and stop.
 
-He lets out a breath he has been holding since the sideboard, and it comes out shaking, and he puts his hand over his mouth for a second, and then takes it away.
+He lets out a breath he has been holding since the sideboard.
+
+It comes out shaking, and he puts his hand over his mouth for a second, and then takes it away.
 
 Vihaan stands at the foot of the stairs with his hand on the newel post, and then he goes into the study and closes the door.
 
@@ -87,23 +101,33 @@ The glass comes down on the sideboard hard enough to ring.
 
 "Yeh ghar mera hai."
 
-"Haan." Vihaan does not raise his voice and does not move. "Aur is ghar ka kharcha mera hai. Chaubees lakh mahina, Papa. Bijli, guards, gaadiyan, woh teen jo aapne pichhle mahine rakhe, aur us shaadi ka tent jiske liye aapne mujhe bataya bhi nahin tha." He puts one hand flat on the back of the chair. "Main hisaab rakhta hoon. Aap khabar rakhte ho."
+"Haan." Vihaan does not raise his voice and does not move. "Aur is ghar ka kharcha mera hai. Chaubees lakh mahina, Papa. Bijli, guards, gaadiyan, woh teen jo aapne pichhle mahine rakhe, aur us shaadi ka tent jiske liye aapne mujhe bataya bhi nahin tha."
+
+He puts one hand flat on the back of the chair.
+
+"Main hisaab rakhta hoon. Aap khabar rakhte ho."
 
 Parmeet looks at him for a long moment, and then he laughs, and the laugh has no kindness in it.
 
 "Tum kar rahe ho apne baap se paise ki baat."
 
-"Main aapse kaam ki baat kar raha hoon." Vihaan pulls the chair out and sits down in it, which nobody in that house does in front of Parmeet. "Kal subah do cheezein hongi. Woh ladki media mein jaayegi, ya nahin jaayegi. Aur woh jo bhi karegi, use Aryaman ke naam se hoga, is ghar ke naam se hoga, aur channel ke naam se hoga. Us channel mein London ka paisa hai. Mera."
+"Main aapse kaam ki baat kar raha hoon." Vihaan pulls the chair out and sits down in it, which nobody in that house does in front of Parmeet.
+
+"Kal subah do cheezein hongi. Woh ladki media mein jaayegi, ya nahin jaayegi. Aur woh jo bhi karegi, use Aryaman ke naam se hoga, is ghar ke naam se hoga, aur channel ke naam se hoga. Us channel mein London ka paisa hai. Mera."
 
 "Toh apna paisa nikaal lo."
 
-"Main nikaal lunga." He says it quietly. "Aur phir aapke paas yeh ghar bachega, yeh lawn bachegi, aur woh teen gaadiyan. Bas."
+"Main nikaal lunga." He says it quietly.
+
+"Aur phir aapke paas yeh ghar bachega, yeh lawn bachegi, aur woh teen gaadiyan. Bas."
 
 The clock in the passage goes on ticking. Parmeet drinks, and puts the glass down, and sits down at last in the chair opposite.
 
 "Tum kya chahte ho?"
 
-"Do cheezein." Vihaan's hands are on the chair's arms. "Pehli, is ghar mein jo bhi kaagaz hai — channel ka, mera, Kumbh ka — woh kal se is ghar mein nahin rahega. Main apne aadmi bhejunga. Aap kis ko kuch nahin bologe."
+"Do cheezein." Vihaan's hands are on the chair's arms.
+
+"Pehli, is ghar mein jo bhi kaagaz hai — channel ka, mera, Kumbh ka — woh kal se is ghar mein nahin rahega. Main apne aadmi bhejunga. Aap kis ko kuch nahin bologe."
 
 "Aur doosri?"
 
@@ -111,7 +135,9 @@ The clock in the passage goes on ticking. Parmeet drinks, and puts the glass dow
 
 "Yeh ghar—"
 
-"Yeh ghar aapka hai, Papa." Vihaan gets up. "Isliye main aapse poochh raha hoon. Agli baar main poochhunga nahin."
+"Yeh ghar aapka hai, Papa." Vihaan gets up.
+
+"Isliye main aapse poochh raha hoon. Agli baar main poochhunga nahin."
 
 Vihaan goes to the door and stops with his hand on it.
 
@@ -119,7 +145,9 @@ Vihaan goes to the door and stops with his hand on it.
 
 The door shuts. Parmeet sits with his glass and the clock, and on the other side of the door his son stands in the dark passage for a while with his hand still on the handle.
 
-That night Vihaan does not go up. He sits in the dining room with the light on and the laptop open, and in the small hours Verma gets four lines from him: *Kal nau baje teen aadmi bhejo. Saara kaagaz. Channel, Kumbh, contract. Ghar se nikalna hai. Parmeet sahab ko kuch nahin batana.* And then a fifth line, which Verma reads twice: *Aur ek register banwao. Har aadmi jo is ghar mein aata hai, naam, kaam, time. Chaubees ghante.*
+That night Vihaan does not go up.
+
+He sits in the dining room with the light on and the laptop open, and in the small hours Verma gets four lines from him: *Kal nau baje teen aadmi bhejo. Saara kaagaz. Channel, Kumbh, contract. Ghar se nikalna hai. Parmeet sahab ko kuch nahin batana.* And then a fifth line, which Verma reads twice: *Aur ek register banwao. Har aadmi jo is ghar mein aata hai, naam, kaam, time. Chaubees ghante.*
 
 
 * * *
@@ -127,25 +155,39 @@ That night Vihaan does not go up. He sits in the dining room with the light on a
 
 The lawn at the back of the house has its lights off, and the moon is up over the wall, one night off full and going down towards the ridge, and it is the only light on the grass.
 
-The generator is running somewhere behind the wall, and the men from the hall stand at the edge of the lawn with their glasses, keeping their voices down, and the glasses are in a row on the wall where they have set them.
+The generator is running somewhere behind the wall.
+
+The men from the hall stand at the edge of the lawn with their glasses, keeping their voices down, and the glasses are in a row on the wall where they have set them.
 
 A bucket stands by the wall in the dark with a cloth over the top of it.
 
 The marigold in it is going brown at the edges, and nobody has moved it since the morning.
 
-Parmeet comes out and stands at the dark edge of it and says a name, and then, softer, "Mere bachche."
+Parmeet comes out and stands at the dark edge of it and says a name.
+
+Then, softer, "Mere bachche."
 
 A shape comes out of the black beyond the wall and stands at the edge of the light, and it is big, and it stands very still, and it does not move the way a dog moves.
 
-"Mere bachche." Parmeet's hand goes out and rests on the animal's neck. "Aaj tere dad ko teri zaroorat hai. In dono ladkiyon ko tujhe sambhalna hai."
+"Mere bachche."
 
-The men at the edge of the lawn have stopped talking among themselves, and one of them is looking at his own shoes, and one of them cannot stop looking at the animal.
+Parmeet's hand goes out and rests on the animal's neck.
+
+"Aaj tere dad ko teri zaroorat hai. In dono ladkiyon ko tujhe sambhalna hai.", the score sounding under the telling (m21:11).
+
+The men at the edge of the lawn have stopped talking among themselves.
+
+One of them is looking at his own shoes, and one of them cannot stop looking at the animal, with dread.
 
 One of them takes his glass away from his mouth and comes closer.
 
-"Bhai sahab, agar us ladki ne Ravish ke baare mein sabko bata diya — ya sach mein wo media ke paas chali gayi — to hamari izzat ki dhajjiyan ud jayengi." He looks at the house. "Aur log Suri family ke baare mein sab kuch jaanna chahenge. Yahan tak ki hamara har chhupa raaz bhi."
+"Bhai sahab, agar us ladki ne Ravish ke baare mein sabko bata diya — ya sach mein wo media ke paas chali gayi — to hamari izzat ki dhajjiyan ud jayengi.", the score sounding under the warning (m21:33, first of two).
 
-"Uski naubat nahi aayegi." Parmeet's hand stays on the animal. "Ek kutta nahi — bhediya hai, bhediya. Wo un dono ladkiyon ki khushbu soongh kar unhein dhoondh nikaalega. Aur dono ko thikaane laga dega."
+He looks at the house.
+
+"Aur log Suri family ke baare mein sab kuch jaanna chahenge. Yahan tak ki hamara har chhupa raaz bhi."
+
+"Uski naubat nahi aayegi." Parmeet's hand stays on the animal. "Ek kutta nahi — bhediya hai, bhediya. Wo un dono ladkiyon ki khushbu soongh kar unhein dhoondh nikaalega. Aur dono ko thikaane laga dega.", the score sounding under the ordering (m21:33, second of two).
 
 "Ek jaanwar jab attack karega," Parmeet says, "to hum par koi shak nahi karega."
 
@@ -158,38 +200,64 @@ Ananta stands on the wrong side of it with her sister and looks back at the hous
 
 Ananta puts her hand flat on her own stomach, on the cloth, where nobody in that house has been allowed to put a hand all evening.
 
-"Main unhein chhodungi nahi." She says it at full voice, across the road, at the lit windows. The guard's head comes up off his radio. "Unhonne jo mere saath kiya, mere bachche ke saath kiya, wo koi mazaak nahi hai."
+"Main unhein chhodungi nahi."
+
+She says it at full voice, across the road, at the lit windows. The guard's head comes up off his radio.
+
+"Unhonne jo mere saath kiya, mere bachche ke saath kiya, wo koi mazaak nahi hai."
 
 Her voice cracks in the middle of it and she goes on anyway, and her sister's hand closes round her wrist.
 
-"Un sabka pardafaash karungi." Her chin is up and her eyes are dry. "Nahi chhodungi. Bilkul bhi nahi."
+"Un sabka pardafaash karungi."
 
-The guard has his radio in his hand and does not turn it on. Somewhere on the first floor a door shuts, and the marigold hanging off the gate moves, and does not come back the way it went.
+Her chin is up and her eyes are dry, with anger.
 
-Behind them the study window on the second floor is the only light in the house that is not a party light, and it stays lit while they stand there, and nothing in it moves.
+"Nahi chhodungi. Bilkul bhi nahi."
+
+The guard has his radio in his hand and does not turn it on.
+
+Somewhere on the first floor a door shuts, and the marigold hanging off the gate moves, and does not come back the way it went.
+
+Behind them the study window on the second floor is the only light in the house that is not a party light.
+
+It stays lit while they stand there, and nothing in it moves.
 
 * * *
 ## The Account
 
 The lane, earlier the same night, with the lamp at the corner on and a dog lying under it with its chin on its paws.
 
-A stool stands by the gate with a glass on it and a spoon beside it, and neither of them has been washed since the morning.
+A stool stands by the gate with a glass on it and a spoon beside it.
 
-A boy on a cycle comes up the lane with a packet from the chemist's and stops at the Aroras' gate, and Ananta signs for it because their mother is asleep and it is her inhaler and the old one has two puffs left in it.
+Neither of them has been washed since the morning.
+
+A boy on a cycle comes up the lane with a packet from the chemist's and stops at the Aroras' gate.
+
+Ananta signs for it because their mother is asleep and it is her inhaler and the old one has two puffs left in it.
 
 "Kitne ke hain?" Ananta is already getting her purse out.
 
 The boy looks at the slip in his hand and turns it over.
 
-"Account se hai, madam." He shrugs. "Har mahine. Paisa nahin lena hai."
+"Account se hai, madam."
+
+He shrugs.
+
+"Har mahine. Paisa nahin lena hai."
 
 "Kis account se?"
 
-"Wohi to nahin pata." He is already backing his cycle out. "Slip pe likha hai, bas. Kisi ne bola tha ki ghar pe de dena. Aur kisi ko batana nahin."
+"Wohi to nahin pata."
+
+He is already backing his cycle out.
+
+"Slip pe likha hai, bas. Kisi ne bola tha ki ghar pe de dena. Aur kisi ko batana nahin."
 
 The packet is in a paper bag with a receipt folded into it, and the receipt has no name on it either.
 
-Ananta stands at the gate with the packet in her hand and looks at the slip in that same light, and the slip has the date on it, and the name of the medicine, and nothing else at all.
+Ananta stands at the gate with the packet in her hand and looks at the slip in that same light.
+
+The slip has the date on it, and the name of the medicine, and nothing else at all.
 
 * * *
 ## What Comes Next
@@ -282,11 +350,11 @@ order the show cut them and read in the order they happened.
               no cue in this window is played between Aryaman and Purvi, and `score_check.py` prints 0 faults on this
               file today, which is the same answer `canon/SOUND_AND_SCREEN.md` §9 gives it. Read against
               `foundation/RIPPLE.md` §1–§4; no superseded fact in this half is unowned, and no show line carrying one
-              is used without a verdict.
+              is used without a verdict. Style pass 2026-11-22 re-read: R-03 stands as asserted in the scenes (the study, BF-64); R-01/R-02/R-04 not asserted by the pass; the score named is neutral (sounding/leaving/ordering), no romantic cue anywhere; his register untouched (the stairs, the study argument, the unasked handkerchiefs).
     OC:      Mister Suri
               — the one scene where the page gives him lines. `tools/oc_check.py` reads this line as a list and nothing
               else, so the name stays alone on it. The tool's own reading of this file: he is on the page in **1
-              scene**, with **9 quotations** the page gives him, and the tool reports green.
+              scene**, with **8 quotations** the page gives him (nine before the stray-quote repair below; the stray mark had inflated the count), and the tool reports green.
     SILENT:   None in this half. The one scene that carries him gives him the room's longest argument, and everything
               else — the order, the vow, the lane, the bridge — is fenced above rather than silent within: a fence is
               a chosen absence and is named where the tool looks, which is what keeps the 100% honest.
@@ -341,7 +409,7 @@ order the show cut them and read in the order they happened.
               going down towards the ridge (l.128); the generator running behind the wall (l.130); the bucket by the
               wall with the marigold going brown in it (l.132–134); the gate, the guard, the radio never turned on, and
               the one study window still lit (l.153–169); the stool by the gate with the glass and the spoon unwashed
-              (l.176); the receipt folded into the paper bag with no name on it either (l.190).
+              (l.176); the receipt folded into the paper bag with no name on it either (l.190). Deep 2026-11-23: word-splits only; no line added, no aired text altered.
     SEEN:     Four times, and the paragraph that matters is the first. l.40 — *Nobody in the room is looking at her
               hands except the boy by the wall, who is looking at nothing else*, which is the only place in this
               chapter where the khaal is seen by anybody, and the chapter's one device (`canon/TWO_PAIRS_OF_EYES.md`
@@ -375,7 +443,7 @@ order the show cut them and read in the order they happened.
               father, which is what such a scene is allowed to be; the order is men talking low in the dark with a
               generator behind the wall; the vow goes across a road with no music under it; the lane has a lamp and a
               dog and a cycle bell that never rings. The only scored thing in the half is the bridge, and the bridge
-              carries the episode's own grammar for one (`canon/SOUND_AND_SCREEN.md` §4 — see `## What Comes Next`).
+              carries the episode's own grammar for one (`canon/SOUND_AND_SCREEN.md` §4 — see `## What Comes Next`). The style pass of 2026-11-22 names the score on four markers (leaving m19:43, the threat before it Part 1's; telling m21:11; warning + ordering m21:33), and names fear, dread and anger where the shaking hands, the staring man and the dry eyes show them (the laugh already stood; the Account carries no feeling to name). The vow is unscored (22:09, no markers). No new string: nothing held asks for one. No tasha, no pair theme. Music-only and footered: 20:17, 22:40. Battery: picture 4/4 ok; camera green; thread 1/1 green; butterfly/eyes/score-0/money/ripple/oc/beat green; dialogue 6/6; gap 6/6 (5 whole + PARTLY 22:47 boundary) + 5 music; rescan A13/B0/C-new0 (pre-existing, unchanged); check GREEN. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/scores/cues byte-identical; omens arc in-scene (Suri hands together-to-unseen-shaking, jaw itched-to-flake-pocketed, dupattas off-to-handkerchiefs-down, plate held-to-set-down, breath held-to-shaking-out, newel held-to-study-entered, glass rung-to-sat-down, fourth line-to-register; Johro glasses rowed-to-quieted, name said-to-Mere-bachche, shoes eyed-to-animal-stared; Vow stomach touched-to-chin-up, voice cracked-to-carried-on, radio unturned-to-gate-unmoved; Account stool unwashed-to-slip-read, cycle stopped-to-backed-out, purse out-to-account-named); tissue chained (cheekhenge threat to you-are-wrong; media vow to study papers; handkerchiefs down to pocketed to unasked; wall boy to nothing-else; stairs asked-twice to heels stopped; sideboard breath to study door; chaubees-lakh to London-paisa; rumaal kept to register ordered; fifth Verma line to gate cloth-book; moon full-minus-one to animal stood; generator heard to men quieted; chhupa-raaz unglossed to unheard; gate stopped to window lit; inhaler two-puffs to nameless slip); gravity is his conduct-and-accounts (he sees, he asks, he sits uninvited, he prices the house, he moves the papers, he orders the register — she vows, she warns, she will not be left; the father pockets and the dark keeps); no new score, no new business.
     CHANGED:  No canon beat goes differently, and no show line is moved. **The opener called the room a hall**
               (*Mister Suri* plays in the family's room under a hall's name, with guests the room emptied a scene ago);
               it now opens where it plays, on the family. **Three invented clocks are struck** (*two in the morning*
@@ -398,7 +466,7 @@ order the show cut them and read in the order they happened.
               bridge carries no dialogue, and it carries none now. **(8) The cites.** The old `WITNESS` cited S-07,
               R17 and R25, none of which this chapter touches, and a gift-book note with line numbers from a file that
               no longer exists; all four are dropped, and R7 is cited for its one reason only. **(9) The clocks.**
-              Three expressions of the hour with no source in this half (six in the chapter); struck.
+              Three expressions of the hour with no source in this half (six in the chapter); struck. **(10) The stray quote.** *\"Chal.\" Ananta holds her hand out to her sister.\", the score* — a doubled mark that paired every quotation after it wrongly and inflated the oc count to nine; repaired to the participial score line with the deep pass of 2026-11-23, and the count reads eight.
     SPLIT:    Part 2 of `Chapter_11_Mister_Suri`. Part 1 holds the scenes before `## Mister Suri`; this half runs from
               `## Mister Suri` to `## What Comes Next`. The two halves share one TITLES and the chapter's evidence
               only where the evidence is the episode's; each half's figures (`picture_check`, `camera_check`,
@@ -419,11 +487,11 @@ order the show cut them and read in the order they happened.
               consequence of its own for either.
     PICTURE:  **Measured on this file on 2026-11-21, in a book of nineteen chapters, this one eleventh.**
               `tools/picture_check.py`: 4 scenes, mean speech share 35%, **0 scenes short of the picture**, every scene
-              opening on its place with its light named once, and **14 inserts** (8 · 2 · 2 · 2 by scene, in order).
+              opening on its place with its light named once, and **17 inserts** (9 · 2 · 3 · 3 by scene, in order).
               The low scenes are deliberate — `Johro` is a man talking to an animal in the dark with the sentence he
-              means left unsaid at 31%, and `Ananta's Vow` is five sentences across a road at 22%, where the narration
-              has to do the work because nobody on that road is arguing. `camera_check.py`: 85 spoken sentences, mean
-              6.5 words, median 4, longest 31, 92% of them under twenty words; narration 85 sentences, mean 18.1 words,
-              median 13, longest 51; N3 puts speech in 39 of 90 paragraphs, 43% — outside 45–70%, a non-fatal advisory
-              on a half whose longest scene is an argument and whose shortest is a vow; **2,199 words in the scenes as
-              this half ships** (the camera tool's own count).
+              means left unsaid at 30%, and `Ananta's Vow` is five sentences across a road at 27%, where the narration
+              has to do the work because nobody on that road is arguing. `camera_check.py`: 86 spoken sentences, mean
+              6.4 words, median 4.5, longest 31, 94% of them under twenty words; narration 97 sentences, mean 16.2 words,
+              median 13, longest 51; N3 puts speech in 51 of 124 paragraphs, 41% — outside 45–70%, a non-fatal advisory
+              on a half whose longest scene is an argument and whose shortest is a vow; **2,236 words in the scenes as
+              this half ships** (the camera tool's own count). Re-measured 2026-11-23 after the deep re-cut.

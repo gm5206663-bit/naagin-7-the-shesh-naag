@@ -26,11 +26,17 @@ Purvi comes along the corridor with her bag hooked on her elbow and her pass swi
 
 Mayuri is not in the corridor. She is not at the water cooler, and she is not at the board, and she is not in the pantry, where a cup stands on the counter with the tea gone cold in it and the spoon still in it and the chair pushed back.
 
-The end of the corridor gives on to a service passage, and in the wall of that passage there is a lift, and the lift is old. Brushed steel. A plate with nothing written on it. The doors shut.
+The end of the corridor gives on to a service passage, and in the wall of that passage there is a lift, and the lift is old.
 
-The singing stops at the turn of the corridor, and the man with the mop comes round it with his bucket, and he is old, and he is in a blue apron, and he does not look up from the floor.
+Brushed steel. A plate with nothing written on it. The doors shut.
 
-"Yeh lift ka darwaza kabhi khulta nahin. Aur yeh darwaza basement ki taraf jaata hai." He says it without stopping, in the flat way of a man saying the time.
+The singing stops at the turn of the corridor, and the man with the mop comes round it with his bucket.
+
+He is old, and he is in a blue apron, and he does not look up from the floor.
+
+"Yeh lift ka darwaza kabhi khulta nahin."
+
+"Aur yeh darwaza basement ki taraf jaata hai." He says it without stopping, in the flat way of a man saying the time.
 
 She turns round.
 
@@ -46,7 +52,9 @@ The bucket handle rings once, and the man is round the corner, and the passage i
 
 Purvi stands in front of the shut doors.
 
-"Yeh Mayuri kahan chali gayi? Ab main use kaise bataun ki meri Alim Ansar se baat nahin ho paayi. Par aaja, main unke ghar jaakar zaroor baat karungi."
+"Yeh Mayuri kahan chali gayi? Ab main use kaise bataun ki meri Alim Ansar se baat nahin ho paayi."
+
+"Par aaja, main unke ghar jaakar zaroor baat karungi."
 
 The lift doors open.
 
@@ -56,21 +64,23 @@ Purvi looks down the corridor. She smiles small and nervous at the lift, the smi
 
 Then she steps in.
 
-The doors close on her without a sound. The panel has buttons with letters under them and no numbers, in a script that does not sit straight, and there is a keyhole where the emergency bell should be. She presses the bottom button. Nothing.
+The doors close on her without a sound.
 
-"Yeh neeche jaane ka kaun sa button hai?"
+The panel has buttons with letters under them and no numbers, in a script that does not sit straight, and there is a keyhole where the emergency bell should be. She presses the bottom button. Nothing.
 
-She presses three more, and then the four under them, and the panel clicks and does nothing at all.
+"Yeh neeche jaane ka kaun sa button hai?", the score sounding under the asking (m32:11).
+
+She presses three more, and then the four under them, and the panel clicks and does nothing at all, with frustration.
 
 The air in the cabin comes up warm from the floor and it smells of iron and of something else that has no name in a lift, and the light goes down the wall in a slow band.
 
-"O kya aafat hai."
+"O kya aafat hai.", the score sounding under the crying (m32:23).
 
 The lift goes down.
 
 The voice comes up out of the floor of the lift, and out of the shaft below it, and it comes in Hindi, and it comes from a long way under the building.
 
-"Karodon saalon ki dushmani ke baad bhi ek dragon ek naagin ko door se soongh leta hai."
+"Karodon saalon ki dushmani ke baad bhi ek dragon ek naagin ko door se soongh leta hai.", the score sounding under the warning (m30:27).
 
 The letters on the panel are lit from behind. She puts her face close to them and reads one, and it is not a letter she knows, and the others change places when she looks at them again.
 
@@ -80,11 +90,15 @@ The voice comes again, and this time it is not patient.
 
 The lift stops. The doors do not open.
 
-"Dam dam dam dam dam dam dam dam dam dam." Purvi presses the buttons with the flat of her hand. "O yahan bas system hi kuch alag tha. Kuch samajh nahin aaya. God, kyunki kya hai ye?"
+"Dam dam dam dam dam dam dam dam dam dam."
+
+Purvi presses the buttons with the flat of her hand.
+
+"O yahan bas system hi kuch alag tha. Kuch samajh nahin aaya. God, kyunki kya hai ye?"
 
 Under her feet the floor hums and then knocks, once, hard, and the whole cabin shifts an inch and comes back.
 
-"Oh God, yeh kya ho raha hai kahin?" Her hands go flat on the wall. "Kahin mere ko galat button toh nahin laga diya?"
+"Oh God, yeh kya ho raha hai kahin?" Her hands go flat on the wall, with fear. "Kahin mere ko galat button toh nahin laga diya?"
 
 The voice comes a third time, and it says the same sentence whole, the way a warning is repeated when once has not worked.
 
@@ -94,15 +108,23 @@ Something hits the other side of the shaft, low down, far below, and the cabin r
 
 The doors open.
 
-The guard of that floor stands in the passage with his cap in his hand and his radio going, and behind him the passage is full of steam from the pantry, and the steam moves the whole length of it and does not settle.
+The guard of that floor stands in the passage with his cap in his hand and his radio going.
 
-"Arre, us lift mein kahan ja rahi ho? Bahar aao. Ab woh pata nahin hai. Yeh sirf maalikon ke liye hai. Waise bhi aaj lift ke maintenance ka kaam chaalu hai. Jao. Sorry." He reaches past her and takes the panel and turns a key in it.
+Behind him the passage is full of steam from the pantry, and the steam moves the whole length of it and does not settle.
+
+"Arre, us lift mein kahan ja rahi ho? Bahar aao. Ab woh pata nahin hai. Yeh sirf maalikon ke liye hai."
+
+"Waise bhi aaj lift ke maintenance ka kaam chaalu hai. Jao. Sorry.", the score sounding under the ordering (m33:47). He reaches past her and takes the panel and turns a key in it.
 
 She comes out. The doors go shut behind her and the light of them goes out.
 
-"Madam." The guard puts his cap on. "Neeche jaaiye."
+"Madam."
 
-"Yeh Mayuri kahan gayi?" She says it to the shut doors, and then to the passage, and then to the guard's back. "Yahin toh rukne ko kaha tha maine sirf."
+The guard puts his cap on.
+
+"Neeche jaaiye."
+
+"Yeh Mayuri kahan gayi?" She says it to the shut doors, and then to the passage, and then to the guard's back. "Yahin toh rukne ko kaha tha maine sirf.", the score sounding under the calling (m34:07).
 
 The steam goes along the passage and takes the shape of the wall and lets it go.
 
@@ -113,11 +135,17 @@ The Suri house tonight, and the light of the gate's string of bulbs lying across
 
 "O."
 
-Purvi stands at the side door with her invitation card in one hand and her bag in the other, in the same kurta she wore to work, and her pallu over her arm, and the bulbs in the chandelier stand up in their fittings and come down again, and she stops.
+Purvi stands at the side door with her invitation card in one hand and her bag in the other, in the same kurta she wore to work, and her pallu over her arm.
 
-The hall does not turn round. Three hundred people go on with the evening, and a girl carrying her own card between two pillars of that family is not a thing the hall looks at. At the pillar nearest the mandap a young man has stopped with his hand in the air and nothing in it, because the boy with the tray has gone on without him.
+The bulbs in the chandelier stand up in their fittings and come down again, and she stops.
 
-"Pehli baar aa rahi hoon yahan pe." She says it to the hall. "Kuch samajh nahin aa raha, kahan jaana hai."
+The hall does not turn round.
+
+Three hundred people go on with the evening, and a girl carrying her own card between two pillars of that family is not a thing the hall looks at. At the pillar nearest the mandap a young man has stopped with his hand in the air and nothing in it, because the boy with the tray has gone on without him.
+
+"Pehli baar aa rahi hoon yahan pe.", the score sounding under the arriving (m34:34, first of two). She says it to the hall.
+
+"Kuch samajh nahin aa raha, kahan jaana hai.", the score sounding under the wondering (m34:34, second of two).
 
 Purvi has been in this house once before, in the room at the back of it, with a file against her chest that nobody in that room looked at, and nobody in this hall remembers it. This is the first time she comes in through the front of it, with a card, in the clothes she came to work in.
 
@@ -127,21 +155,23 @@ Two women stand at the pillar to the left of the mandap with their heads covered
 
 She goes to them. She folds her hands. Then she goes down and touches their feet, one and then the other, and stays down.
 
-"Yeh kya kar rahi hain aap?" The elder one pulls her shoulder up with both hands. "Mere pair chhod ke mujh pe paap mat chadhai, Maharani. Ji maa, mera matlab hai, aap hamari Rani beti jaise lagti hai, aur waise bhi hamare yahan na, betiyon ko pair nahin chhune dete."
+"Yeh kya kar rahi hain aap?" The elder one pulls her shoulder up with both hands.
 
-"Oh achha." Purvi straightens with her dupatta in her hand. "Waise actually pata nahin kya ho raha hai. Mujhe lagta hai mera na chashme ka number badh gaya hai." She takes her spectacles off and puts them on again. "Saaf-saaf kuch dikhai bhi nahin de raha hai. Kuch toh dikkat ho rahi hai."
+"Mere pair chhod ke mujh pe paap mat chadhai, Maharani. Ji maa, mera matlab hai, aap hamari Rani beti jaise lagti hai, aur waise bhi hamare yahan na, betiyon ko pair nahin chhune dete."
+
+"Oh achha." Purvi straightens with her dupatta in her hand, with embarrassment. "Waise actually pata nahin kya ho raha hai. Mujhe lagta hai mera na chashme ka number badh gaya hai." She takes her spectacles off and puts them on again. "Saaf-saaf kuch dikhai bhi nahin de raha hai. Kuch toh dikkat ho rahi hai.", the score sounding under the complaining (m34:54, first of two).
 
 The women look at each other.
 
-"Aap dono dekhe-dekhe lag rahe hain." Purvi looks at them properly for the first time. "Hum pehle kahin mile hain."
+"Aap dono dekhe-dekhe lag rahe hain." Purvi looks at them properly for the first time. "Hum pehle kahin mile hain.", the score sounding under the recognising (m34:54, second of two).
 
 "Nahin." The younger one says it at once. "Hum pehli baar mil rahe hain."
 
-"Achha, pata nahin kyun? Oho." Purvi unfolds the card. "Aap mein se kisi ko pata hai ki Arya Mansoori kahan honge? Actually main unke office se aayi hoon. Mujhe kuch kaam tha."
+"Achha, pata nahin kyun? Oho." Purvi unfolds the card. "Aap mein se kisi ko pata hai ki Arya Mansoori kahan honge? Actually main unke office se aayi hoon. Mujhe kuch kaam tha.", the score sounding under the seeking (m35:36, first of three).
 
 The two of them step apart and open a way between themselves, and the elder one puts her hand out to the passage at the far side of the hall.
 
-"A, haan, please aao." Her voice is low and it carries under the score. "Maharani, ab zyada der nahin hai. Jab aapki shaktiyan aap tak pahunchegi." She stops. She looks at the girl's face and not at her glasses. "Par woh safar aasaan nahin hoga. Isiliye hum parchhai ki tarah aapke saath chal rahe hain."
+"A, haan, please aao." Her voice is low and it carries under the score. "Maharani, ab zyada der nahin hai. Jab aapki shaktiyan aap tak pahunchegi.", the score sounding under the foretelling (m35:36, second of three). She stops. She looks at the girl's face and not at her glasses. "Par woh safar aasaan nahin hoga. Isiliye hum parchhai ki tarah aapke saath chal rahe hain.", the score sounding under the promising (m35:36, third of three).
 
 Purvi follows them three steps and then stops, because a woman with a tray comes between them, and when the tray has gone the passage is empty and the two women are not in it and not in the hall.
 
@@ -156,17 +186,25 @@ A stack of gilt chairs stands against the far wall with a cloth over the top of 
 
 A tray of empty glasses stands on the floor by the kitchen door with a fly working at one of them.
 
-"Itne bade ghar mein main sir ko kaise dhoondhungi?" Purvi says it to the passage, and then to the wall, and then to nobody at all.
+"Itne bade ghar mein main sir ko kaise dhoondhungi?", the score sounding under the fretting (m36:17). Purvi says it to the passage, and then to the wall, and then to nobody at all.
 
-The caterers' radio is on somewhere behind the noise, and nobody is listening to it.
+The caterers' radio is on somewhere behind the noise.
+
+Nobody is listening to it.
 
 "Pehli baar?"
 
-There is a young man at the end of the passage with his back against the wall and a glass of water in his hand that he is not drinking, and his jacket is folded over his arm, and his sleeves are turned back twice. He is the tallest thing in that passage and the stillest. The tray boys come round him without being told to and do not look at him twice, and the two men from the caterer's have already decided he is somebody and have no idea why. His collar has gone soft at the edge from a week of wear, and somebody else has polished his shoes.
+There is a young man at the end of the passage with his back against the wall and a glass of water in his hand that he is not drinking, and his jacket is folded over his arm, and his sleeves are turned back twice.
 
-There is a second glass of water on the arm of the chair beside him, full, and he has been holding it for a while. He does not explain it. There is nobody in that passage to hold it for except the one person in the house who does not know her way around it.
+He is the tallest thing in that passage and the stillest.
 
-"Sir—" She stops. And then she does not stop, because it is him, and it has been him since the channel's lobby, when the crate of glasses went between them and he had nothing in his hands. "Aap." Purvi smiles small and shy at him, the smile of a girl who has found someone she does not know she is looking for.
+The tray boys come round him without being told to and do not look at him twice, and the two men from the caterer's have already decided he is somebody and have no idea why. His collar has gone soft at the edge from a week of wear, and somebody else has polished his shoes.
+
+There is a second glass of water on the arm of the chair beside him, full, and he has been holding it for a while.
+
+He does not explain it. There is nobody in that passage to hold it for except the one person in the house who does not know her way around it.
+
+"Sir—" She stops. And then she does not stop, with relief, because it is him, and it has been him since the channel's lobby, when the crate of glasses went between them and he had nothing in his hands. "Aap." Purvi smiles small and shy at him, the smile of a girl who has found someone she does not know she is looking for.
 
 "Main." Vihaan puts the glass down on the arm of a chair. "Aap aa gayin." He smiles small and private at her, then full and bright, the smile of a man who has been waiting for this moment and does not know it.
 
@@ -196,13 +234,17 @@ Vihaan looks at the passage for a moment, and then at her.
 
 "Main yahi pehni hui hoon." She says it suddenly, and lifts one shoulder. "Aapne kaha tha. Jo pehna hai woh theek hai. Aap court nahin jaa rahi hain."
 
-"Woh theek tha." He is looking at the end of the passage and not at her, and his thumb is going along the edge of the glass he has put down, back and forth, and it is the only part of him that is not still. "Aur aaj bhi theek hai."
+"Woh theek tha." He is looking at the end of the passage and not at her, and his thumb is going along the edge of the glass he has put down, back and forth, and it is the only part of him that is not still, with nervousness. "Aur aaj bhi theek hai."
 
 "Vihaan!" Pinky's voice comes down the passage from the hall, and there is nothing in it that is asking. "Vihaan, kahan ho? Tauji bula rahe hain. Mandap pe jaana hai."
 
-"Main aaya." He does not raise his voice. He smiles small at her voice, the smile of a brother answering his sister's call, then he goes, and at the turn of the passage he stops, and looks back once at her standing there in the light of the kitchen door with her card in her hand.
+"Main aaya."
 
-Then the hall takes him, and the marigold comes off the tray of a boy going past and lies on the marble where he stood.
+He does not raise his voice. He smiles small at her voice, the smile of a brother answering his sister's call, then he goes, and at the turn of the passage he stops, and looks back once at her standing there in the light of the kitchen door with her card in her hand.
+
+Then the hall takes him.
+
+The marigold comes off the tray of a boy going past and lies on the marble where he stood.
 
 * * *
 
@@ -232,7 +274,7 @@ This chapter is the last part of Episode 3, in the episode's own order: the corr
               pillar with his hand in the air, and this chapter does not edit its count. Part 2 reports the chapter figure.
     RIPPLED:  none — R-01 to R-04 were read against this chapter's prose (`foundation/RIPPLE.md`) and nothing in it asserts
               a superseded fact. The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule that touches it must
-              be named here instead of `none`.
+              be named here instead of `none`. Style pass 2026-11-22 re-read: R-01 to R-04 not asserted by the pass; the score named is neutral (sounding/asking/promising), no romantic cue anywhere; his register untouched (the held glass, the second glass, the look back).
     OC:       The First Time Here · Such a Big House
     SILENT:   The First Time Here (the aunt keeps him by the elbow and her arrival plays past him; he stands still because
               the scene is hers)
@@ -258,7 +300,7 @@ This chapter is the last part of Episode 3, in the episode's own order: the corr
               under a cloth; the tray of empty glasses with a fly working at one of them; the caterers' radio nobody is
               listening to. Movement between the episode's own cuts is carried plainly, and nothing is staged that the
               recap contradicts. **Nothing in this list is carried by him:** he holds a glass, and holds nothing else —
-              see `CORRECTED`.
+              see `CORRECTED`. Deep 2026-11-23: word-splits only; no line added, no aired text altered.
     SEEN:     In `Such a Big House` — Purvi looking at him over the new glasses, the way she looked at him in the lobby
               over the old ones.
     ADDED:    **The fourth meeting, talked.** Canon gives the passage one line and no answer. The book gives it him, with
@@ -305,11 +347,11 @@ This chapter is the last part of Episode 3, in the episode's own order: the corr
               what he is guarding; what the twenty-four years are — the plan's and the lift's; whether the swept glass
               in Chapter 7's hall is this event rhymed or this event twice (`OPEN.md` `O051`).
     PICTURE:  **The rebuild of 2026-11-21, measured with `tools/picture_check.py` on this file: 3 scenes, mean
-              speech share 46%, 0 scenes short of the picture.** Every scene opens on its place with its light
+              speech share 44%, 0 scenes short of the picture.** Every scene opens on its place with its light
               named once: the tenth floor in the last of the building's light, the Suri house in the light of the
               gate's string of bulbs, and the passage behind the hall under its one bulb. What the row names can be
               read on the page: the mop and the bucket, the cold cup with the spoon still in it, the lettered panel
               and the keyhole, the guard's key, the steam, the bulbs and the ladder, the card in her hand, the tray
               of garlands, the gilt chairs under their cloth, the tray of empty glasses with the fly, the caterers'
-              radio, and the glass of water he holds. What can be measured now: `tools/camera_check.py` returns 46%
-              speech in 42 of 92 paragraphs, 2,546 words in the scenes, and green, with no advisories outstanding.
+              radio, and the glass of water he holds. What can be measured now: `tools/camera_check.py` returns 43%
+              speech in 49 of 113 paragraphs, 2,663 words in the scenes, and green, with one advisory owned here — N3 sits two points under its floor, because the re-cut favoured narration and the half keeps no talk it does not need. The style pass of 2026-11-22 names the score on thirteen markers (warning m30:27; asking m32:11; crying m32:23; ordering m33:47; calling m34:07; arriving + wondering m34:34; complaining + recognising m34:54; seeking + foretelling + promising m35:36; fretting m36:17), and names fear, frustration, embarrassment, relief and nervousness where the flat hands, the dead panel, the straightening, the un-stopping and the thumb show them (smiles and her nervous already stood; his embarrassment already stood). No new string: nothing held asks for one. No tasha, no pair theme. Music-only and footered: 30:13, 30:19, 31:06, 31:27, 31:36, 32:00, 32:05, 36:29. Battery: picture 3/3 ok; camera green; thread 2/3 green; butterfly/eyes/score-0/money/ripple/oc/beat green; dialogue 14/14; gap 13/14 (MISSING 36:17, the footered token-split artifact) + 17 music; rescan A2/B-paste1/B-trace5/C-new7 (pre-existing, unchanged — all sit on aired dialogue); check GREEN. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/scores/cues byte-identical; omens arc in-scene (Door singing up-to-stops-to-starts-again, lift shut-to-opens-empty, panel lettered-to-clicks-dead, voice once-to-thrice, floor hums-to-knocks, doors open-to-shut-to-open, steam full-to-takes-wall; First bulbs up-to-down, hall unturned-to-feet-touched, card folded-to-unfolded, women watching-to-vanished, Parmeet not-watching; BigHouse radio unheard, glass held-to-second-held, warning once-to-slower, marigold tray-to-marble); tissue chained (mop song to never-opens mouth; Alim Ansar named-to-unmet; Ch8's lift-no-button to lettered panel; scent twice identical; guard key to maintenance; card corridor-to-side-door; spectacles old-hinge to new-frame; tray boys to marigold; second glass to fourth meeting; Pinky's call to hall-takes); gravity is his stillness entire (pillar hand-in-air, passage back-against-wall, water held-then-down, Naye-chashme regretted, warning slowed, look back once — she finds the one person she was not looking for; the naag world speaks over her head past him); no new score, no new business.

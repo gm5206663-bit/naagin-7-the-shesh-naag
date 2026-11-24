@@ -32,7 +32,9 @@ Then the music starts, low, from nowhere in that room. A chant under it, one wor
 
 Her arm comes down. Her eyes are open. The smile dies.
 
-"Hum chaah ke bhi unki madad nahin kar sakte." The voice is not in that room. It speaks out of stone, out of a hall where the lamps stand straight. "Unhein is dard se guzarna hi hoga. Yeh dard unhein bahut takleef dega."
+"Hum chaah ke bhi unki madad nahin kar sakte." The voice is not in that room. It speaks out of stone, out of a hall where the lamps stand straight, with the score sounding under the foretelling (m28:28 as one).
+
+"Unhein is dard se guzarna hi hoga. Yeh dard unhein bahut takleef dega."
 
 Her back comes up off the mattress.
 
@@ -74,7 +76,7 @@ The broken spectacles stay where they are, folded on the book. She goes to the d
 
 The corridor is dark, and the moonlight lies in it in strips from the windows. The pictures on the wall go past her one after another: a wedding, a school function, a girl in a paper crown.
 
-At the head of the stairs her mother stands in her nightdress with one hand on the banister and her hair loose. Her eyes are wet, the wetness of a mother who has heard her child scream and does not know why. She does not come on.
+At the head of the stairs her mother stands in her nightdress with one hand on the banister and her hair loose. Her eyes are wet, the wetness of a mother who has heard her child scream and does not know why. She does not come on, with helplessness.
 
 "Purvi—"
 
@@ -82,17 +84,21 @@ Purvi goes past her along the wall, and her mother turns where she stands and do
 
 Her shoulder takes the wall. Then it takes the wall again.
 
-"Didi." Her voice comes out wrong. "Didi!"
+"Didi." Her voice comes out wrong.
 
-The door at the end opens before she reaches it. Ananta stands there with the light behind her and her plait over one shoulder, and her face goes from sleep to something else in one moment.
+"Didi!"
+
+The door at the end opens before she reaches it. Ananta stands there with the light behind her and her plait over one shoulder, and her face goes from sleep to something else in one moment, with alarm.
 
 "Purvi—"
 
 Purvi holds her arms out.
 
-The marks have come up on her forearms and across one wrist. Bruises, black as ink, and a minute ago there is nothing there at all.
+The marks have come up on her forearms and across one wrist.
 
-Ananta takes her by the wrists and pulls her in and shuts the door and stands with her back against it.
+Bruises, black as ink, and a minute ago there is nothing there at all.
+
+Ananta takes her by the wrists and pulls her in and shuts the door and stands with her back against it, with protectiveness.
 
 "Ananta!" Her father's voice, in the corridor. Feet come along it and stop outside the door, and his hand lands on the wood.
 
@@ -105,17 +111,21 @@ Ananta's room with the bulbs round the mirror all off, and the only light the mo
 
 Purvi sits on the edge of the bed with her sleeves pushed up and her arms held out in front of her. The marks have gone darker.
 
-"Koi nahin jaanta." The voice comes from nowhere in that room and from every corner of it at once. "Woh khud bhi nahin jaanti ki woh naagin hai. Koi aur dekhe ya na dekhe, aaina dekhta hai. Woh naagin ka asli chehra dikha deta hai."
+"Koi nahin jaanta." The voice comes from nowhere in that room and from every corner of it at once.
+
+"Woh khud bhi nahin jaanti ki woh naagin hai. Koi aur dekhe ya na dekhe, aaina dekhta hai. Woh naagin ka asli chehra dikha deta hai."
 
 Purvi gets up and goes to the dressing table.
 
-In the glass there is a room, and a bed with the sheet thrown back, and a girl with her plait coming loose, and a face. Her face. The marks on her arms. The wall behind her with the photograph on it. Nothing else. The glass holds all of it, and holds it, and holds it.
+In the glass there is a room, and a bed with the sheet thrown back, and a girl with her plait coming loose, and a face. Her face. The marks on her arms. The wall behind her with the photograph on it. Nothing else.
+
+The glass holds all of it, and holds it, and holds it.
 
 Silent tears come down her face, and she does not wipe them away, and her cheeks are wet with them.
 
 "Purvi." Ananta is behind her, low. "Purvi."
 
-She does not answer. She looks at the glass for a long time.
+She does not answer. She looks at the glass for a long time, with wonder.
 
 Then she turns from it, all at once, toward the door — as if something has called her from further off than this room, and she has heard it.
 
@@ -128,7 +138,9 @@ Purvi comes down barefoot in her nightgown, past the door, into the middle of th
 
 A bucket stands by the wall with a mug in it. A rope goes across one corner with two pegs on it and nothing hung from them. The drain in the middle has one dry leaf in it.
 
-She stands with her arms loose at her sides and her face up. The moon is on her face.
+She stands with her arms loose at her sides and her face up.
+
+The moon is on her face.
 
 Then her feet leave the stone.
 
@@ -149,25 +161,37 @@ A steel tray stands on the floor with the ice melting in it and a spoon standing
 
 Ananta has the towel round the ice now, and she holds it against her sister's forearm, and Purvi sits with her other arm round her knees and her teeth set.
 
-"Kya hua? Kya hua? Kya hua?" Ananta turns the arm over and over. "Ye kya hua hai?"
+"Kya hua? Kya hua? Kya hua?" Ananta turns the arm over and over.
+
+"Ye kya hua hai?"
 
 "Sab chal raha hai ye." Purvi's eyes do not fix on anything. The room goes round her and will not stop.
 
-"Tu chal yahan, mere saath chal." Ananta gets her up and gets her to the bed and sits her down on it. "Main barf lagati hoon. Baith." She laughs once, a sound with nothing in it. "Kya ho gaya ye? Main lagati hoon."
+"Tu chal yahan, mere saath chal." Ananta gets her up and gets her to the bed and sits her down on it. "Main barf lagati hoon. Baith." She laughs once, a sound with nothing in it.
+
+"Kya ho gaya ye? Main lagati hoon."
 
 Somewhere in the house a tap is running, and nobody turns it off.
 
-On the bed between them there is a sheet of paper and a pen, and the paper has a drawing on it. A seat with a high back. The back carved. The arm of it, and the step at the foot of it. It is drawn with a biro, quickly, the pen pressed hard enough to go through in one place.
+On the bed between them there is a sheet of paper and a pen, and the paper has a drawing on it. A seat with a high back. The back carved. The arm of it, and the step at the foot of it.
+
+It is drawn with a biro, quickly, the pen pressed hard enough to go through in one place.
 
 Ananta picks it up. "Ye kya hai?"
 
-"Haan, maine kuch dekha." Purvi takes the paper back and looks at it. "Ek nishaan — jo nishaan maine paper pe draw kiya tha. Ek — ek sinhaasan."
+"Haan, maine kuch dekha." Purvi takes the paper back and looks at it.
 
-"Ek sinhaasan?" Ananta looks at the paper, and then at her sister. "Purvi, tu kya bolti rehti hai? Ek sinhaasan, ek painting. Tu Maharani hai kya koi?"
+"Ek nishaan — jo nishaan maine paper pe draw kiya tha. Ek — ek sinhaasan."
+
+"Ek sinhaasan?" Ananta looks at the paper, and then at her sister.
+
+"Purvi, tu kya bolti rehti hai? Ek sinhaasan, ek painting. Tu Maharani hai kya koi?"
 
 Purvi does not laugh.
 
-"Pata nahin, Di." Her voice is low and steady and it does not stop. "Mujhe nahin pata ye sab mujhe kya dikh raha hai aur kyun dikh raha hai."
+"Pata nahin, Di." Her voice is low and steady and it does not stop.
+
+"Mujhe nahin pata ye sab mujhe kya dikh raha hai aur kyun dikh raha hai."
 
 She looks down at the paper in her hand.
 
@@ -179,9 +203,11 @@ The towel slips. Ananta catches it and holds it back against the arm.
 
 "Kaun bula raha hai?"
 
-"Nahin pata." She looks up. "Pata nahin ye sab kya ho raha hai aur kyun ho raha hai. Par aisa lag raha hai jaise zindagi ek alag mod pe jaa rahi hai."
+"Nahin pata." She looks up.
 
-Ananta looks at her for a long moment. Then she puts the paper down on the bed between them.
+"Pata nahin ye sab kya ho raha hai aur kyun ho raha hai. Par aisa lag raha hai jaise zindagi ek alag mod pe jaa rahi hai."
+
+Ananta looks at her for a long moment, with worry. Then she puts the paper down on the bed between them.
 
 "Purvi." Ananta puts her hand on her sister's knee. "Woh haadse ka asar na tere dimaag par ho gaya hai. Tu yahan par baith. Main tere liye dawaai lekar aati hoon."
 
@@ -189,7 +215,9 @@ Ananta looks at her for a long moment. Then she puts the paper down on the bed b
 
 "Haan." Ananta's hand moves to her head and stays there a moment.
 
-Ananta takes the towel and puts it back in the ice, and goes out, and her slippers go away down the corridor. Purvi sits on the bed with the paper in her hand and waits for the room to stop moving.
+Ananta takes the towel and puts it back in the ice, and goes out, and her slippers go away down the corridor.
+
+Purvi sits on the bed with the paper in her hand and waits for the room to stop moving.
 
 * * *
 ## London Hours
@@ -200,33 +228,45 @@ A plastic chair. A laptop open on a stool. A printout of figures on the floor wi
 
 Vihaan sits with one headphone in and the other hanging down his shirt.
 
-"June ka figure dobara bolo." He turns the printout round with one finger. "Nahin. Delhi ka figure theek hai. London waala galat hai."
+"June ka figure dobara bolo." He turns the printout round with one finger.
+
+"Nahin. Delhi ka figure theek hai. London waala galat hai."
 
 Vihaan takes the pen and circles a number.
 
-"Gyarah lakh chalees. Apni sheet dekho. Ek hi figure do mahine mein hai aur mahina ek nahin hai." He waits. "Toh column dhoondo aur mujhe bhej do. Meeting se pehle main sign kar doonga."
+"Gyarah lakh chalees. Apni sheet dekho. Ek hi figure do mahine mein hai aur mahina ek nahin hai." He waits.
+
+"Toh column dhoondo aur mujhe bhej do. Meeting se pehle main sign kar doonga."
 
 Vihaan writes something at the foot of the sheet and underlines it twice.
 
-"Haan. Good night." A pause. "Yahan subah hai."
+"Haan. Good night." A pause.
+
+"Yahan subah hai."
 
 Vihaan takes the headphone out and puts it down on the laptop and rubs his eyes with the heel of his hand. His jaw is tight, and his ears ring with the silence of the house, and he does not know why his breath is short.
 
 Then he sits back and looks at the moon.
 
-Nineteen hours now without sleep, and the moon is the only thing in this house that has asked nothing of him. Downstairs his father sleeps with the Kumbh figures on his chest, and Aryaman sleeps with an award on a shelf, and the books he has just corrected are wrong, and the wrongness is his to hold until the morning, and there is nobody to tell at four o'clock, and his chest feels empty where someone should be.
+Nineteen hours now without sleep, and the moon is the only thing in this house that has asked nothing of him.
 
-It stands over the roofs with nothing in front of it, and the terrace floor is white with it. He looks at it for a while with his hands behind his head, and his fingers curl against his palms, and his smile does not come, and his jaw stays tight, and he does not know why he waits for something he has no name for.
+Downstairs his father sleeps with the Kumbh figures on his chest, and Aryaman sleeps with an award on a shelf, and the books he has just corrected are wrong, and the wrongness is his to hold until the morning, and there is nobody to tell at four o'clock, and his chest feels empty where someone should be, with loneliness.
+
+It stands over the roofs with nothing in front of it, and the terrace floor is white with it. He looks at it for a while with his hands behind his head, and his fingers curl against his palms, and his smile does not come, and his jaw stays tight, and he does not know why he waits for something he has no name for, with longing.
 
 "Viju?"
 
 Vihaan turns. Pinky comes up the last steps with a shawl over her dressing gown and her hair loose, and her slippers in her hand so that nobody hears her.
 
-"Hey Bhagwan. Look at you." She stands at the top of the stairs and looks at her youngest brother with her whole face, the way she has looked at him since the day he came home in a shawl. "Chaar baje subah, chhat pe, watchman ki tarah. Aur us chehre ke saath. Agar office ki ladkiyon ne tumhein nau baje is chehre ke saath dekh liya na, toh kal koi kaam nahin karega. Kisi ke haath se kuch gir jaayega."
+"Hey Bhagwan. Look at you." She stands at the top of the stairs and looks at her youngest brother with her whole face, the way she has looked at him since the day he came home in a shawl.
+
+"Chaar baje subah, chhat pe, watchman ki tarah. Aur us chehre ke saath. Agar office ki ladkiyon ne tumhein nau baje is chehre ke saath dekh liya na, toh kal koi kaam nahin karega. Kisi ke haath se kuch gir jaayega."
 
 "Office ne mujhe pehle bhi dekha hai."
 
-"Toh pehle bhi kisi ke haath se kuch gira hoga." She comes over and sits on the parapet with her knees together. "Kyun jaga hua hai? Phir wahi office?"
+"Toh pehle bhi kisi ke haath se kuch gira hoga." She comes over and sits on the parapet with her knees together.
+
+"Kyun jaga hua hai? Phir wahi office?"
 
 "London gyarah baje raat ko band hota hai. Unka din khatm hota hai jab meri raat shuru hoti hai."
 
@@ -236,23 +276,31 @@ He picks the printout up and shows her the column with the circle on it. "Saal k
 
 "Kya galti?"
 
-"Gyarah lakh chalees, hamare haq mein. Kisi ne ek hi figure do mahine mein daal diya." He puts the paper down. "Nau baje correction ke saath jaayega, aur mere naam ke saath."
+"Gyarah lakh chalees, hamare haq mein. Kisi ne ek hi figure do mahine mein daal diya." He puts the paper down.
+
+"Nau baje correction ke saath jaayega, aur mere naam ke saath."
 
 "Papa tumhein raat ka paisa nahin dete."
 
 "Woh mujhe kisi cheez ka paisa nahin dete. Ghar ka office hai."
 
-Pinky laughs, and then stops laughing and pulls the shawl up round her shoulders. "Papa tumhein ek Sunday us channel pe le gaye the, jab tum chhote the. Poori building khaali, aur tum anchor ki kursi pe." She looks at the side of his face. "Andar unhone kya kaha tha tumse?"
+Pinky laughs, and then stops laughing and pulls the shawl up round her shoulders. "Papa tumhein ek Sunday us channel pe le gaye the, jab tum chhote the. Poori building khaali, aur tum anchor ki kursi pe." She looks at the side of his face.
+
+"Andar unhone kya kaha tha tumse?"
 
 He is quiet for a moment. "Kehete the ki woh kursi kama sakta hoon."
 
-"Woh kehete the." She nods slowly. "Toh din mein kama, Viju. Chaar baje subah plastic kursi pe, jahan koi dekh nahin sakta." Pinky smiles warm and teasing at him, the smile of a sister who has seen him through every version of himself.
+"Woh kehete the." She nods slowly.
+
+"Toh din mein kama, Viju. Chaar baje subah plastic kursi pe, jahan koi dekh nahin sakta." Pinky smiles warm and teasing at him, the smile of a sister who has seen him through every version of himself.
 
 He does not answer that. He takes the cold tea and drinks what is left of it.
 
 "Pinky, neeche jao. Tumhein sardi ho jaayegi, aur phir mera dosh hoga."
 
-"Tum par hi ilzaam aata hai. Papa ne faisla suna diya hai." She gets up, and then leans over and pushes his hair back off his forehead with her thumb, the way she does when he comes in from the airport. "Tum poster jaise lag rahe ho. Ja ke so jao."
+"Tum par hi ilzaam aata hai. Papa ne faisla suna diya hai." She gets up, and then leans over and pushes his hair back off his forehead with her thumb, the way she does when he comes in from the airport.
+
+"Tum poster jaise lag rahe ho. Ja ke so jao."
 
 Vihaan smiles small and tired back at her, and he does not let go of her hand until she pulls it away. Pinky goes down with her slippers in her hand.
 
@@ -266,9 +314,13 @@ Vihaan looks down at it. His feet stay where they are, and the chair stays with 
 
 The snake lifts its head a little and holds it, and the moonlight is on its back, and the forked tongue goes in and out, once, twice, and then it puts its head down on the warm floor and stays down.
 
-"Garmi hai." Vihaan says it quietly, to the snake, and his voice is not frightened, and his hand does not close on anything, and he does not stand up, and he does not call anyone. "Yahan raho."
+"Garmi hai." Vihaan says it quietly, to the snake, and his voice is not frightened, and his hand does not close on anything, and he does not stand up, and he does not call anyone, with calm.
 
-Vihaan turns back to the laptop, and the light of it comes up on his face, and the snake lies at the foot of the chair the whole night and is gone before the light. Vihaan does not look away from the place where it is. His breath is still, and his jaw is tight. He does not know why the moon looks different all at once, and he does not know why his skin feels cold under the moonlight, and he does not know anything at all except that he has seen something and it has seen him.
+"Yahan raho."
+
+Vihaan turns back to the laptop, and the light of it comes up on his face, and the snake lies at the foot of the chair the whole night and is gone before the light.
+
+Vihaan does not look away from the place where it is. His breath is still, and his jaw is tight. He does not know why the moon looks different all at once, and he does not know why his skin feels cold under the moonlight, and he does not know anything at all except that he has seen something and it has seen him.
 
 * * *
 ## Morning
@@ -279,19 +331,29 @@ The kitchen door stands open with the newspaper folded under the milk bottles on
 
 Ananta comes into Purvi's room with her dupatta in her hand.
 
-"Purvi! Oh God, Purvi, tu abhi tak so rahi hai? Pata hai kitna late ho gaya hai?" She sits down on the bed and puts the back of her hand on her sister's forehead, and then her palm. "Tujhe bahut tez bukhaar hai. Tu ek kaam kar, tu rest kar."
+"Purvi! Oh God, Purvi, tu abhi tak so rahi hai? Pata hai kitna late ho gaya hai?" She sits down on the bed and puts the back of her hand on her sister's forehead, and then her palm, with the score sounding under the waking (m34:04).
 
-"Nahin, nahin, Didi." Purvi pushes the blanket down. "Main jaaungi na office."
+"Tujhe bahut tez bukhaar hai. Tu ek kaam kar, tu rest kar."
+
+"Nahin, nahin, Didi." Purvi pushes the blanket down.
+
+"Main jaaungi na office."
 
 A glass of water stands on the bedside table with a strip of tablets beside it, and the water has been there since last night.
 
-"Itni mushkil se job mili hai. Aapko pata hai mujhe kab se job chahiye thi." She sits up, and the room goes still for a moment, and she holds the bedpost until it stops. "Main koi risk nahin le sakti. Main bas paanch minute mein aa gayi."
+"Itni mushkil se job mili hai. Aapko pata hai mujhe kab se job chahiye thi." She sits up, and the room goes still for a moment, and she holds the bedpost until it stops.
+
+"Main koi risk nahin le sakti. Main bas paanch minute mein aa gayi."
 
 Ananta looks at her. Then she gets off the bed.
 
-The door shuts. Purvi stands in the middle of her room and looks at her own arms. She goes to the cupboard and takes down the full-sleeved kurta. She puts it on and buttons it to the wrist and turns the cuffs down over the marks. Then she looks at herself in the small mirror over the wash basin, with her hand on the tap.
+The door shuts.
 
-"Purvi!" Ananta's voice comes up the stairs. "Oh God, you are getting so late!"
+Purvi stands in the middle of her room and looks at her own arms. She goes to the cupboard and takes down the full-sleeved kurta. She puts it on and buttons it to the wrist and turns the cuffs down over the marks, with resolve. Then she looks at herself in the small mirror over the wash basin, with her hand on the tap.
+
+"Purvi!" Ananta's voice comes up the stairs.
+
+"Oh God, you are getting so late!"
 
 * * *
 
@@ -300,7 +362,7 @@ The door shuts. Purvi stands in the middle of her room and looks at her own arms
     OC:      London Hours
     FENCE:   The Night of Purnima · The Mirror · The Courtyard · Ice · Morning
     SPLIT:   Part 1 of `Chapter_06_The_Kechuli`. Part 2 holds the scenes from `## Arrival`; this half runs from `## The Night of Purnima` to `## Morning` (B26–B30, 27:26–34:34). The two halves share one footer's evidence only where the evidence is the episode's; each half's figures (`picture_check`, `camera_check`, `thread_check`) are its own and are measured, not inherited.
-    RIPPLED:  none — R-01 to R-04 re-read against the rebuilt prose and nothing in it asserts a superseded fact. No Aryaman anywhere in this half except asleep behind a line; the pair are never near each other; he is in one scene and no silence is written on him; no score anywhere near a pairing. The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule that touches it must be named here instead of `none`.
+    RIPPLED:  none — R-01 to R-04 re-read against the rebuilt prose and nothing in it asserts a superseded fact. No Aryaman anywhere in this half except asleep behind a line; the pair are never near each other; he is in one scene and no silence is written on him; no score anywhere near a pairing. Style pass 2026-11-22 re-read: R-01/R-02/R-03 stand as asserted (Aryaman asleep behind a line; the pair never near each other; the one scene of him carries no written silence); R-04 stands — the score named is neutral (sounding/foretelling/waking), every naming on a marker, m28:11 owned-not-renamed on the prose's own *music starts* and chant; his register untouched (the terrace, the printout, the snake). The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule that touches it must be named here instead of `none`.
     LEDGER:   run 2026-11-20 over the track and the beats (`O041`): one live butterfly touches this half
               (`BF-09`, the snake on the terrace); nothing new; the courtyard geography and the terrace scene are
               staging and carry no new divergence.
@@ -335,7 +397,7 @@ The door shuts. Purvi stands in the middle of her room and looks at her own arms
               staged that the episode contradicts. Struck from the draft: the counted bruises (4+3+1 — the track gives no count);
               the woman in the glass; the warm mirror; the parents' sentences at the door and on the stairs; *tu chilla rahi
               thi*; the mother's doorway beat in `## Ice`; *yahi toh nahin pata*; *aaj tu kahin nahin jaa rahi*; *maar doongi*;
-              the hand heavy on a desk that is not there; *sits down again* over legs that never stood.
+              the hand heavy on a desk that is not there; *sits down again* over legs that never stood. Deep 2026-11-23: word-splits only; no line added, no aired text altered.
     SEEN:     On `O025` — Pinky on the terrace, *us chehre ke saath … kisi ke haath se kuch gir jaayega*, and the guard at the
               gate lifting his hand to him in the dark.
     CHANGED:  none — no canon line moves mouths. The block-split (*sab chal raha hai*) is a reading and is owned in `EVIDENCE`.
@@ -354,4 +416,4 @@ The door shuts. Purvi stands in the middle of her room and looks at her own arms
               room under the moon, the back stairs down to the moonlit courtyard, Ananta's room at two with the lamp on, the
               terrace at four under the moon, the morning kitchen loud with the cooker. The inserts that carry weight are the
               calendar, the inhaler, the dog, the creams, the bucket and rope, the tray with the ice, the biro drawing, the
-              printout, the newspaper and the kurta. Speech share under two-thirds in every scene, `camera_check` green.
+              printout, the newspaper and the kurta. Speech share under two-thirds in every scene, `camera_check` green. The style pass of 2026-11-22 names the score on two markers and owns one not renamed (chant m28:11 already *the music starts* with its *Sharnagatam*; foretelling m28:28 as one, both soundings of the block, on the temple's voice; waking m34:04 on the fever forehead), and names helplessness, protectiveness, alarm, wonder, worry, loneliness, longing, calm and resolve where the rooted mother, the barred door, the changed face, the long look, the long moment, the empty chest, the nameless wait, the unfrightened voice and the turned cuffs show them (the dream-smile, the tears, the laughs and the smiles already stood; the courtyard pain already stood). The London Hours play unscored (no markers). No new string: nothing held asks for one. No tasha, no pair theme. Music-only and footered (9): 28:18, 29:15, 29:55, 30:02, 30:25, 30:38, 31:26, 31:31, 31:38. Battery: picture 6/6 ok; camera green; thread 1/1 green; butterfly/eyes/score-0/money/ripple/oc/beat green; dialogue 8/8; gap 8/8 whole + 13 music; rescan A0/B-paste2/C-new3 (pre-existing, unchanged — all sit on aired dialogue); check GREEN. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/scores/cues byte-identical; omens arc in-scene (Purnima calendar turns-to-swings-knocks, spectacles kept-to-left-folded, smile dream-to-dead, heels drum-to-stop, sound out-to-after, doors hers-open-to-Ananta's-shut, dog starts-to-mad; Mirror marks up-to-darker, glass holds-thrice, tears come-to-unwiped; Courtyard feet stone-to-air-to-stone, dog again; Ice towel on-to-slips-caught-to-back-in-ice, room round-to-waits-stop, paper unsettled, tap runs-unturned; London pen across-to-circled-written-shown-down, headphone in-to-out, jaw tight-loose-tight, tea cold-to-drunk, guard walks-stops-answers, snake over-stops-tongue-down-gone; Morning door shuts, cuffs over marks); tissue chained (moon Ch5's Purnima over both houses; spectacles Ch4's lock; calendar Ch5's string; water bottle-to-bucket-to-ice-to-tap-to-tea; paper spill-to-drawing-to-printout; slippers up-to-away-to-in-hand; tablets land the dawaai errand; snake rhyme Ch4's step; mirror-rhyme Ch2's; printout-and-ledgers to P2's boxes); gravity is his conduct entire in his one scene (books corrected-and-signed-for, tea drunk cold, snake greeted unafraid-and-unstirred; Pinky climbs-and-tells, guard stops-and-answers, snake stays-till-light) — her night unbent, they have not met; no new score, no new business.

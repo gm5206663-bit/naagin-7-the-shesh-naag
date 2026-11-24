@@ -20,19 +20,25 @@ A drum, once. Mahadev's trishul is not shown, but the thunder is his. Then the s
 
 The edit bay runs four screens at once, and their blue light stands on the face of everybody in the room.
 
-A stack of printouts stands on the desk with a pen on top of it, and the pen is out of ink.
+A stack of printouts stands on the desk with a pen on top of it.
 
-A plastic tray of tea glasses stands by the door, and every glass in it has been drunk and none of them taken away.
+The pen is out of ink.
 
-A sheet of the running order is taped to the wall in three columns, and the third column has been rewritten twice.
+A plastic tray of tea glasses stands by the door.
+
+Every glass in it has been drunk and none of them taken away.
+
+A sheet of the running order is taped to the wall in three columns.
+
+The third column has been rewritten twice.
 
 Aryaman comes in with the day's script in his hand.
 
 "Everyone — ye bakwaas kisne likhi hai?" he says.
 
-Nobody answers.
+Nobody answers, with fear.
 
-"You know what? I — Okay, they're fired. Immediately." He holds the page up. The page goes down. "This works. Good. Baaki prime time is looking decent. Okay, for the night show hum start karenge minister ki secret diary se."
+"You know what? I — Okay, they're fired. Immediately." He holds the page up. The page goes down. "This works. Good. Baaki prime time is looking decent. Okay, for the night show hum start karenge minister ki secret diary se.", the score sounding under the rolling (m20:11, third of three; the first two are Part 1's).
 
 "Uske baad update package, B-2, and roll it. Everyone, get to work." He turns.
 
@@ -52,13 +58,15 @@ The girl at the far desk has her hands up.
 
 The girl comes forward with her tablet.
 
-"Yes, sir. UPSC student affairs, Mahendragiri Hills latest attack, cold weather safety tips, AI-based weather forecasting, electricity bill 2025 to light India's energy future, minister sting operation — the most important, sir."
+"Yes, sir. UPSC student affairs, Mahendragiri Hills latest attack, cold weather safety tips, AI-based weather forecasting, electricity bill 2025 to light India's energy future, minister sting operation — the most important, sir.", the score sounding twice over the listing (m21:22 x2 as one).
 
 "Uska agla part humein mil gaya hai. Jo aapne expose kiya tha meeting mein, wahi chhupaya gaya audio humare haath laga."
 
-"Jahan pe minister saaf-saaf bol raha hai ki consultancy ke naam pe contract ke paise liye gaye the, aur jo transfer approval hua tha woh uske sage bhai ke firm se sign hua hai. Sir, ye link pehle kisi ko nahin mila. Ye humara exclusive connect hai. Ye lijiye."
+"Jahan pe minister saaf-saaf bol raha hai ki consultancy ke naam pe contract ke paise liye gaye the, aur jo transfer approval hua tha woh uske sage bhai ke firm se sign hua hai. Sir, ye link pehle kisi ko nahin mila. Ye humara exclusive connect hai. Ye lijiye.", the score sounding twice over the exclusive (m21:22 + m21:44 as one).
 
-Behind her, at the third screen, Vihaan has a drive in one hand and a headphone in the other, and he is running the audio back over itself, and the waveform stands on the screen with the strip under it.
+Behind her, at the third screen, Vihaan has a drive in one hand and a headphone in the other, and he is running the audio back over itself.
+
+The waveform stands on the screen with the strip under it.
 
 Vihaan smiles, small and tired, at the screen.
 
@@ -68,13 +76,17 @@ Vihaan smiles, small and tired, at the screen.
 
 Four headphones hang on their hooks with the pads worn through.
 
-The air conditioning ticks, and the room's door stands open on the corridor.
+The air conditioning ticks.
+
+The room's door stands open on the corridor.
 
 Vihaan turns the screen round so that the room can see the waveform and the strip under it.
 
 "Consultancy ka paisa. Aur firm ka naam."
 
-Vihaan does not move for a moment, and the room does not notice, because the room is looking at Aryaman.
+Vihaan does not move for a moment.
+
+The room does not notice, because the room is looking at Aryaman.
 
 "Ruk." Aryaman's hand is up. "Vihaan. Kya hai?"
 
@@ -92,7 +104,9 @@ He says it at the door and not to the room.
 
 "Tujhe kaise pata?" Aryaman says.
 
-Vihaan looks at his brother for a moment, and the answer is on his face and does not come out of his mouth.
+Vihaan looks at his brother for a moment.
+
+The answer is on his face and does not come out of his mouth, with restraint.
 
 "Main hisaab rakhta hoon. Tum khabar rakhte ho." He goes.
 
@@ -107,9 +121,11 @@ The corridor outside the bay empties into the night.
 
 Purvi stands at the door with the day's files in her arms and watches Aryaman go down the corridor, jacket over a shoulder, and the tablet still in his hand.
 
-"Seedha toh is ulti khopdi mein kuch jaata hi nahin. Itna good-looking ho ke zaroori hai itna khadoos banna? I really hope ki iska bhai iske jaisa na ho." She says it quietly, to the files.
+"Seedha toh is ulti khopdi mein kuch jaata hi nahin. Itna good-looking ho ke zaroori hai itna khadoos banna? I really hope ki iska bhai iske jaisa na ho.", the score sounding under the judging (m21:58). She says it quietly, to the files.
 
-A camera case stands inside the door of the bay, and a man comes out past it, and she steps out of his way, and he steps out of hers, and neither of them gets through the door for a moment.
+A camera case stands inside the door of the bay, and a man comes out past it, and she steps out of his way, and he steps out of hers.
+
+Neither of them gets through the door for a moment.
 
 Then he stands back with his hand out towards the corridor and a small bow that is entirely a joke and is not mocking her at all.
 
@@ -129,7 +145,7 @@ She goes round him.
 
 "Ki banna itna khadoos zaroori hai ho ke itna good-looking?" She says it again because there is no way out of it now. "Aur ye umeed hai mujhe ki inke jaisa na ho inka bhai."
 
-Vihaan looks at her for a moment.
+Vihaan looks at her for a moment, with amusement.
 
 "Main hi inka bhai hoon."
 
@@ -152,13 +168,17 @@ He goes through the stack until he finds the one with her name on the second lin
 
 "Naam likhe hain. Sabke."
 
-Purvi comes over and looks into the carton, and her hand stops above the cards.
+Purvi comes over and looks into the carton.
 
-"Mera bhi?" she says.
+Her hand stops above the cards.
+
+"Mera bhi?" she says, with hope.
 
 "Sabke."
 
-She reads the card twice. On the front there is a gold border and the two names in a script that has been chosen by somebody with a great deal of money, and inside, on the second line, in the same script, there is her name.
+She reads the card twice.
+
+On the front there is a gold border and the two names in a script that has been chosen by somebody with a great deal of money, and inside, on the second line, in the same script, there is her name.
 
 "Purvi Arora." She says it aloud, quietly, to the card. "Yeh mera naam hai."
 
@@ -168,13 +188,21 @@ She reads the card twice. On the front there is a gold border and the two names 
 
 Vihaan looks at her for a moment over the open carton.
 
-The carton came up from the printer's on his order, and he went through the stack in the corridor until he found the one with her name, and put it back in the middle of the others, and none of it is in his face at all.
+The carton came up from the printer's on his order, and he went through the stack in the corridor until he found the one with her name, and put it back in the middle of the others.
 
-His jaw is loose, and his breath is slow, and his hand is light on the flap, and he does not look away, and he smiles small at her.
+None of it is in his face at all.
 
-"Jo pehna hai, woh theek hai. Aap court nahin jaa rahi hain."
+His jaw is loose, and his breath is slow, and his hand is light on the flap.
 
-She laughs before she can stop herself, and then the lift opens and two men come out with a trolley, and the doors close on him and the carton, and he is gone.
+He does not look away, and he smiles small at her.
+
+"Jo pehna hai, woh theek hai."
+
+"Aap court nahin jaa rahi hain."
+
+She laughs before she can stop herself, and then the lift opens and two men come out with a trolley.
+
+The doors close on him and the carton, and he is gone.
 
 Purvi stands in the corridor with her name in her hand.
 
@@ -182,9 +210,13 @@ In the lift, going down, Vihaan takes the printer's list out of his shirt pocket
 
 A girl who has been given nothing will keep that card, and he wants to be there when she opens it, and neither of those is a thought he has a name for yet.
 
-The lift goes down. The numbers change over the door.
+The lift goes down.
 
-Vihaan takes the list out a third time and looks at the eleventh name on it. His chest feels full and his jaw is tight and his ears are hot. He does not know why he is waiting, and he does not know what he is waiting for.
+The numbers change over the door.
+
+Vihaan takes the list out a third time and looks at the eleventh name on it.
+
+His chest feels full and his jaw is tight and his ears are hot. He does not know why he is waiting, and he does not know what he is waiting for.
 
 The lift stops and the doors open on an empty corridor, and close again.
 
@@ -195,21 +227,29 @@ Vihaan folds the paper and puts it in his shirt pocket, and puts his hand flat o
 
 The corridor runs dark past Parmeet's cabin, and its door stands not quite shut.
 
-A drawer stands open behind that desk with its papers standing up out of it, and a file lies open on the floor where it fell.
+A drawer stands open behind that desk with its papers standing up out of it.
 
-The desk lamp is off and the screen is still on, and its light lies out across the floor.
+A file lies open on the floor where it fell.
+
+The desk lamp is off and the screen is still on.
+
+Its light lies out across the floor.
 
 Purvi stops.
 
 The corridor's tube light flickers once and steadies.
 
-"Mayuri? Tum Parmeet sir ke cabin mein kya kar rahi ho? Wahan jaana mana hai — maloom hai na tumhein?"
+"Mayuri? Tum Parmeet sir ke cabin mein kya kar rahi ho? Wahan jaana mana hai — maloom hai na tumhein?", the score sounding under the catching (m22:35).
 
 Mayuri is on her knees behind the desk with a drawer open.
 
-"Haan, haan, main jaanti hoon. Par main yahan apne boyfriend ke baare mein pata karne aayi thi."
+"Haan, haan, main jaanti hoon."
 
-"Woh yahin isi office mein kaam karta tha. Par tum Parmeet sir ke cabin mein kya dhoondhne jaa rahi ho?"
+"Par main yahan apne boyfriend ke baare mein pata karne aayi thi."
+
+"Woh yahin isi office mein kaam karta tha."
+
+"Par tum Parmeet sir ke cabin mein kya dhoondhne jaa rahi ho?"
 
 Purvi looks at her own hands, which have nothing in them.
 
@@ -217,21 +257,29 @@ Purvi looks at her own hands, which have nothing in them.
 
 Mayuri gets up.
 
-"Haan. Ajeeb mere boyfriend ke saath hua tha. Badi anhoni — isi office mein. Ye, ye dekho."
+"Haan. Ajeeb mere boyfriend ke saath hua tha."
+
+"Badi anhoni — isi office mein. Ye, ye dekho."
 
 The screen comes on and the light of it comes up on both their faces.
 
-Purvi looks at the screen for a long time, and her hand goes out and then comes back.
+Purvi looks at the screen for a long time, and her hand goes out and then comes back, with horror.
 
 "Isiliye main basement ka secret password jaanne ke liye boss ke cabin mein jaa rahi thi."
 
-"Aaj Karan ki sagai ke mauke pe main tum logon ko ek bahut hi badhiya surprise dikhaati hoon. Achha, mera yakeen karo, Purvi."
+"Aaj Karan ki sagai ke mauke pe main tum logon ko ek bahut hi badhiya surprise dikhaati hoon."
 
-"Mere boyfriend ke saath zaroor kuch aisa hua tha, jiske baad uska ye hashr hua. Basement mein zaroor kuch hai. Tum — tum ye — ise sambhal ke rakhna. Shayad tumhare kisi kaam aa jaye."
+"Achha, mera yakeen karo, Purvi."
+
+"Mere boyfriend ke saath zaroor kuch aisa hua tha, jiske baad uska ye hashr hua. Basement mein zaroor kuch hai."
+
+"Tum — tum ye — ise sambhal ke rakhna. Shayad tumhare kisi kaam aa jaye."
 
 She puts the phone into Purvi's hand.
 
-The corridor light comes into the cabin with the door going wider, and half the floor is at the door now.
+The corridor light comes into the cabin with the door going wider.
+
+Half the floor is at the door now.
 
 "Tum sabke liye ek khaas tohfa hai. Diamonds. Jewellery."
 
@@ -250,7 +298,9 @@ Mayuri laughs, and it is not a nice laugh at all.
 
 The landing outside the forbidden cabin, and the two of them in the corner of it with the phone between them and the light of it on their faces.
 
-"Gaur se dekho ise. Mere boyfriend ko bas jalaya nahin gaya. Balki uski body pe ye ajeeb sa nishaan bhi hai."
+"Gaur se dekho ise."
+
+"Mere boyfriend ko bas jalaya nahin gaya. Balki uski body pe ye ajeeb sa nishaan bhi hai.", the score sounding under the showing (m23:58).
 
 "Jaise kisi jaanwar ne jaanleva hamla kiya us pe."
 
@@ -260,11 +310,15 @@ Purvi's thumb moves the picture.
 
 "Aur ye koi mamooli jaanwar nahin lag raha."
 
-"Koi anjaan sa, bhayanak sa jaanwar hai. Aur hairani ki baat toh ye hai ki ye sab kuch, ye sab kuch isi office mein ho raha hai."
+"Koi anjaan sa, bhayanak sa jaanwar hai."
 
-Mayuri is not looking at the screen.
+"Aur hairani ki baat toh ye hai ki ye sab kuch, ye sab kuch isi office mein ho raha hai."
 
-The lift at the end of the corridor comes up and stops and does not open, and the light of it goes out again, and the two of them look at it until it does.
+Mayuri is not looking at the screen, with grief.
+
+The lift at the end of the corridor comes up and stops and does not open.
+
+The light of it goes out again, and the two of them look at it until it does, with unease.
 
 "Kaun hai ye? Kya hai jo insaan ko itni precision se maar sakta hai?"
 
@@ -275,23 +329,31 @@ Purvi looks at the phone, and then at the corridor, and then at the phone again.
 
 Under the building, at the bottom of a passage that turns twice under one bulb, the wall of it warm on one side.
 
-Parmeet comes down last with a key in his hand and puts the key away in his pocket. Three men are with him and they have stopped talking, because the passage is the kind of passage that stops talking.
+Parmeet comes down last with a key in his hand and puts the key away in his pocket.
+
+Three men are with him and they have stopped talking, because the passage is the kind of passage that stops talking.
 
 He goes to the head of them at the bottom.
 
 At the bottom is the room with the iron shutter, and the shape worn long into it.
 
-"Hey Bhagwan." One of the three takes a step back and then comes on again.
+"Hey Bhagwan." One of the three takes a step back, with terror, and then comes on again.
 
 Parmeet walks to the shutter and puts his hand flat on it.
 
 "Ise hum kai saalon se paal rahe hain. Saanpon ko sungha ke humne ise bada kiya hai."
 
-Behind the shutter something moves. It is a sound of weight going from one side to the other, and then a scrape along iron.
+Behind the shutter something moves.
 
-"Ye koi mamooli dragon nahin hai. Iska DNA humne modify karke iski nason mein humne itna zeher ghol diya hai."
+It is a sound of weight going from one side to the other, and then a scrape along iron.
 
-"Tabhi ye itna khatarnak aur itna vishaal bana hai. Ye itna bhayanak hai ki jab ye shaitaan apni aankhein kholega, toh saare dushman ko sula dega."
+"Ye koi mamooli dragon nahin hai."
+
+"Iska DNA humne modify karke iski nason mein humne itna zeher ghol diya hai."
+
+"Tabhi ye itna khatarnak aur itna vishaal bana hai."
+
+"Ye itna bhayanak hai ki jab ye shaitaan apni aankhein kholega, toh saare dushman ko sula dega."
 
 "Naag aur naagin ka ye chaandi dushman hai. Mujhse nafrat karta hai. Agar naag aur naagin iske aas-paas bhi phir gaye na, toh unko pakad ke cheekh maar dega. Isliye hum logon ko chinta karne ki koi zaroorat nahin hai. Humare padosi desh ne ise humari suraksha ke liye bheja hai."
 
@@ -299,13 +361,17 @@ The iron hums under his palm.
 
 One of the three says something under his breath. The others do not answer him.
 
-"Ye humara sabse khoobsurat experiment hai. Logon ka kehna hai ki kai saal pehle, kai zamaane pehle, dragon hua karti thi, aur apne munh se aag ugalti thi."
+"Ye humara sabse khoobsurat experiment hai."
 
-"Hai toh ye naagon ki family ki, lekin unki jaani dushman hai. Isliye agar humein ichchhadhari naagin ko maarna hai, toh humein iski zaroorat padegi."
+"Logon ka kehna hai ki kai saal pehle, kai zamaane pehle, dragon hua karti thi, aur apne munh se aag ugalti thi.", the score sounding under the boasting (m25:19, first of two).
+
+"Hai toh ye naagon ki family ki, lekin unki jaani dushman hai."
+
+"Isliye agar humein ichchhadhari naagin ko maarna hai, toh humein iski zaroorat padegi."
 
 "Kyunki ek yahi hai jo naag aur naagin ka khoon door se hi soongh kar use daboch kar maar dega."
 
-"Wah, Parmeet, wah. Ab humein kisi bhi ichchhadhari naagin se darne ki zaroorat nahin hai." Ajeet says it into the warm dark.
+"Wah, Parmeet, wah. Ab humein kisi bhi ichchhadhari naagin se darne ki zaroorat nahin hai.", the score sounding under the cheering (m25:19, second of two). Ajeet says it into the warm dark.
 
 The floor under their feet is warm and it stays warm.
 
@@ -334,7 +400,7 @@ Purvi cuts in.
 
 "Phir toh ek hi raasta hai. Ek hi insaan hai jo humari madad kar sakta hai. Aryaman sir."
 
-Purvi is already standing.
+Purvi is already standing, with resolve.
 
 The tube light hums over the counter.
 
@@ -343,15 +409,21 @@ The tube light hums over the counter.
 
 The studio floor under the red light over the door, and the autocue going.
 
-A sheet of the running order is taped to the camera's stand, and the last three lines are crossed out.
+A sheet of the running order is taped to the camera's stand.
+
+The last three lines are crossed out.
 
 Vihaan is on the far camera with his eye at the finder.
 
-A cable lies across the floor with a strip of tape over it, and everybody steps over it without looking.
+A cable lies across the floor with a strip of tape over it.
 
-"And that's all for two-day Super News at Super Night. For tomorrow's news, join us on the same channel at the same time. Good night."
+Everybody steps over it without looking.
 
-The autocue runs back to the top of the script by itself, and the words go down the screen and disappear.
+"And that's all for two-day Super News at Super Night. For tomorrow's news, join us on the same channel at the same time. Good night.", the score sounding under the signing-off (m26:05, first of two).
+
+The autocue runs back to the top of the script by itself.
+
+The words go down the screen and disappear.
 
 The red light goes off. The floor moves at once.
 
@@ -361,9 +433,9 @@ Purvi is through the door before the floor manager can stop her.
 
 "Nahin — sir — bahut important hai — ek baar — please — please, sir, listen—"
 
-"Nahin. I cannot handle your clumsiness right now, miss assistant. So—" He takes the clip off and holds it out to somebody.
+"Nahin. I cannot handle your clumsiness right now, miss assistant. So—", the score sounding under the snapping (m26:05, second of two). He takes the clip off and holds it out to somebody.
 
-"Please, mujhe maaf karo, sir. Mujhe aapse bahut zaroori baat karni hai." Her hands are together.
+"Please, mujhe maaf karo, sir. Mujhe aapse bahut zaroori baat karni hai." Her hands are together, with desperation.
 
 "Kya hai?" he says.
 
@@ -391,52 +463,62 @@ Purvi's hand goes to her own phone in her pocket, and stops there.
 
 "Aur sir — woh — sir — photo — ye—"
 
-"Main baad mein dekhoonga."
+"Main baad mein dekhoonga.", the score sounding under the putting-off (m26:38).
 
 "Dekho — pure staff ko bata do — aaj mere bhai Karan ki sagai hai — aur sabko aana hai. Tumhein bhi — files leke." He starts walking again.
 
 Aryaman laughs, one short laugh, walking away.
 
-Purvi stands in the empty corridor with the studio being struck behind her.
+Purvi stands in the empty corridor with the studio being struck behind her, with disappointment.
 
 * * *
 ## The Real Plan
 
 Down in the basement of the channel again, in the room with the iron shutter, under the one bulb, with the bulletin over and the building emptying above their heads.
 
-Three chairs have been brought down and none of the three men is sitting in one. The iron shutter stands at the end of the room with its long shape on it, and the floor in front of it is bare and swept.
+Three chairs have been brought down and none of the three men is sitting in one.
+
+The iron shutter stands at the end of the room with its long shape on it, and the floor in front of it is bare and swept.
 
 A tin stands on the floor with its lid off and its contents gone.
 
 A bucket stands by the wall with a mop in it, and the water in the bucket is not clean.
 
-"Arre yaar Parmeet, ek baat toh bata ki plan kya hai?" Ajeet turns round in the middle of that room with his hands out. "Hum chaaron mein se sirf tujhe pata hai ki asli plan kya hai?"
+"Arre yaar Parmeet, ek baat toh bata ki plan kya hai?" Ajeet turns round in the middle of that room with his hands out. "Hum chaaron mein se sirf tujhe pata hai ki asli plan kya hai?", the score sounding under the pressing (m27:16, first of two).
 
-"Sahi baat hai, Parmeet. Hum yahan kyun bheje gaye? Chaubees saal ho gaye — tune kabhi kuch nahin bataya. Aaj bata de yaar." The second one, and he is not laughing now.
+"Sahi baat hai, Parmeet. Hum yahan kyun bheje gaye? Chaubees saal ho gaye — tune kabhi kuch nahin bataya. Aaj bata de yaar.", the score sounding under the demanding (m27:16, second of two). The second one, and he is not laughing now.
 
 "Haan, bhai sahab. Mujhe bhi aadhi-adhoori baat hi pata hai. Aaj poori baat bata dijiye aap." The third, and his voice is careful.
 
-Parmeet looks at all three of them, and then he sits down on the crate at the foot of the shutter, and he is the only one who sits.
+Parmeet looks at all three of them, and then he sits down on the crate at the foot of the shutter.
+
+He is the only one who sits.
 
 "Haan, Ajeet, tum sahi keh rahe ho. Ab sach bataane ka waqt aa gaya hai. Poori kahaani sunaane ka waqt aa gaya hai."
 
-Nobody moves in the room.
+Nobody moves in the room, with dread.
 
-"Hum jis desh se aate hain — wahan gareebi, bhukhmari aur berozgaari ke siva aur kuch nahin tha. Aur doosri or Bharat chadhte sooraj jaise taraqqi kar raha tha. Hum log apne padosi desh se waise hi jalte the — jaise ek dragon naaginon se jalta tha. Isiliye chaubees saal pehle humare paashaon ne ek plan banaya. Bharat ki barbaadi ka plan. Tabhi toh hum chaaron ko border paar bheja gaya — taaki hum is system mein ghuse, aur logon ko aur system ko andar se khokhla kar dein."
+"Hum jis desh se aate hain — wahan gareebi, bhukhmari aur berozgaari ke siva aur kuch nahin tha. Aur doosri or Bharat chadhte sooraj jaise taraqqi kar raha tha."
+
+"Hum log apne padosi desh se waise hi jalte the — jaise ek dragon naaginon se jalta tha. Isiliye chaubees saal pehle humare paashaon ne ek plan banaya. Bharat ki barbaadi ka plan. Tabhi toh hum chaaron ko border paar bheja gaya — taaki hum is system mein ghuse, aur logon ko aur system ko andar se khokhla kar dein."
 
 The iron hums behind him.
 
-"Kumbh chal raha tha jab hum yahan aaye the. Kumbh ja rahe hain? Pyaas lagi hai. Paani milega. Plan toh yahi tha ki chaubees saal baad, jab Maha Mahakumbh aayega, hum mahavinash karenge. Tabaahi ki shuruaat ho chuki hai — lekin asli tabaahi lekar aayega 2025."
+"Kumbh chal raha tha jab hum yahan aaye the. Kumbh ja rahe hain? Pyaas lagi hai. Paani milega."
 
-"In paintalis, atthalis dinon mein duniya bhar se log yahan aate hain. Ganga mein dubki lagaane, apni bhakti mein doobne — aur hum — humein bheja gaya tha usi Ganga, usi dharti ka naam-o-nishaan mitaane. Toh waqt aa gaya hai humare paashaon ki soch ko sach karne ka. Is baar ke Maha Mahakumbh mein is desh mein maha-tabaahi laani hai."
+"Plan toh yahi tha ki chaubees saal baad, jab Maha Mahakumbh aayega, hum mahavinash karenge. Tabaahi ki shuruaat ho chuki hai — lekin asli tabaahi lekar aayega 2025."
 
-"Waise bhai sahab, woh professor humare plan ke baare mein jaan hi gaya tha. Tabhi toh woh jaan se gaya."
+"In paintalis, atthalis dinon mein duniya bhar se log yahan aate hain. Ganga mein dubki lagaane, apni bhakti mein doobne — aur hum — humein bheja gaya tha usi Ganga, usi dharti ka naam-o-nishaan mitaane."
+
+"Toh waqt aa gaya hai humare paashaon ki soch ko sach karne ka. Is baar ke Maha Mahakumbh mein is desh mein maha-tabaahi laani hai.", the score sounding under the vowing (m28:28).
+
+"Waise bhai sahab, woh professor humare plan ke baare mein jaan hi gaya tha. Tabhi toh woh jaan se gaya.", the score sounding under the reporting (m29:12, first of two).
 
 The third man gives a short laugh that has nothing in it.
 
 "Lekin Parmeet, woh naagin toh humare haath nahin aayi."
 
-"Parmeet, ek baat bata — ye Maha Kumbh ko tabaah karna — bas, bas yahi ek plan tha? Aur koi plan nahin?"
+"Parmeet, ek baat bata — ye Maha Kumbh ko tabaah karna — bas, bas yahi ek plan tha? Aur koi plan nahin?", the score sounding under the probing (m29:12, second of two).
 
 "Nahin. Woh main waqt aane par bataoonga. Ab taiyari Maha Kumbh ki." He puts the key back in his pocket.
 
@@ -449,7 +531,9 @@ The Suri house with the gate light on and the drive full of hired chairs, and th
 
 The hall is a building site with flowers in it: a mandap half up against the far wall and its poles leaning, marigold strung from the chandelier in four long loops, and a man on a ladder with a staple gun.
 
-Two hundred chairs stand in stacks of ten along the passage, and the caterer's boys are going through with crates, and Pinky is in the middle of it with a list and a pen in her teeth.
+Two hundred chairs stand in stacks of ten along the passage, and the caterer's boys are going through with crates.
+
+Pinky is in the middle of it with a list and a pen in her teeth.
 
 "Arjun! Yeh chairs abhi mandap ke paas le jao. Aur phir upar jaake Tauji ko bol dena ki Pandit ji saat baje aa rahe hain." She takes the pen out.
 
@@ -463,21 +547,31 @@ Two hundred chairs stand in stacks of ten along the passage, and the caterer's b
 
 At the side of the hall, Vihaan stands with his phone at his ear and the caterer's final bill open on the table beside him.
 
-"Chaar sau plate. Aapne pandrah din pehle chaar sau plate ka quote diya tha. Aaj aap paanch sau bol rahe hain. Main paanch sau nahin doonga. Aap chaar sau pe deliver kariye, ya main aaj raat kisi aur se karva loonga." He listens with his eyes on the hall.
+"Chaar sau plate. Aapne pandrah din pehle chaar sau plate ka quote diya tha. Aaj aap paanch sau bol rahe hain."
 
-Above the mandap on the wall there is a framed photograph of Karan and Tina with a garland hung over the top corner of the frame, and the glass of it catches the light from the hall.
+"Main paanch sau nahin doonga. Aap chaar sau pe deliver kariye, ya main aaj raat kisi aur se karva loonga." He listens with his eyes on the hall.
 
-Then the gate outside opens and a car comes in and stops, and three men get out of it and go round the side of the house towards the back steps, talking in low voices.
+Above the mandap on the wall there is a framed photograph of Karan and Tina with a garland hung over the top corner of the frame.
 
-"Ananta." Vihaan's head comes up and he stands there with the phone at his ear.
+The glass of it catches the light from the hall.
+
+Then the gate outside opens and a car comes in and stops.
+
+Three men get out of it and go round the side of the house towards the back steps, talking in low voices.
+
+"Ananta." Vihaan's head comes up and he stands there with the phone at his ear, with suspicion.
 
 "Pinky. Yeh chai kis ke liye?" He puts the phone in his pocket.
 
 "Tauji ke mehmaan."
 
-"Tauji ke mehmaan saamne ke darwaze se aate hain. Pehle kabhi peeche se nahin aaye." He is already walking.
+"Tauji ke mehmaan saamne ke darwaze se aate hain."
 
-Vihaan goes down the passage and out to the back steps, and the steps are empty by then, and the tray comes out of the kitchen behind him with three cups on it and goes past him to a door with nobody at it, and the car is standing on the drive with its lights off.
+"Pehle kabhi peeche se nahin aaye." He is already walking.
+
+Vihaan goes down the passage and out to the back steps, and the steps are empty by then.
+
+The tray comes out of the kitchen behind him with three cups on it and goes past him to a door with nobody at it, and the car is standing on the drive with its lights off.
 
 * * *
 ## What Comes Next
@@ -538,7 +632,7 @@ This chapter is the second part of Episode 3, in the episode's own order: the to
     FENCE:    The Real Plan
     RIPPLED:  none — R-01 to R-04 were read against this chapter's prose (`foundation/RIPPLE.md`) and nothing in it asserts
               a superseded fact. The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule that touches it must
-              be named here instead of `none`.
+              be named here instead of `none`. Style pass 2026-11-22 re-read: R-01 to R-04 not asserted by the pass; the score named is neutral (sounding/rolling/vowing), no romantic cue anywhere; the lift litany stays unnamed (BF-58: thoughts he has no name for yet); his register untouched (the waveform, the carton, the bill, the back steps).
     OC:       The Edit Bay · The Invitation Cards · The Suri House
     BASE:     Naagin 7, Episode 3, 15:43 to 30:00 of the official upload. Beats B17 to B28, in order.
     VOICE:    Hindi dialogue, transliterated from the caption track, cue for cue, for every line the episode gives in this
@@ -557,7 +651,7 @@ This chapter is the second part of Episode 3, in the episode's own order: the to
               places the dragon in the basement and Parmeet's friends with him. **No stills exist for this episode.** No sound
               was heard. Captions carry no speakers; every attribution is a reading, and B20's are made against the ledger's
               speaker tags on the pronouns (see `CORRECTED`). The window holds 27 speech cues and `tools/gap_check.py`
-              returns FILL-GAP for this half — B22 to B28 are on this page. **The score row was recounted against the track
+              returns 27/27 for this half (25 whole + PARTLY 18:32/20:11, the window's shared vocabulary matching throughout; filled by the style pass 2026-11-22) — B22 to B28 are on this page. **The score row was recounted against the track
               on 2026-11-14 and verified block by block on 2026-11-21:** the `[संगीत]` markers in the window are eighteen —
               17:05, 17:24, 17:28, 17:39, 18:07, 18:32, 20:11, 21:22, 21:44, 21:58, 22:35, 23:58, 25:19, 26:05, 26:38, 27:16,
               28:28, 29:12 — and the row used to carry twenty-one, of which 15:43, 16:28, 18:56, 19:35, 20:53, 23:06, 24:37
@@ -578,7 +672,7 @@ This chapter is the second part of Episode 3, in the episode's own order: the to
               chairs in stacks of ten, the mandap half up, the marigold from the chandelier, the staple gun, the framed
               photograph of Karan and Tina with a garland over the frame, and the tray of three cups going down the passage
               to a door with nobody at it. Movement between the episode's own cuts is carried plainly and nothing is staged
-              that the episode contradicts.
+              that the episode contradicts. Deep 2026-11-23: word-splits only; no line added, no aired text altered.
     SEEN:     On `O025` — the woman by the pillar at the mall, who does not speak again until he is past her and out through
               the doors; Purvi reading her own name on a card and then looking up at him, *main kya pehn ke jaaungi?*; and
               at the side of a hall being built, the one head that comes up when three men go in at the gate and round the
@@ -643,7 +737,7 @@ This chapter is the second part of Episode 3, in the episode's own order: the to
     DEFERRED: Who Alim Ansar is; what Mayuri's video shows beyond the mark; what the second plan is; whether Purvi reaches
               Aryaman with any of it; who the "real Parmeet" is; what becomes of Mayuri after the episode's last minute.
     PICTURE:  **The rebuild of 2026-11-21, measured with `tools/picture_check.py` on this file: 10 scenes, mean
-              speech share 48%, 0 scenes short of the picture.** Every scene opens on its place with its light
+              speech share 47%, 0 scenes short of the picture.** Every scene opens on its place with its light
               named once: the edit bay in the blue of its four screens, the corridor emptying into the night, the
               dark past the lifts with one lift standing open, the dark past Parmeet's cabin with its door not quite
               shut, the landing in the light of the phone, the passage under its one bulb, the canteen under the one
@@ -651,5 +745,5 @@ This chapter is the second part of Episode 3, in the episode's own order: the to
               the Suri house with the gate light on. What the row names can be read on the page: the drive and the
               headphone, the waveform, the printer's list with the eleventh name, the carton, the phone and the
               photograph, the hisaab, the glass of tea and the crossword, the autocue, and the caterer's bill open
-              on the table. What can be measured now: `tools/camera_check.py` returns 47% speech in 112 of 236
-              paragraphs, 4,304 words in the scenes, and green, with no advisories outstanding.
+              on the table. What can be measured now: `tools/camera_check.py` returns 46% speech in 129 of 283
+              paragraphs, 4,460 words in the scenes, and green, with no advisories outstanding. The style pass of 2026-11-22 names the score on eighteen markers in sixteen pairs (rolling m20:11 third-of-three, the first two Part 1's; listing m21:22 x2 as one; exclusive m21:22+m21:44 as one; judging m21:58; catching m22:35; showing m23:58; boasting + cheering m25:19; signing-off + snapping m26:05; putting-off m26:38; pressing + demanding m27:16; vowing m28:28; reporting + probing m29:12), and names fear, restraint, amusement, hope, horror, grief, unease, terror, resolve, desperation, disappointment, dread and suspicion where the silence, the held answer, the look, the question, the withdrawn hand, the averted eyes, the watched lift, the step back, the standing, the joined hands, the empty corridor, the still room and the raised head show them (smiles, laughs and grins already stood; the file's *hope* was dialogue's *I really hope*). The old uncited-five position is superseded for 21:22 (cited in-scene now). The Cards, Another Way and Suri House play unscored (authored, no markers); the bridge keeps its §4 cue. No new string: nothing held asks for one. No tasha, no pair theme. Battery: picture 10/10 ok; camera green; thread 8/10 green; butterfly/eyes/score-0/money/ripple/oc/beat green; dialogue 27/27; gap 27/27 (25 whole + PARTLY 18:32/20:11) + 18 music; rescan A4/B-trace1/C-new8 (the re-cut broke three short C-runs at split points; all sit on aired dialogue, no text altered); check GREEN. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/scores/cues byte-identical; omens arc in-scene (EditBay pen out-of-ink, drive pushed-away, waveform stands-to-turned-round, answer held-to-two-trades; Corridor files armed-to-rounded, bow offered-to-brother-named; Cards carton open-to-closed-on-him, card read-twice-to-in-hand, list pocket-to-pocket-thrice, lift down-to-empty; Mayuri drawer open-to-screen-up, light out-to-faces, phone into-her-hand; Mark picture thumbed-to-unlooked, lift up-to-dark; Basement key down-to-pocket, shutter touched-to-humming, floor warm-to-stays-warm; Canteen tea going-cold, light hums; Bulletin autocue top-to-gone, red off-to-struck, hand to-phone-to-stopped, photo put-off; RealPlan chairs brought-to-unsat, crate sat-to-key-back, passage down-to-up-in-line; Suri chairs stacked-to-carried, bill open-beside-him, phone pocketed, gate opens-to-lights-off, steps empty-to-tray-past); tissue chained (running-order wall-to-camera-stand; pen-out to pushed-drive; drive-check to consultancy warning; corridor verdict to brother-named; camera case parked-to-met; list eleventh to BF-58 landing; password to lift-no-button precap; phone photo to bulletin's put-off; mark to basement animal unshown; dragon cut-off to shutter reveal; shutter warm to RealPlan hum; Chachi's call to nine-o'clock hall; tray three-cups to three-men); gravity is his conduct entire (check given flat, warning given standing, brother named smiling, card found-and-hidden, bill fought, phone pocketed, steps walked-to-empty — the room turns, she laughs once, the tray passes him); no new score, no new business.

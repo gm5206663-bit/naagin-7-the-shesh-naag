@@ -18,13 +18,17 @@ A drum, once. Mahadev's trishul is not shown, but the thunder is his. Then the s
 
 ## Pinky
 
-Morning in a blue-curtained room, the light coming grey through the cloth and the bed unmade, and Aryaman sitting up against the pillows with the day not yet on him.
+Morning in a blue-curtained room, the light coming grey through the cloth and the bed unmade.
+
+Aryaman sits up against the pillows with the day not yet on him.
 
 A boy comes in with a tray and four cups on it, and Pinky takes the tray off him at the door before her brother can lift a cup from it.
 
-Pinky sets the tray on the table and lifts one cup off it herself and puts it down beside her, out of his reach.
+Pinky sets the tray on the table.
 
-"No, no, no, no. Bhai, I am so sorry, but aaj aap nahin drink kar sakte," Pinky says.
+She lifts one cup off it herself and puts it down beside her, out of his reach.
+
+"No, no, no, no. Bhai, I am so sorry, but aaj aap nahin drink kar sakte, the score sounding under the forbidding (m18:38)," Pinky says.
 
 She folds her arms. "Ab aap mujhse poochh sakte hain ki why Pinky why?"
 
@@ -38,7 +42,9 @@ Pinky turns to the window with the rest of it. "Ab woh cousin Karan — uski bhi
 
 "Haan," Aryaman says.
 
-He reaches for the cup, and she moves it one inch further off, and he lets his hand fall back on the sheet.
+He reaches for the cup, and she moves it one inch further off.
+
+He lets his hand fall back on the sheet.
 
 "Arre, baat toh kuch bhi nahin hai. I am telling you, Sonu," Pinky says. "Ye Bombay waale toh sirf baatein hi karte rehte hain. Arre kya hai Bombay mein? Jisko dekho ramp walk karta rehta hai."
 
@@ -56,7 +62,9 @@ Vihaan comes up the back stairs with his sleeves rolled and his phone in his han
 
 She looks him over once, the way she looks over everything in this house before the guests see it, and nods him off.
 
-Vihaan goes back down the way he came, and the door shuts, and the tray stays on the table with all four cups on it.
+Vihaan goes back down the way he came, and the door shuts.
+
+The tray stays on the table with all four cups on it.
 
 * * *
 ## The Bride's People
@@ -93,11 +101,15 @@ Parmeet watches from the sofa, and the room turns to him, and he gives the frien
 
 "Arre, ladki waale yahan hain," the aunt laughs. "Celebration pehle hi chalu ho gaya."
 
-The room breaks into its small groups, and Arjun finds Karan at the edge of it with a sweet in his hand.
+The room breaks into its small groups.
 
-"Hua kya hai, bhai?" Arjun speaks low, with his shoulder to Karan's. "Tumhari shaadi hone waali hai Tina ke saath, yaar. Tauji ke best friend ki beti hai woh. So why that super-fixed smile?"
+Arjun finds Karan at the edge of it with a sweet in his hand.
 
-"Ek choice, voice kuch nahin hai," Karan says, and his voice stays low and flat. "Main jo bhi kar raha hoon apne matlab ke liye kar raha hoon. Matlab dekh, meri shaadi toh honi hi thi. Tina Tauji ke best friend ki beti hai, aur Tina ke dad hain minister. Toh I am definitely sure ki mujhe bahut bada gift milne waala hai, jaise ki unka channel."
+"Hua kya hai, bhai?", the score sounding under the asking (m19:59, first of two). Arjun speaks low, with his shoulder to Karan's. "Tumhari shaadi hone waali hai Tina ke saath, yaar. Tauji ke best friend ki beti hai woh. So why that super-fixed smile?"
+
+"Ek choice, voice kuch nahin hai," Karan says, and his voice stays low and flat, with the score sounding under the confessing (m19:59, second of two).
+
+"Main jo bhi kar raha hoon apne matlab ke liye kar raha hoon. Matlab dekh, meri shaadi toh honi hi thi. Tina Tauji ke best friend ki beti hai, aur Tina ke dad hain minister. Toh I am definitely sure ki mujhe bahut bada gift milne waala hai, jaise ki unka channel."
 
 He turns his head away after it, and the sweet in Arjun's hand stays uneaten.
 
@@ -105,19 +117,23 @@ A woman in pink comes through the group with her arms out. "Hello bhabhi. Arre n
 
 The two women hold each other, and the room makes way for the embrace and closes after it.
 
-Vihaan stands at the side table with the sweet boxes stacked in front of him, and counts them twice against the caterer's list.
+Vihaan stands at the side table with the sweet boxes stacked in front of him.
+
+He counts them twice against the caterer's list.
 
 The caterer's man comes in through the far door with a folder against his chest, looking round for whoever is in charge.
 
 "Sahab, mithai do darjan kam hai," the man says, with his folder open in his hands.
 
-"Aur agar phir bhi kam padi, toh main tumhare sahab se baat karunga," Vihaan says, and does not lift his head from the list. "Tumse nahin."
+"Aur agar phir bhi kam padi, toh main tumhare sahab se baat karunga," Vihaan says, and does not lift his head from the list.
+
+"Tumse nahin."
 
 The man's mouth closes on the rest of his sentence, and he goes out through the passage at once.
 
-Pinky, at the doorway, has her eyebrows up. She has seen him full with her in the morning, and now this.
+Pinky, at the doorway, has her eyebrows up, with surprise. She has seen him full with her in the morning, and now this.
 
-An old woman of the family's side stops in the middle of her sentence, looking at him, and the room hears the stop.
+An old woman of the family's side stops in the middle of her sentence, looking at him with curiosity, and the room hears the stop.
 
 "Nimrat's boy?"
 
@@ -127,7 +143,7 @@ The room does not go back to the sofa covers. It waits.
 
 "Hamaari Maa thi," Pinky says. "Viju jab bahut chhota tha, tab guzar gayin."
 
-The aunt looks at him a second longer than the room does. "Bada ho gaya. Bahut acchha lag raha hai — nazar na lage."
+The aunt looks at him a second longer than the room does, with affection. "Bada ho gaya. Bahut acchha lag raha hai — nazar na lage."
 
 "Bas, Pinky," Parmeet says it pleasantly, without turning round. "Mehmaan aaye hain — chai pilwa."
 
@@ -136,7 +152,9 @@ Pinky turns back to the sofa covers, because the covers are the thing that matte
 * * *
 ## The Kundali
 
-The hall at half past twelve, the trays cleared to the sideboard and the sun off the drive coming in at the window and lying in a bright square on the floor.
+The hall at half past twelve, the sun off the drive coming in at the window and lying in a bright square on the floor.
+
+The trays are cleared to the sideboard.
 
 One of the minister's men leaves his phone face down on the arm of the sofa, and the second does the same beside it.
 
@@ -158,7 +176,7 @@ The priest's pages stand in a cloth bag at his feet, with the strap under the le
 
 Baljeet sits down opposite him in the grey shirt. "Yeh mere Karan ki kundali hai. Zara Tina ki kundali mila kar bataiye na."
 
-"Ek second." The priest turns one page and then the other and reads. "Kundaliyan toh dono ki bahut acchhi mil rahi hain."
+"Ek second." The priest turns one page and then the other and reads. "Kundaliyan toh dono ki bahut acchhi mil rahi hain, the score sounding under the matching (m20:53)."
 
 "Toh Anand ji, agar kundaliyan mil gayi hain toh rishte ki baat shuru karein," Parmeet says.
 
@@ -170,15 +188,17 @@ Baljeet sits down opposite him in the grey shirt. "Yeh mere Karan ki kundali hai
 
 "Kya, kya upaay hai?" Parmeet has both hands out. "Zara vistar se bataayenge. Matlab kya karenge aap?"
 
-"Bitiya ko le jaayenge," the priest says it plainly, the way a man says a thing he has said a hundred times. "Pandrah minute mein ped ke saath shaadi karaayenge. Phir uska Mangal ka dosh ped ke oopar chala jaayega, toh phir dono ki shaadi ho sakti hai."
+"Bitiya ko le jaayenge," the priest says it plainly, the way a man says a thing he has said a hundred times. "Pandrah minute mein ped ke saath shaadi karaayenge. Phir uska Mangal ka dosh ped ke oopar chala jaayega, the score sounding under the prescribing (m21:32), toh phir dono ki shaadi ho sakti hai."
 
-"Wow." The aunt has her hand at her mouth. "Lekin phir ped ka kya hoga?"
+"Wow." The aunt has her hand at her mouth, with shock. "Lekin phir ped ka kya hoga?"
 
 "Usey kaat denge," the priest says.
 
 "Dekhiye." Parmeet has his chin up. "Is duniya mein insaan kam ho na ho, ped zaroor kam hote ja rahe hain. Aur pedon ki humein zyada zaroorat hai. You know, for oxygen? Woh toh hai, lekin kya hai ki ped nahin katega. Haan, insaan kar sakta hai. Aisa karte hain, iski shaadi insaan se kara dete hain. Phir insaan ko kaat denge."
 
-The book lies open on the table with the priest's thumb in it, and the corner of the page is soft from being turned.
+The book lies open on the table with the priest's thumb in it.
+
+The corner of the page is soft from being turned.
 
 The room laughs. The minister laughs with his head back. Karan laughs with his eyes shut.
 
@@ -189,21 +209,25 @@ The hall at one in the afternoon with the curtains half drawn against the sun an
 
 The priest puts his pen down.
 
-"Yeh mrityu-ghaat ki baat kyun karte hain?" Aryaman looks round the room, and the room goes quiet.
+"Yeh mrityu-ghaat ki baat kyun karte hain?" Aryaman looks round the room, and the room goes quiet, with unease.
 
 "Lekin yeh ghaat jaat nahin jaanta," the priest says.
 
-"Jyotish ji, yeh upaay ki baat toh aapne ki thi na?" Aryaman's hands are up. "Yeh aapko kya mazaak lag raha hai?"
+"Jyotish ji, yeh upaay ki baat toh aapne ki thi na?", the score sounding under the challenging (m21:58). Aryaman's hands are up. "Yeh aapko kya mazaak lag raha hai?"
 
-The minister's men look at the floor.
+The minister's men look at the floor, with discomfort.
 
 "Kundali mein jo likha hota hai woh toh hoke hi rahta hai," the priest says, and his eyes come round to Aryaman. "Toh yeh bataiye, aapki mrityu kis mahine mein hogi? Assi saal par aapko kuch nahin hoga. Aazma ke dekhein."
 
-"Nahin nahin, main kya bolta hoon." The priest sits back. "Koi upaay karne ki zaroorat nahin hai. Ab aap shaadi kar sakte hain. Upaay ke bina bhi kar sakte hain."
+"Nahin nahin, main kya bolta hoon." The priest sits back.
+
+"Koi upaay karne ki zaroorat nahin hai. Ab aap shaadi kar sakte hain. Upaay ke bina bhi kar sakte hain."
 
 "Thank God aapne mujhe bacha liya," Karan says, and lets his breath out. "Varna yeh log toh meri shaadi ped se karwa dete."
 
-The priest picks up his bag himself, and nobody carries it out for him, and he goes down the steps at a run.
+The priest picks up his bag himself, and nobody carries it out for him.
+
+The book stays open on the table, and he goes down the steps at a run, with panic.
 
 The sentence goes through his head whole as he runs.
 
@@ -223,25 +247,29 @@ In the hall the held breath goes out all at once, and the talk starts again with
 
 The room laughs, and Sameer rises with his glass in his hand.
 
-"Main toh ab shaadi ka shagun hai," Sameer says. "Uske liye ek sabse badi announcement karne waala hoon."
+"Main toh ab shaadi ka shagun hai," Sameer says. "Uske liye ek sabse badi announcement karne waala hoon, the score sounding under the announcing (m22:27)."
 
 The room turns to him.
 
-"Apne favourite boy ko main ek bada gift dene waala hoon," Sameer says. "Mera channel. O yes yes, MY channel."
+"Apne favourite boy ko main ek bada gift dene waala hoon, the score sounding under the giving (m23:00, first of two)," Sameer says. "Mera channel. O yes yes, MY channel."
 
 "Aryaman, tumne meri Tina ko khatron se bacha liya. I am really proud of you," Sameer says, and takes him by the shoulders. "Isiliye aaj se yeh mera channel tumhara."
 
-"Aur jaisa tumne apne channel ko itni oonchaiyon pe le aaye ho na," Sameer says, "usi tarah I am confident ki tum hamaare channel ko bhi usi oonchaiyon tak le jaaoge. Aaj se hum dono channels ko collaborate karenge, aur usko head karega—"
+"Aur jaisa tumne apne channel ko itni oonchaiyon pe le aaye ho na," Sameer says, with the score sounding under the joining (m23:00, second of two),
+
+"usi tarah I am confident ki tum hamaare channel ko bhi usi oonchaiyon tak le jaaoge. Aaj se hum dono channels ko collaborate karenge, aur usko head karega—"
 
 The room says it with him — "Are wah, kya baat hai" — and the clapping starts at the back and comes forward.
 
-"Congratulations, congratulations." Somebody says it, and somebody says it again.
+"Congratulations, the score sounding under the applauding (m23:38), congratulations." Somebody says it, and somebody says it again.
 
 Sameer takes Aryaman's hand and holds it, and says it to Parmeet. "Apni beti ko mere gale mein daal de."
 
 "Aur woh channel ka gift aa gaya Aryaman ke gale mein," the aunt says, wiping her eye with her thumb.
 
-Karan claps twice and then puts his hands in his pockets and looks at the carpet.
+Karan claps twice and then puts his hands in his pockets.
+
+He looks at the carpet, with resentment.
 
 "What is this?" Karan snaps.
 
@@ -249,7 +277,7 @@ Karan claps twice and then puts his hands in his pockets and looks at the carpet
 
 Aryaman crosses the room to him while the room is still clapping.
 
-"Sun," Aryaman says, and keeps his voice low and his eyes on him. "You okay now?"
+"Sun," Aryaman says, and keeps his voice low and his eyes on him, with concern. "You okay now?"
 
 "Of course," Karan says.
 
@@ -260,13 +288,17 @@ Aryaman crosses the room to him while the room is still clapping.
 * * *
 ## Breaking News
 
-The hall with the afternoon coming in flat through the curtains, and a tray of cups on the floor where the boy set it down and went out.
+The hall with the afternoon coming in flat through the curtains.
+
+A tray of cups on the floor where the boy set it down and went out.
 
 Dimple's spectacles lie on the table with one arm folded back.
 
 Aryaman's phone rings before the room has settled.
 
-He puts it to his ear, and her voice comes out of it before he has said a word. "Mera phone kyun kaata? Mujhe tumhein ek bahut badi breaking news deni hai."
+He puts it to his ear, and her voice comes out of it before he has said a word.
+
+"Mera phone kyun kaata? Mujhe tumhein ek bahut badi breaking news deni hai."
 
 "What?" Aryaman says.
 
@@ -282,38 +314,44 @@ The clapping stops. The room turns.
 
 "Na naari, na nar," she says it from memory, with the cadence of something learned off a channel. "Na jaanwar, na insaan. Na farishta, na shaitaan. Bhagwan par Bhagwan ki sabse badi bhakt. Icchhadhari naagin. Shesh naagin."
 
-Nobody moves in the room.
+Nobody moves in the room, with dread.
 
 "Maine apne us dost ko ek guest house mein rakha hua hai," she says.
 
 A cup goes over on the tray on the floor, and nobody in the room looks at it.
 
-"Kya breaking news di hai tumhein?" Aryaman's voice comes from the middle of it, flat. "Hum ek news channel chalate hain. Yeh mangadhant kahani ka platform nahin hai. Hum yeh news nahin run karenge. You know why? Because this is all rubbish."
+"Kya breaking news di hai tumhein?" Aryaman's voice comes from the middle of it, flat.
+
+"Hum ek news channel chalate hain. Yeh mangadhant kahani ka platform nahin hai. Hum yeh news nahin run karenge. You know why? Because this is all rubbish."
 
 "Bro, we are getting late for the meeting," one of the cousins says, with his phone out. "Come na."
 
-Parmeet freezes where he stands.
+Parmeet freezes where he stands, with fear.
 
 A night comes up behind his eyes — bodies on the ground by a car, men standing round them in the headlights — and goes again before anybody sees it go.
 
-"Kahin woh naagin toh nahin jiski baat us scientist ne ki thi?" Parmeet is not looking at anybody. "Tumhein yaad hai? Usne kaha tha ki humein maarne — na nar, na naari, na insaan, na jaanwar, na farishta, na bhagwan. Humein maaregi icchhadhari naagin."
+"Kahin woh naagin toh nahin jiski baat us scientist ne ki thi?" Parmeet is not looking at anybody, with the score sounding under the remembering (m25:02). "Tumhein yaad hai? Usne kaha tha ki humein maarne — na nar, na naari, na insaan, na jaanwar, na farishta, na bhagwan. Humein maaregi icchhadhari naagin."
 
-"Aur kahin aisa toh nahin hai ki woh aa gayi hai," the cousin says again, "aur woh bhi tab, jab hum apne sabse bade mission ko anjaam dene waale hain."
+"Aur kahin aisa toh nahin hai ki woh aa gayi hai," the cousin says again, "aur woh bhi tab, jab hum apne sabse bade mission ko anjaam dene waale hain, the score sounding under the fearing (m25:35)."
 
 His laugh comes out wrong at the end of it.
 
 * * *
 ## Find Out Who She Is
 
-The sun has gone round to the west of the house, and the marble of the hall holds the light of it, and the sofa covers straightened twice.
+The sun has gone round to the west of the house, and the marble of the hall holds the light of it.
 
-"Nahin nahin," Parmeet says it into the middle of the room, and stops, and then he says the rest of it. "Itne saal ho gaye, ab tak toh usne kuch kiya nahin. Ye itne saal humne kya kiya hai? Sirf paise hi toh kamaye. Agar us scientist ki bhavishyavani sahi hai, toh matlab naagin hai."
+The sofa covers are straightened twice.
+
+"Nahin nahin," Parmeet says it into the middle of the room, and stops, and then he says the rest of it.
+
+"Itne saal ho gaye, ab tak toh usne kuch kiya nahin. Ye itne saal humne kya kiya hai? Sirf paise hi toh kamaye. Agar us scientist ki bhavishyavani sahi hai, toh matlab naagin hai."
 
 His voice stays cold all the way through it.
 
 Nobody answers him.
 
-"Tauji." Karan steps out of the line of the room and stands in front of the old man. "Tauji, woh naagin ho sakti hai. Mujhe lagta hai ki yeh news humein cover karni chahiye."
+"Tauji." Karan steps out of the line of the room and stands in front of the old man, with courage. "Tauji, woh naagin ho sakti hai. Mujhe lagta hai ki yeh news humein cover karni chahiye."
 
 "Tauji, bahut saare log TRP ke liye kuch bhi jhoothi khabrein dikha rahe hain," Arjun comes up beside him. "Lekin agar yeh khabar sach nikli, toh hamaara channel woh sabse pehla channel hoga jisne yeh news cover ki hogi."
 
@@ -327,7 +365,9 @@ Nobody answers him.
 
 The room looks round for the one man still outside it.
 
-Vihaan comes in through the passage door with his collar open and the dust of the drive on his shoes, and stands at the end of the table where the chairs are pushed back.
+Vihaan comes in through the passage door with his collar open and the dust of the drive on his shoes.
+
+He stands at the end of the table where the chairs are pushed back.
 
 "Tu bhi sun le," Parmeet does not turn round.
 
@@ -337,7 +377,9 @@ Parmeet puts both hands on the back of his chair.
 
 "Karan ko list chahiye, file chahiye, hisaab chahiye," Parmeet says. "Channel ki, police ki, apne logon ki. Number waale kaam tere liye hain — tu unhein dhoondh, unka hisaab report kar. Do din."
 
-"Aur yeh file ghar ke bahar nahin jaayegi," Parmeet says, and his voice does not change at all. "Jo bhi tu dhoondhe, woh is ghar ke saamne aayega. Chahe woh tera bhai ho, chahe teri maa ho, chahe— chahe koi bhi ho."
+"Aur yeh file ghar ke bahar nahin jaayegi," Parmeet says, and his voice does not change at all.
+
+"Jo bhi tu dhoondhe, woh is ghar ke saamne aayega. Chahe woh tera bhai ho, chahe teri maa ho, chahe— chahe koi bhi ho."
 
 "Ji, Papa," Vihaan says.
 
@@ -370,19 +412,23 @@ The moon comes up over the Arora house, and no cloud stands in front of it.
 
 Out in the road the caterer's boy folds his table, and the rope goes round it twice for the ride.
 
-The lane goes quiet. The light over the Suri gate comes on, and the moths come to it.
+The lane goes quiet.
+
+The light over the Suri gate comes on, and the moths come to it.
 
 A cart stands at the corner of the lane with a lamp on it, and the man asleep under the lamp.
 
 "Purnima ki raat kuch der aur," the voice says, and it is not in that lane. "Phir unki asli roop mein aane ki shuruaat."
 
-In the Arora house the television is off, and one washed plate stands on the rack, and the lights go out one after another.
+In the Arora house the television is off, and one washed plate stands on the rack.
+
+The lights go out one after another.
 
 "Aaj ki raat unka shareer apni kechuli chhodega," the voice says. "Aaj Purnima ki raat hai. Chaand nikalne se chaubees ghanton ke andar har naag-naagin apni kechuli badalte hain."
 
 Upstairs a girl sleeps with her arm across her face, and her calendar hangs from the bedpost by its string.
 
-The moon comes in through the window and lies across the bed, and she does not wake.
+The moon comes in through the window and lies across the bed, and she does not wake, with peace.
 
 * * *
 ## What Comes Next
@@ -403,7 +449,7 @@ She lifts her eyes to the mirror, and the mirror shows her face.
             figures (`picture_check`, `camera_check`, `thread_check`) are its own and are measured, not inherited.
     RIPPLED:  none — R-01 to R-04 re-read against the rebuilt prose and nothing in it asserts a superseded fact. Aryaman is in four scenes
               and Purvi is a printed line in a file he never sees; the pair are never near each other; he is in three scenes and no silence
-              is written on him; no score anywhere near a pairing. The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule
+              is written on him; no score anywhere near a pairing. Style pass 2026-11-22 re-read: R-01/R-02/R-03 stand as asserted (Aryaman in four scenes and Purvi a printed line in a file he never sees; the pair never near each other; he is in three scenes and no silence is written on him); R-04 stands — the score named is neutral (sounding/forbidding/asking/confessing/matching/prescribing/challenging/announcing/giving/joining/applauding/remembering/fearing), every naming on a marker; his register untouched (the shirt order, the count, the file). The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule
               that touches it must be named here instead of `none`.
     LEDGER:   run 2026-11-20 over the track and the frames (`O041`): five live butterflies touch this half
               (`BF-07`, the Nimrat telling in Pinky's mouth; `BF-55`, both registers; `BF-56`, the paper leg's floor;
@@ -457,7 +503,7 @@ She lifts her eyes to the mirror, and the mirror shows her face.
               errand and the mandap count-line; Parmeet giving the channel; the bag carried out; the blood line said to the door twice; the sister's
               shoes and her *kahin nahin jaayega* padding; the guest-house line staged before the litany; the three-voiced cold passage; Karan's
               third-person dam-vow; the invented nephew with the file; the temple import and the janm line (Chapter 6's); the precap's palm, warmth,
-              and kept shape (unsourced).
+              and kept shape (unsourced). Deep 2026-11-23: word-splits throughout (split-point rewordings only: sits/lifts/counts/comes/lies/straightened/stands/looks/tray); one continuity carry (the book stays open on the table) — no new object, no new sound, no new feeling, no aired text altered.
     SEEN:     Three places: Pinky looks him over at the shirt order; the family's guest stops mid-sentence looking at him; the aunt looks at him
               a second longer and speaks the nazar line (`O025`).
     CHANGED:  *Mere aur Sameer ki dosti* re-speakered to Parmeet (TR/TE — the page had fused it into Karan's happiness). The death-talk challenge
@@ -490,4 +536,4 @@ She lifts her eyes to the mirror, and the mirror shows her face.
     PICTURE:  Seven scenes open on place with light named once: the blue-curtained morning room, the marble hall by eleven, the hall at half past
               twelve, the hall at one, the hall in the flat afternoon, the hall in the western sun, the moon over the houses. The inserts that carry
               weight are the tray and the cup, the phone and the box, the tray and the cloth bag, the pen and the glass, the spectacles and the fallen
-              cup, the door and the file, the rope and the lamp. Speech share under two-thirds in every scene, `camera_check` green.
+              cup, the door and the file, the rope and the lamp. Speech share under two-thirds in every scene, `camera_check` green. The style pass of 2026-11-22 names the score on twelve markers in ten blocks (forbidding m18:38; asking + confessing m19:59; matching m20:53; prescribing m21:32; challenging m21:58; announcing m22:27; giving + joining m23:00; applauding m23:38; remembering m25:02; fearing m25:35), and names surprise, curiosity, affection, shock, unease, discomfort, panic, resentment, concern, dread, fear, courage and peace where the raised eyebrows, the stopped sentence, the longer look, the hand at the mouth, the quieted room, the lowered eyes, the run, the carpet, the low voice, the still room, the freeze, the step out and the unwaking sleep show them (the aunt's laugh, the room's laughs and the wrong laugh already stood; the fixed smile is the dialogue's own; the hall's relief already stood). The Purnima narration plays unscored (no markers); the precap keeps its forward staging, unscored. No new string: nothing held asks for one. No tasha, no pair theme. Music-only: none in this half. Battery: picture 7/7 ok; camera green; thread 3/4 green; butterfly/eyes/score-0/money/ripple/oc/beat green; dialogue 16/16; gap 16/16 whole + 10 music blocks; rescan A1/C-new6 (pre-existing, unchanged — all sit on aired dialogue); check GREEN. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/scores/cues byte-identical; omens arc in-scene (Pinky cup recedes-to-stays, door opens-to-shuts; Bride's sweets open-to-short, covers left-to-returned, embrace way-to-close; Kundali thirst asked-to-answered, pages turned-to-thumb-held, match opened-to-laughed; Colour pen down-to-bag-up-run, book open-to-stays-open, breath held-to-out, clapping back-to-forward, Karan claps-to-pockets; Breaking tray set-to-spilled-unseen, phone summons-to-evidence, room still-to-mislaughed; Find Out file sealed-to-read-to-closed, hands command-to-custody, dust-to-still; Purnima lights lit-to-out, moon risen-to-entered, table open-to-folded); tissue chained (tray Pinky-to-caterer-to-floor-to-spilled; phone hand-to-ear-to-face-down-to-ringing; folder-to-blue-file; covers-to-straightened-twice; book open-to-open; laughs-to-quiet; jug-to-folded-table; glass elbow-to-hand; clapping-to-stops; guest-house pays P1's room; dust pays the fence; window-to-moon; gate-light-moths rhyme P1's gate); gravity is his conduct (order taken, count twice, cold line, file unopened-read-closed-untold; the room waits, stops, talks with his name in it); no new score, no new business.

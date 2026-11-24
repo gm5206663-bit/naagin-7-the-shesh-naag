@@ -19,25 +19,25 @@ A drum, once. Mahadev's trishul is not shown, but the thunder is his. Then the s
 
 ## The Bazaar
 
-A Delhi market in the late morning, and the light coming down the lane bright. Cobbles underfoot. Bunting overhead on wires. A sweet-shop's painted board, balloons bunched on a stall, steel utensils stacked shining, and goods in every colour going past on both sides. The crowd stands round in a ring, three deep, with the middle of it left empty at a distance that has been agreed.
+A Delhi market in the late morning. The light coming down the lane bright. Cobbles underfoot. Bunting overhead on wires. A sweet-shop's painted board. Balloons bunched on a stall. Steel utensils stacked shining. Goods in every colour going past on both sides. The crowd stands round in a ring, three deep, with the middle of it left empty at a distance that has been agreed.
 
-Into the empty middle comes Ananta. A pink-red sari with a backless sleeveless choli, dark hair loose and open, large earrings, a bag on one arm, her sandals quick on the stones. She is talking before she arrives.
+Into the empty middle comes Ananta. A pink-red sari with a backless sleeveless choli. Dark hair loose and open. Large earrings. A bag on one arm. Her sandals quick on the stones. She is talking before she arrives.
 
-Behind her, hurrying, a girl with her spectacles sliding down her nose and her dupatta coming off her shoulder. A bag in one hand and a shopping list in the other, reading the list and walking. Ananta catches her by the arm, fierce and tender at once, and pulls her close, her voice low against Purvi's ear: not a scolding, not a praise, but the thing that holds her sister standing when the crowd turns to look.
+Behind her, hurrying — a girl with her spectacles sliding down her nose, her dupatta coming off her shoulder. A bag in one hand and a shopping list in the other. Reading the list and walking. Ananta catches her by the arm, fierce and tender at once, and pulls her close. Her voice low against Purvi's ear: not a scolding, not a praise, but the thing that holds her sister standing when the crowd turns to look.
 
-The sister wears a brown cardigan and a green muffler, which go with her in every weather, and the muffler is coming off one shoulder and she has not noticed. Her spectacles are the big dark-blue ones she has had since school and are always sliding. A notepad hangs from a lanyard round her neck, and it is what she calls her calendar, and it is full of other people's errands.
+The sister wears a brown cardigan and a green muffler, which go with her in every weather. The muffler is coming off one shoulder. She has not noticed. Her spectacles are the big dark-blue ones she has had since school and are always sliding. A notepad hangs from a lanyard round her neck. It is what she calls her calendar. It is full of other people's errands.
 
-Purvi is twenty-three and does not look it in this lane, where the girls are painted by four and married by twenty. She is a head shorter than her sister and built small and square, with a great weight of hair in two plaits, a short straight nose, and a mouth that gives her away before the rest of her face does. Her hands are quick and always full of something. She wears her spectacles pushed up on her nose with a finger, thirty times an hour, and it is the one gesture of hers that the whole family can imitate.
+Purvi is twenty-three. She does not look it in this lane, where the girls are painted by four and married by twenty. She is a head shorter than her sister. Built small and square. A great weight of hair in two plaits. A short straight nose. A mouth that gives her away before the rest of her face does. Her hands are quick and always full of something. She wears her spectacles pushed up on her nose with a finger, thirty times an hour. It is the one gesture of hers that the whole family can imitate.
 
-The bazaar turns to look. The sweet-shop man, the steel-stall man, the boys at the back. Ananta goes past all of it, and the bright light moves over her as she goes.
+The bazaar turns to look. The sweet-shop man. The steel-stall man. The boys at the back. Ananta goes past all of it. The bright light moves over her as she goes.
 
-Purvi passes a stall where jhumkas hang in rows, gold and silver catching the morning light, and her mouth curves in a quick bright smile she does not try to hold back. She walks on, her spectacles sliding, and does not look back.
+Purvi passes a stall where jhumkas hang in rows — gold and silver catching the morning light. Her mouth curves in a quick bright smile she does not try to hold back. She walks on, her spectacles sliding. She does not look back.
 
-The snake charmer sits on his square of matting with his been at his lips. He is old, in red and saffron with a black headcloth and beads, and his eyes are shut, and the crowd stands round him at the agreed distance.
+The snake charmer sits on his square of matting with his been at his lips. He is old. Red and saffron, a black headcloth, beads. His eyes are shut. The crowd stands round him at the agreed distance.
 
 "Nagraj, bahar aa jao."
 
-The note goes out of the been, long and flat, and holds.
+The note goes out of the been, long and flat. It holds.
 
 "Nagraj."
 
@@ -45,11 +45,11 @@ The basket's lid lifts from inside.
 
 "Naagin ki naagin!" The crowd says it for him, half of them, their hands going up. "Har har har har har!"
 
-The black cobra comes out of the basket and crosses the cobbles with its head up. A woman screams and holds her shopping to her chest. A man pulls a boy back by the shoulder. The crowd leans in and back at the same time.
+The black cobra comes out of the basket. It crosses the cobbles with its head up. A woman screams and holds her shopping to her chest. A man pulls a boy back by the shoulder. The crowd leans in and back at the same time.
 
 "Madam, jaldi se is naag ko pitare mein rakh do!"
 
-Ananta has put her bag down. She goes down on her heels in front of the cobra and holds out her hand.
+Ananta has put her bag down. She goes down on her heels in front of the cobra. She holds out her hand.
 
 She says it over her shoulder, to the charmer, without turning her head. "Sheshnaag ne poori duniya ko apne fan pe rakha hai. Aur tum ise is pitare mein band karna chahte ho?"
 
@@ -57,15 +57,15 @@ She says it over her shoulder, to the charmer, without turning her head. "Sheshn
 
 "Naag Shiv ji ke favourite hote hain." The snake comes up out of the stones and puts its hood into her open hand. "Yeh bezubaan hote hain. Yeh woh dekh sakte hain jo koi nahin dekh sakta. Agar apne paas rakhna hai inhein, toh inka khyaal rakho."
 
-Ananta carries the cobra to the end of the row, where a small Shivling stands in a niche under a tin hood with a wet bel leaf on it, and sets it down, and it stays there, and its hood goes down.
+Ananta carries the cobra to the end of the row. A small Shivling stands in a niche under a tin hood, a wet bel leaf on it. She sets it down. It stays there. Its hood goes down.
 
 Behind the shutters a shop's radio gives out Karpur Gauram, women's voices on it, plain and old, the way a temple sings it.
 
-Her head is down, and she is looking at the snake, and she is smiling.
+Her head is down. She is looking at the snake. She is smiling.
 
 "Har Har Mahadev! Har Har Mahadev! Har Har Mahadev! Har Har Mahadev!"
 
-The crowd takes it up, all of them at once, and the cymbals go, and the score goes with them and stays up. Purvi has both hands on the strap of her bag and her head to one side, watching her sister with the snake in her palm, and she is not breathing.
+The crowd takes it up, all of them at once. The cymbals go. The score goes with them and stays up. Purvi has both hands on the strap of her bag, her head to one side, watching her sister with the snake in her palm. She is not breathing, with fear.
 
 The cobra goes back into the basket. The lid shuts. The been stops.
 
@@ -75,45 +75,47 @@ The cobra goes back into the basket. The lid shuts. The been stops.
 
 "Vaise Ananta" — the woman looks round, and her brows go up — "aaj toh naal bahan nahin aayi thadi Purvi?"
 
-Ananta turns. Purvi is gone from her side — the crowd has closed between them — slipping ahead to the lane of the jewellers, to the stall with the jhumkas. The score comes up over the closing crowd, and goes with her down the lane.
+Ananta turns. Purvi is gone from her side — the crowd has closed between them. Slipping ahead to the lane of the jewellers. To the stall with the jhumkas. The score comes up over the closing crowd, and goes with her down the lane.
 
 * * *
+
 ## The Jhumkas
 
-The lane of the jewellers at eleven in the morning, light coming down it between the awnings and lying in stripes across the counters. Glass cases, and a man sitting cross-legged behind one of them with a cloth over his knees, and a mirror propped at the end of the counter, and the lane's whole light in it.
+The lane of the jewellers at eleven in the morning. Light coming down it between the awnings, lying in stripes across the counters. Glass cases. A man sitting cross-legged behind one of them with a cloth over his knees. A mirror propped at the end of the counter. The lane's whole light in it.
 
 "Arre o Purvi!" The shopkeeper is a man with a mustache in a checkered shirt, and he is holding out a small box after her. "Paise toh de diye — jhumka nahin leke jaana hai kya?"
 
-"Sorry, sorry, sorry, sorry!" Purvi comes back along the counter with her hands up.
+"Sorry, sorry, sorry, sorry!" Purvi comes back along the counter with her hands up, with embarrassment.
 
 "Teri behen toh Kailash parvat ki thand se bhi zyada thandi hai." The stout woman has followed them down the lane, and she says it to Ananta, delighted. "BMW ke zamaane mein auto rickshaw hai. Woh dekh — woh ja rahi teri auto."
 
 "Arre hato bhaiya!"
 
-Purvi pushes back through the crowd toward the counter, and a foot shoots out between the legs around her, and she goes down sideways into the muddy puddle in the middle of the lane with her bags flying and her plaits in the mud. The crowd gasps. Boys' backs are already turning away into the crowd, laughing.
+Purvi pushes back through the crowd toward the counter. A foot shoots out between the legs around her. She goes down sideways into the muddy puddle in the middle of the lane — her bags flying, her plaits in the mud. The crowd gasps. Boys' backs are already turning away into the crowd, laughing.
 
-Ananta is running before the gasp is done. She goes down on her knees in the mud beside her sister and gets her up, and gets the worst of the mud off her face with both hands, and Purvi stands shaking with mud to her elbows and one sandal gone and her spectacles miraculously on her nose.
+Ananta is running before the gasp is done. She goes down on her knees in the mud beside her sister. She gets her up. She gets the worst of the mud off her face with both hands. Purvi, with humiliation, stands shaking — mud to her elbows, one sandal gone, her spectacles miraculously on her nose.
 
-The pair Purvi has found is small and gold, a bell hanging under each flower. She holds them up, mud and all, and the counter lamp catches them, and the whole case lights up, and the score comes up under them.
+The pair Purvi has found is small and gold — a bell hanging under each flower. She holds them up, mud and all. The counter lamp catches them. The whole case lights up. The score comes up under them.
 
 "La, yahi waale chahiye the na?"
 
 "Yahi toh main dhoond rahi thi tab se." Ananta is already putting one to her ear, in the counter mirror. "Aaj shaam ki party mein yahi jhumke pehnungi."
 
-The man behind the counter takes down a register with a cloth cover and writes the figure in it and turns it round, and holds out the pen.
+The man behind the counter takes down a register with a cloth cover. He writes the figure in it. He turns it round. He holds out the pen.
 
-Ananta signs it, and under her name she writes the channel's name, because the money came from there this month and not from the house. The man copies the address down out of her mouth and puts the book back under the counter with his thumb in the page.
+Ananta signs it. Under her name she writes the channel's name — because the money came from there this month and not from the house. The man copies the address down out of her mouth. He puts the book back under the counter with his thumb in the page.
 
-Her phone lies face up on the glass while her sister is in the mirror. Four taps, and a sum of money goes out of an account with the channel's name on it to a travel agent two lanes away, for tickets to Prayagraj. Then the phone goes face down on the counter, and it is face down before the man comes back with her change.
+Her phone lies face up on the glass while her sister is in the mirror. Four taps. A sum of money goes out of an account with the channel's name on it to a travel agent two lanes away, for tickets to Prayagraj. Then the phone goes face down on the counter. It is face down before the man comes back with her change.
 
-Purvi's own phone lights up in her bag. The travel agent's SMS: a deposit received against a booking held two days, on the number from last week's rates enquiry. She reads it standing in the lane with mud to her elbows, and says nothing, and puts the phone away.
+Purvi's own phone lights up in her bag. The travel agent's SMS: a deposit received against a booking held two days, on the number from last week's rates enquiry. She reads it standing in the lane with mud to her elbows. She says nothing. She puts the phone away.
 
 Ananta takes the shopping bags up on her arm. They go home.
 
 * * *
+
 ## Home: The Tickets
 
-The Arora hall in the afternoon, and the storm come up outside. Brick arches with the lamps lit orange in their niches. The blue chairs stand round, studded and square. The dining table stands laid and nobody sits at it: plates, and the meal going cold on them. The curtains move, and the tube light over the door flickers once.
+The Arora hall in the afternoon. The storm come up outside. Brick arches with the lamps lit orange in their niches. The blue chairs stand round, studded and square. The dining table stands laid and nobody sits at it: plates, and the meal going cold on them. The curtains move. The tube light over the door flickers once.
 
 Ananta puts the shopping bags down and takes her sister's chin and turns her face to the light. "Aaram se, dekh ke." The score comes up under her hands and goes again. "Theek hai. Haan. Yahin pe reh."
 
@@ -127,7 +129,7 @@ Ananta puts the shopping bags down and takes her sister's chin and turns her fac
 
 "Purvi, puttar — tu aise kyun chal rahi hai?"
 
-Their father has come in without either of them hearing him, black hair and glasses and the mustard waistcoat, and he is looking at Purvi's ankle, and at the mud still at her cuffs.
+Their father has come in without either of them hearing him — black hair and glasses and the mustard waistcoat. He is looking at Purvi's ankle. At the mud still at her cuffs.
 
 "Arre Papa, kuch nahin hua hai." Ananta steps between them, too quick. "Woh thoda sa—"
 
@@ -145,17 +147,17 @@ Their father has come in without either of them hearing him, black hair and glas
 
 "Haan haan haan!" She looks down at it. "Ek minute ruko, abhi batati hoon."
 
-She turns the calendar over, and looks at the back of it, and her face goes through several things.
+She turns the calendar over. She looks at the back of it. Her face goes through several things.
 
 "Kya hua?" He takes a step closer.
 
-"Sorry." Her voice is very small. "Likhna bhool gayi."
+"Sorry." Her voice is very small, with shame. "Likhna bhool gayi."
 
 "Batao zara!" He is coming across the room, and the thunder comes with him. "Ab kaise ho gaye Mahakumbh ke darshan?"
 
 "Tik-tik nahin karai, isliye!"
 
-Their brother stands by the stairs with his hands in his pockets, in a striped sweater, and he has been waiting for exactly this moment.
+Their brother stands by the stairs with his hands in his pockets. A striped sweater. He has been waiting for exactly this moment.
 
 "Arre ho jaayega!" He pushes off the banister. "Tik-tik-ticket, Papa ji! Ticket! Aapka pyaara bachcha hoon! Yeh aapki Purvi ki tarah nahin hoon! Ghajini — baat pe baat hi bhool jaati hai! Buddhu kahin ki! Yeh banegi journalist!"
 
@@ -175,13 +177,13 @@ Her father looks at the phone. The house is quiet in a new way.
 
 "Toh kisne diya?"
 
-Nobody answers him. Ananta's hand goes over her mouth.
+Nobody answers him. Ananta's hand goes over her mouth, with guilt.
 
-Behind Purvi her sister's mouth is shut and stays shut, and her eyes are on the biscuit tray and not on her father, and the rain on the window is loud enough that nobody in that room hears how careful her breathing has become.
+Behind Purvi her sister's mouth is shut and stays shut. Her eyes are on the biscuit tray and not on her father. The rain on the window is loud enough that nobody in that room hears how careful her breathing has become.
 
 Slowly, her hand comes down. Her mouth stays shut.
 
-Purvi's face has gone tight. She turns and goes up the stairs with her hand on the rail, and her shoulders are up around her ears.
+Purvi's face has gone tight. She turns and goes up the stairs with her hand on the rail. Her shoulders are up around her ears.
 
 Ananta catches her at the top of the landing.
 
@@ -189,18 +191,19 @@ Ananta catches her at the top of the landing.
 
 Below, the brother is laughing into his empty hands.
 
-Ananta lets go of her sister, and comes down the stairs with murder in her eyes, and he is out from the banister and gone down the corridor before she reaches the bottom of them. The corridor door slams.
+Ananta lets go of her sister. She comes down the stairs with murder in her eyes. He is out from the banister and gone down the corridor before she reaches the bottom of them. The corridor door slams.
 
 * * *
+
 ## Two Women
 
-The Arora house from the street at night. The gate with its bars, the nameplate on the pillar, the lamp post, the plants along the wall. The window lit above, and the rain going down through the light of it in small straight lines.
+The Arora house from the street at night. The gate with its bars. The nameplate on the pillar. The lamp post. The plants along the wall. The window lit above. The rain going down through the light of it in small straight lines.
 
-A red car stands parked at the gate with no lights and nobody in it, and nobody gets out of it.
+A red car stands parked at the gate with no lights and nobody in it. Nobody gets out of it.
 
-Ananta stands at the glass door, still warm from the chase, with the rain beyond the glass and her pink sari going dark at the hem. The storm goes over the rooftops, and the dust moves along the road in front of it.
+Ananta stands at the glass door, still warm from the chase. The rain beyond the glass. Her pink sari going dark at the hem. The storm goes over the rooftops. The dust moves along the road in front of it.
 
-Past the car, at the gate, two women stand and do not move in the wind. The elder is in black with her head covered, grey in her hair, gold at her throat, a red bindi. The younger stands beside her with her hair open and a tikka on her forehead, in dark dress. One of them has her hands folded at her chest.
+Past the car, at the gate, two women stand. They do not move in the wind. The elder is in black with her head covered. Grey in her hair. Gold at her throat. A red bindi. The younger stands beside her with her hair open and a tikka on her forehead, in dark dress. One of them has her hands folded at her chest.
 
 "Kab tak dekhenge?"
 
@@ -222,18 +225,19 @@ At the gate, in the dark past the lamp post, the two women go down to the ground
 
 "Aur is desh ko bachaayengi."
 
-The taller one's fingers dig into the road dust. Her eyes are on the lit window far up the road, and the window holds a girl who does not know her name is a weapon, who does not know her blood is a war.
+The taller one's fingers dig into the road dust, with devotion. Her eyes are on the lit window far up the road. The window holds a girl who does not know her name is a weapon, who does not know her blood is a war.
 
 "Anant kul ki Mahanagin ko" — both of them, together, heads down — "hum ichchhadhari naaginon ka sakshat pranam."
 
-The rain keeps falling on the gate, on the car, on the two bowed heads at the roadside, and neither of them moves until the light in the window goes out.
+The rain keeps falling — on the gate, on the car, on the two bowed heads at the roadside. Neither of them moves until the light in the window goes out.
 
 When the window is looked at again, the road is empty. The dust goes along it. Somewhere a dog barks twice at nothing and stops.
 
 * * *
+
 ## The Inhaler
 
-A bedroom with a mirror in a carved wooden frame, pom-pom strings hanging beside it, a wooden door, a side table with flowers and a photograph in a frame, and an owl painted on the wall. The lamp is on. The storm is against the window, and there is a towel folded along the sill where the rain comes in, and the towel is wet through.
+A bedroom with a mirror in a carved wooden frame. Pom-pom strings hanging beside it. A wooden door. A side table with flowers and a photograph in a frame. An owl painted on the wall. The lamp is on. The storm is against the window. A towel folded along the sill where the rain comes in. The towel is wet through.
 
 "Bey!" A fist on the door. "Darwaza kholo! Inhaler chahiye!"
 
@@ -241,13 +245,13 @@ A bedroom with a mirror in a carved wooden frame, pom-pom strings hanging beside
 
 "Inhaler nahin mil raha. Aap darwaza nahin khol rahe ho."
 
-On the dressing table the lid of a tin is off, and there are two inhalers standing in it, and one of them is spent.
+On the dressing table the lid of a tin is off. Two inhalers standing in it. One of them is spent.
 
-Two hands come through the doorway, find the handle, find the inhaler on the dressing table, and it is Purvi, still in her cardigan with her two plaits coming undone, her spectacles sliding, her breath coming in short and not easing.
+Two hands come through the doorway. They find the handle. They find the inhaler on the dressing table. It is Purvi — still in her cardigan, her two plaits coming undone, her spectacles sliding, her breath coming in short and not easing.
 
 "Kahan rakh diya maine? O — yeh raha."
 
-She sits down on the end of the bed with the inhaler in her hand and uses it, and watches her sister in the mirror while she does it.
+She sits down on the end of the bed with the inhaler in her hand. She uses it. She watches her sister in the mirror while she does it.
 
 "Aap kahin ja rahe ho?"
 
@@ -263,11 +267,11 @@ Ananta stops, with the perfume held to her throat.
 
 "Tu na bahut pyaari hai." She comes and holds her sister's cheek in one hand, her bangles against the skin, and looks at the two of them in the mirror — and the score comes up again under that. "Aur meri jaan hai. Aur itni zyaada pretty hai ki main kya bataun. Sach mein."
 
-The towel has come off the sill and lies in a heap on the floor with the rain in it.
+The towel has come off the sill. It lies in a heap on the floor with the rain in it.
 
 Ananta gets up and pulls her off the bed by both hands. "Chal, ab jaldi se ready ho ja. Tujhe party mein chalna hai mere saath."
 
-Purvi stops in the middle of the floor. "Kahan? Main — party mein? Main kya karungi, yahan baithun kya?"
+Purvi stops in the middle of the floor, with disbelief. "Kahan? Main — party mein? Main kya karungi, yahan baithun kya?"
 
 "Tujhe chahiye na?" Ananta is at the mirror, doing the new jhumka. "Tujhe mere news channel mein job chahiye na? Main tujhe woh job dilwa ke rahungi."
 
@@ -279,12 +283,13 @@ Purvi stops in the middle of the floor. "Kahan? Main — party mein? Main kya ka
 
 "Jaadu ka toh pata nahin." Ananta turns round, and she puts her hand on her hip. "Phir kuch super powers hain mere paas."
 
-Purvi is in a blue-white-and-maroon top now, her party beginning on her before she has agreed to it, and her sister's hand is warm on her cheek, and neither of them blinks, and the smile is still on both their faces when the television in the next room takes the house.
+Purvi is in a blue-white-and-maroon top now — her party beginning on her before she has agreed to it. Her sister's hand is warm on her cheek. Neither of them blinks. The smile is still on both their faces when the television in the next room takes the house.
 
 * * *
+
 ## Two Houses, One Bulletin
 
-On the television in the next room, the volume goes up, and the light of the screen comes round the doorframe and lies on the floor of the hall in a long blue shape that changes when the picture changes.
+On the television in the next room, the volume goes up. The light of the screen comes round the doorframe. It lies on the floor of the hall in a long blue shape that changes when the picture changes.
 
 "Poore Bharat desh ki nazar aaj hamare channel par hai. Jald hum announce karenge ki 2025 ka Journalist of the Year Award ka winner kaun hai. Lagataar teesri baar—" The screen fills with the announcement, and the score comes up under it, and applause. "—is Aryaman Suri!"
 
@@ -294,29 +299,30 @@ The bulletin carries on into its next line, read off the prompter the way the en
 
 In the bedroom the inhaler has stopped halfway to Purvi's mouth.
 
-Her sister is in the doorway with a dupatta over her arm, and neither of them says anything, because neither of them has heard the name before. The storm goes off the roof. On the screen the channel's own building stands at night with the metro going past it, and the bulletin goes on into the night's business.
+Her sister is in the doorway with a dupatta over her arm. Neither of them says anything, because neither of them has heard the name before. The storm goes off the roof. On the screen the channel's own building stands at night with the metro going past it. The bulletin goes on into the night's business.
 
 In the Suri house Pinky stops in the middle of a sentence with a glass in her hand.
 
-"Woh mera bhai hai." Pinky says it to the hall and to the family and to the television. "Kumbh ka coverage uske haath mein hai. Aaj subah aaya hai aur dekho—"
+"Woh mera bhai hai." Pinky says it to the hall and to the family and to the television, with pride. "Kumbh ka coverage uske haath mein hai. Aaj subah aaya hai aur dekho—"
 
-Parmeet comes down the last four stairs with his phone at his ear and stands at the bottom of them.
+Parmeet comes down the last four stairs with his phone at his ear. He stands at the bottom of them.
 
 "Baljeet." He turns his back to the room. "Bulletin mein ladke ka naam gaya hai. Kisne pass kiya? … Achha. Toh sun." His voice does not go up, and men in that house lower theirs when they are being listened to. "Aaj raat ka jo bhi hai, kal subah se us naam pe koi kagaz nahin jaayega. Aur jo aadmi line clear karta hai, uski galti file mein likhi jaayegi. Aaj raat. Apne haath se."
 
-He puts the phone away and goes into the hall, and the party takes him.
+He puts the phone away. He goes into the hall. The party takes him.
 
-Vihaan stands at the foot of the stairs with his jacket over his arm, and he has heard all of it. Behind him the applause for his brother comes out of the room, and he does not clap, and his jaw is tight, and his ears are hot, and his hand is steady on the banister, and he does not look back at the room, and he does not know why his chest feels tight all at once.
+Vihaan stands at the foot of the stairs with his jacket over his arm. He has heard all of it. Behind him the applause for his brother comes out of the room. He does not clap. His jaw is tight, with resentment. His ears are hot. His hand is steady on the banister. He does not look back at the room. He does not know why his chest feels tight all at once.
 
-Then he goes up, and on the fourth stair he stops and opens the folder and reads the two lines written in the margin in his own hand, twice, and shuts it again. His fingers stay on the cover for a moment longer than they need to. His breath is shallow. He does not know why he is waiting, and he does not know what he is waiting for.
+Then he goes up. On the fourth stair he stops. He opens the folder. He reads the two lines written in the margin in his own hand, twice. He shuts it again. His fingers stay on the cover for a moment longer than they need to. His breath is shallow. He does not know why he is waiting. He does not know what he is waiting for.
 
 A man whose name has just been said on that channel will be asked for his signature before the week is out. So he does not put the folder back in the office almirah.
 
-The folder goes into the bottom drawer of the desk in his own room, under the camera's spare battery and a cardboard tube of certificates, and the drawer shuts, and the lock clicks.
+The folder goes into the bottom drawer of the desk in his own room — under the camera's spare battery and a cardboard tube of certificates. The drawer shuts. The lock clicks.
 
-Downstairs the television is still on, and somebody has turned it up again.
+Downstairs the television is still on. Somebody has turned it up again.
 
 * * *
+
 ## What Comes Next
 
 *A precap of this serial's own, in the author's order of 2026-11-12: a precap closes every chapter. The episode gives none — its track ends on the Naagrani's name — so what follows is staged forward, unscored, from what the next chapter plays.*
@@ -337,7 +343,7 @@ NAMES: Shalini is the track's own and is named here. The husband is not named in
     OC:      Two Houses, One Bulletin
     SILENT:  Two Houses, One Bulletin (he stands at the foot of the stairs and hears his father strike his name off the channel's paper; he carries it up the stairs unanswered and the drawer shutting with the lock's click is the scene's only act)
     FENCE:  Two Women
-    RIPPLED:  none — R-01 to R-04 re-read against the rebuilt prose and nothing in it asserts a superseded fact. No Aryaman in any love grammar; the pair are never near each other; he is in one declared scene in this half and is silent in it (the precap speaks his name, not he); no romantic score anywhere near Aryaman's name. The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule that touches it must be named here instead of `none`.
+    RIPPLED:  none — R-01 to R-04 re-read against the rebuilt prose and nothing in it asserts a superseded fact. No Aryaman in any love grammar; the pair are never near each other; he is in one declared scene in this half and is silent in it (the precap speaks his name, not he); no romantic score anywhere near Aryaman's name. Style pass 2026-11-22 re-read: R-01/R-02/R-03 stand as asserted (no Aryaman in any love grammar; the pair never near each other; he is in one declared scene and is silent in it, the precap speaking his name, not he); R-04 stands — no new score named (all seven cues already stand on their markers: 27:10 over the closing crowd, 28:08 under the jhumkas, 28:24 under her hands, 28:36 under the question, both 32:12 markers under the line and under the mirror, 32:45 under the announcement); the roster keeps his hand. The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule that touches it must be named here instead of `none`.
     LEDGER:   run 2026-11-20 over the timed track and the frames (`O041`): six live butterflies touch this chapter
               (`BF-02`, `BF-03`, `BF-04`, `BF-32`, `BF-90`, `BF-110`); nothing new; the struck ghat and the struck
               fan-cut carried no numbers, and neither did the re-hung speakers, staging, picture and words.
@@ -418,7 +424,7 @@ NAMES: Shalini is the track's own and is named here. The husband is not named in
               becomes; the tube light's flicker and the thunder placed at the father's shout; the blue shape of the television;
               the bulletin's coverage pledge entire, with Pinky's cry and Parmeet's call and the folder's move to the drawer
               (`BF-90`); the precap, staged forward and unscored. Small movement between frames.
-              He is not in a canon scene in this chapter; the two rooms do not meet.
+              He is not in a canon scene in this chapter; the two rooms do not meet. Deep 2026-11-23: word-splits only; no line added, no aired text altered.
     SEEN:     `O025` at the counter: the shop mirror holding the sister while the deposit is paid four taps at a time. And in the
               bedroom: the tin with the spent inhaler standing in it, which is why the lid is off; the yellow sari coming off its
               hanger behind her; the perfume held to the throat; her hand on her sister's cheek. And at the gate: two women who
@@ -437,4 +443,4 @@ NAMES: Shalini is the track's own and is named here. The husband is not named in
               weight, with Purvi's knowledge earned (`O015`) — `BF-03`. The bulletin's pledge: the name before the man — `BF-90`,
               once, never repeated or widened. The storm's placement: canon's own Episode 1 weather over B17–B19, exited before the
               bulletin ends — declared. The fall, the foot, the mud, the limp: `TR` and the frames, earning 28:24's fury and the
-              limp — canon, no cost. The brother by the stairs and the chase: the beats' restoration, placed by the frames — no cost.
+              limp — canon, no cost. The brother by the stairs and the chase: the beats' restoration, placed by the frames — no cost. The style pass of 2026-11-22 names no new score and owns seven already named (27:10/28:08/28:24/28:36/32:12x2/32:45, each on its marker), and names fear, embarrassment, humiliation, shame, guilt, disbelief, pride, resentment and devotion where the held breath, the raised hands, the shaking stand, the small voice, the covered mouth, the stopped feet, the hall boast, the tight jaw and the dust-dug fingers show them (fierce-and-tender, pleased, the bright smile, the smiling, the kept smile, the laughings, the named bitterness and the murder in her eyes already stood). The been, the radio's Karpur Gauram, the storm and the omens play unscored (no markers); the precap keeps its forward staging, unscored. No new string: nothing held asks for one. No tasha, no pair theme. Music-only: none in this half. Battery: picture 6/6 ok; camera green; thread 3/6 RED (pre-existing structural short — he is in one declared scene and silent in it; bare: Bazaar/Tickets/Inhaler); butterfly/eyes/score-0/money/ripple/oc/beat green; dialogue 16/16; gap 16/16 whole + 5 music blocks; rescan A1/B-trace2/C-new9 (deep 2026-11-23: A1 is the footer's own speaker-attribution record of the aired line matching its staged twin — structural self-match, prose line and footer record both required verbatim; B-trace2/C-new9 pre-existing, unchanged — all sit on aired dialogue); check GREEN. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/scores/cues byte-identical; omens arc in-scene (Bazaar cobra head-up-to-hood-down, lid lifts-to-shuts, been holds-to-stops; Jhumkas phone face-up-to-down; Tickets hand over-mouth-to-down, storm in; Women stand-to-ground, window lit-to-out; Inhaler towel sill-to-heap; Bulletin storm off-roof, inhaler stopped-halfway, drawer shuts-lock-clicks); tissue chained (jhumka smile-to-stall; bag down-to-up; SMS-to-reveal; calendar-to-blank back; biscuit tray back; counter mirror-to-bedroom mirror; TV-takes-house-to-blue shape; Study folder-to-drawer; dog-twice rhyme; nameplate rhyme); gravity is his silence (hears all, answers nothing, carries it upstairs); rooms never meet; no new score, no new business.

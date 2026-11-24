@@ -19,11 +19,11 @@ A drum, once. Mahadev's trishul is not shown, but the thunder is his. Then the s
 
 ## The Road
 
-An old white car on a road at the edge of the city, at night, and the headlights of it going up the tarmac and the dark standing in the trees on both sides.
+An old white car on a road at the edge of the city, at night. Its headlights going up the tarmac. The dark standing in the trees on both sides.
 
-Inside it, Ananta is driving in her yellow sari with her sandals off and one foot up on the seat edge.
+Inside it, Ananta is driving in her yellow sari. Her sandals off. One foot up on the seat edge.
 
-Purvi is in the other seat with her muffler up round her chin and her red jacket buttoned wrong and her small bag in her lap and the gajra in her plaits, and the two of them have been arguing for ten kilometres.
+Purvi is in the other seat. Her muffler up round her chin. Her red jacket buttoned wrong. Her small bag in her lap. The gajra in her plaits. The two of them have been arguing for ten kilometres.
 
 "Oh God, Purvi." Ananta takes one hand off the wheel and throws a paper bag across. "Mujhe pata tha — tu east aur west dono saath mein leke chalegi. Use khol. Socks rakhe hain — pehen le."
 
@@ -43,56 +43,57 @@ Purvi is in the other seat with her muffler up round her chin and her red jacket
 
 The car coughs.
 
-It coughs again, and the lights go dim, and the whole car slows, and Ananta has both hands on the wheel and her chin down.
+It coughs again. The lights go dim. The whole car slows. Ananta has both hands on the wheel. Her chin down.
 
 "Woh damn—" The engine dies. The car coasts, and stops, and the darkness comes in on them. "Ise bhi abhi band hona tha."
 
-Ananta's thumb wakes her phone, and the screen flares once across the dark car and sleeps again.
+Ananta's thumb wakes her phone. The screen flares once across the dark car. It sleeps again.
 
-Ananta gets out and slams the door and stands with her hands on her hips on an empty road.
+Ananta gets out and slams the door. She stands with her hands on her hips on an empty road, with anger.
 
-The road runs away both ways between the trees, and the trees run away into the dark, and the lamps have stopped five kilometres back. A dog barks somewhere behind a wall. The wind comes across the road with dust in it and takes at her yellow sari.
+The road runs away both ways between the trees. The trees run away into the dark. The lamps have stopped five kilometres back. A dog barks somewhere behind a wall. The wind comes across the road with dust in it and takes at her yellow sari.
 
 "Toh yahaan par toh door-door tak koi bhi nahin dikh raha hai." She turns round and looks up at the sky. "Ab kya karun?"
 
-Purvi gets out of the car on her side and stands with her arms folded and looks up as well.
+Purvi gets out of the car on her side. She stands with her arms folded. She looks up as well.
 
-There is no moon over that road, and the clouds are going across in front of everything.
+There is no moon over that road. The clouds going across in front of everything.
 
 "Behen, chod na. Thoda door chalte hain." Ananta picks her sandals up off the road. "Kuch toh milega. Mandir mil jaaye toh pyaas ka paani—"
 
 She stops.
 
-Between the trees, the road climbs and the lamps do not start again, but a small temple stands behind a low wall with a lamp burning, and the light of it lies across the road in a long gold strip.
+Between the trees, the road climbs. The lamps do not start again. A small temple stands behind a low wall with a lamp burning. The light of it lies across the road in a long gold strip.
 
-Purvi looks at it, and her mouth is open, and she has taken her spectacles off to look better and they are in her hand.
+Purvi looks at it. Her mouth is open, with wonder. She has taken her spectacles off to look better. They are in her hand.
 
 "Ananta."
 
 The wind turns and goes up the hill.
 
 * * *
+
 ## The Naag Mandir
 
-The road at the edge of the city goes up between the trees and stops at the temple, and there is no light on it except the car's and the one lamp in the temple doorway at the top.
+The road at the edge of the city goes up between the trees. It stops at the temple. No light on it except the car's — and the one lamp in the temple doorway at the top.
 
-It is small from the outside. A low wall, a bell rope in the doorway, a lamp burning in front of the idol, and a floor of stone that is washed.
+It is small from the outside. A low wall. A bell rope in the doorway. A lamp burning in front of the idol. A floor of stone that is washed.
 
 Inside, it is not small.
 
-The hall goes back into a dark that has height in it. Pillars on either side, and between the pillars lamps in a line, and carved hoods over the pillars, half-lost in the dark.
+The hall goes back into a dark that has height in it. Pillars on either side. Between the pillars lamps in a line. Carved hoods over the pillars, half-lost in the dark.
 
-The one at the far end is a throne, and a cloth is across it.
+The one at the far end is a throne. A cloth is across it.
 
-At the low wall in front of the temple, in the last of the light, an old man sits on his heels with a basket beside him and a been at his mouth.
+At the low wall in front of the temple, in the last of the light, an old man sits on his heels. A basket beside him. A been at his mouth.
 
-He plays four notes, and then the same four notes again, slower.
+He plays four notes. Then the same four notes again, slower.
 
-Purvi is on the road below with her spectacles in her hand, the frames warm from carrying them. Her right foot comes up onto the first step of the temple and her left foot comes off the road and up after it, and both of them stop on the same step, and she has not decided anything.
+Purvi is on the road below with her spectacles in her hand — the frames warm from carrying them. Her right foot comes up onto the first step of the temple. Her left foot comes off the road and up after it. Both of them stop on the same step. She has not decided anything, with hesitation.
 
 Under the skin at the corner of her jaw something moves once and goes still.
 
-The old man takes the been off his mouth and lays it across his knee. He does not look up at her. He looks at the basket.
+The old man takes the been off his mouth. He lays it across his knee. He does not look up at her. He looks at the basket.
 
 "Aapko pata hai?" He says it to the basket. "Been bajti hai to jism sunta hai. Jism se poochha nahi jaata."
 
@@ -100,7 +101,7 @@ The old man takes the been off his mouth and lays it across his knee. He does no
 
 "Main achha bajata hoon, beti." He puts his hand flat on the cloth over the basket, which has gone still. "Isi liye aap do kadam aur chali aayin. Ek saanp ko apni marzi yaad nahi rehti jab been bajti hai. Uska jism pehle jawab deta hai, aur uske baad wo samajhta hai ki uska jism kya kar gaya."
 
-Her sister comes up the road behind her and stops, and says her name, and Purvi keeps her back to the road.
+Her sister comes up the road behind her and stops. She says her name. Purvi keeps her back to the road.
 
 "Ek baat aur." The old man looks at the basket a moment longer and then at her, and his eyes are not kind and are not cruel. "Hum marte hain, to hamari aankh aakhri cheez dekhti hai. Aur jo aakhri cheez dekhti hai, use bhoolti nahi. Jisne maara, uska chehra aankh ke andar reh jaata hai. Isi liye humein maarna aasan nahi hai. Hum sirf marte nahi — hum gawaahi chhod jaate hain."
 
@@ -108,49 +109,49 @@ Uttara is in the temple doorway with the bell rope in her hand.
 
 "Andar aaiye." She says it to the steps. "Woh aapke liye nahin bajata. Woh apne saanp ke liye bajata hai."
 
-The old man's been goes back up to his mouth, and the four notes come again, and Purvi's hand is on the doorframe of the temple before she has thought about it, and she takes it off the doorframe the way a person takes a hand off something hot.
+The old man's been goes back up to his mouth. The four notes come again. Purvi's hand is on the doorframe of the temple before she has thought about it. She takes it off the doorframe the way a person takes a hand off something hot, with fear.
 
 Purvi comes up the steps with her spectacles in her hand.
 
 "Toh aap aa hi gaye jahan aapko aana tha. Yeh aap hi ka Naag Mandir hai. Aur aap hamare kul ki Naagrani."
 
-Uttara stands by the lamp with her hands folded. She is old, and her hair is white, and there is a gold border round the shawl on her shoulders, and she is not surprised to see either of them.
+Uttara stands by the lamp with her hands folded. She is old. Her hair is white. A gold border round the shawl on her shoulders. She is not surprised to see either of them.
 
 "Aaiye." She is at the door now, and the lamp is up. "Aap hi ka intezaar hai — ki aap aaye, aur apne sinhaasan par raaj karein."
 
-"Main—" Purvi's hand goes flat against her own chest. "Meri koi—"
+"Main—" Purvi's hand goes flat against her own chest, with disbelief. "Meri koi—"
 
 "Bharosa kijiye." Her voice does not press. "Hum beech mein bhi aapse milne aaye the. Aur aapne hamein dekh liya."
 
-Bharani stands at Uttara's shoulder, the younger of the two, and her eyes are on the girl on the steps.
+Bharani stands at Uttara's shoulder, the younger of the two. Her eyes are on the girl on the steps.
 
-On the wall at the turn of the hall, where the lamplight reaches from the door, there is a face painted, and the plaster round it has cracked and gone in places, and the face has not. Older than the temple, by the look of it. A woman's, with the paint still in the eyes and a tracery of painted scales across one cheek.
+On the wall at the turn of the hall, where the lamplight reaches from the door, there is a face painted. The plaster round it has cracked and gone in places. The face has not. Older than the temple, by the look of it. A woman's, with the paint still in the eyes and a tracery of painted scales across one cheek.
 
-Bharani looks at the painted face, and looks at the girl on the steps, and does not move again.
+Bharani looks at the painted face. She looks at the girl on the steps. She does not move again, with astonishment.
 
 "Aaiye, Uttara maa." Bharani catches herself, and starts again, in the voice of a thing said a hundred times. "Hum ichchhadhari naaginon ki duniya mein bahut saari ichchhadhari naaginen hain — jinhein sau saal ka tap karke vardaan mila hai. Lekin woh chhe Mahanaagin — chhe Maha ichchhadhari naaginen — kaun hain? Jinki wajah se log abhi bhi humein sunna chahte hain?"
 
 "Batati hoon. In chhe naaginon ki wajah se duniya hamari kahaani jaanti hai. Inhon ne Brahmaand aur Bharat ko ek saath bachaya hai."
 
-The temple's dark changes as she speaks, and the pictures come and go full-screen: a naagin at a great height, a naagin in a forest, a naagin in a city street with her hair blown across her face.
+The temple's dark changes as she speaks. The pictures come and go full-screen: a naagin at a great height, a naagin in a forest, a naagin in a city street with her hair blown across her face.
 
 The hall gets warmer.
 
 "Aur ab baari hai hamari agli naagin ki." Uttara lifts the lamp. "Pehli baar is Naaglok ke dwaar khule."
 
-A door cut into a hillside with light coming out of it, and above the door a hood that nobody in the picture explains.
+A door cut into a hillside with light coming out of it. Above the door a hood that nobody in the picture explains.
 
 "Shivangi. Ise maa ki shakti mili. Inhon ne apni maa ke kaatilon ka sarvnaash kiya tha."
 
-The hall gets warmer, and the six of them pass full-screen one after another, and there is a couple in it, and a beak, and a plague, and mud, and a lamp.
+The hall gets warmer. The six of them pass full-screen one after another. A couple in it. A beak. A plague. Mud. A lamp.
 
 "Ichchhadhari naag-naagin ka tha ek joda — pata hai woh kaun thi? Bela. Apna roop badal ke aayi — yeh badla lene."
 
 "Bhaagya ne khela aisa khel — zehreela. Yeh thi ichchhadhari naagin Brinda. Kaaynaat se ise apni pehchaan mili."
 
-The lamp goes along the wall and touches only what is painted on it: a woman with a lamp of her own, water, and at the edge of the wall a man's hand coming in.
+The lamp goes along the wall. It touches only what is painted on it: a woman with a lamp of her own, water, and at the edge of the wall a man's hand coming in.
 
-Purvi's spectacles come up to her face. She is not blinking.
+Purvi's spectacles come up to her face. She is not blinking, with awe.
 
 "Yeh Naaglok ki Aadi Naagin — Bani — jo apne hi dushman cheel ke saath kar baithi pyaar. Apne dushman cheel ke saath — jisne likhi ajab prem ki yaadgaar kahaani."
 
@@ -160,13 +161,13 @@ The lamp in Uttara's hand goes up.
 
 "Aur yeh hai sabse badi naagin. Hamari Maharani. Anant kul ki Shesh Naagin, Pragati."
 
-The last picture is of a woman on a ridge with a grey shawl and a hand under her belly, and the wind takes the picture and the picture holds.
+The last picture is of a woman on a ridge with a grey shawl and a hand under her belly. The wind takes the picture. The picture holds.
 
-A serpent's body goes past full-screen, scale after scale, and then the temple again.
+A serpent's body goes past full-screen, scale after scale. Then the temple again.
 
 "Uske aane ka waqt aa gaya hai." Uttara turns, and the lamp comes down, and she is looking at Purvi. "Anant kul ki Naagrani — Ananta."
 
-The cloth comes off the throne at the end of the hall and it does not fall; it lifts, and the hall's lamps all lean at once and then stand straight up, and the flame in Uttara's hand does not move at all.
+The cloth comes off the throne at the end of the hall. It does not fall; it lifts. The hall's lamps all lean at once. Then they stand straight up. The flame in Uttara's hand does not move at all.
 
 Purvi stands at the door with her spectacles in her hand.
 
@@ -177,13 +178,14 @@ Behind her, on the steps, her sister's voice, small, cross, frightened:
 The lamps burn straight up.
 
 * * *
+
 ## The Swap
 
-The Aroras' bedroom at eleven at night, with the light off and the lamp on low, a sari folded over the foot of the bed in a quiet house.
+The Aroras' bedroom at eleven at night. The light off. The lamp on low. A sari folded over the foot of the bed in a quiet house.
 
-The storm has got into the windows and the curtains are moving without any air in the room.
+The storm has got into the windows. The curtains are moving without any air in the room.
 
-The woman sits on her side of the bed with her hands loose in her lap. The man sits on his with his glasses off and his hands hanging between his knees, and he is looking at the carpet.
+The woman sits on her side of the bed with her hands loose in her lap. The man sits on his with his glasses off, his hands hanging between his knees. He is looking at the carpet, with shame.
 
 "Sunil ji." Her voice is quiet, and it is steady, and it is a voice that has been kept ready for a long time. "Hum Kumbh jaane ki taiyari kar rahe hain. Aur Purvi ka chaubeesvaan janmadin bhi aane waala hai."
 
@@ -191,13 +193,13 @@ The man keeps looking at the carpet.
 
 "Barson se seene mein ek raaz dafan karke baithi ho." He says it to the carpet.
 
-He looks at the door. It is shut, and the house beyond it has gone quiet, and down the corridor their two daughters are asleep in a room with a mirror in it.
+He looks at the door. It is shut. The house beyond it has gone quiet. Down the corridor their two daughters are asleep in a room with a mirror in it.
 
 "Hamari beti ko Ananta ka naam diya." His hands come together in front of him and stay together. "Aur Ananta ko hamari beti Purvi ka naam."
 
-The lamp on the table gutters once, and stands up straight again, and the room is still.
+The lamp on the table gutters once. It stands up straight again. The room is still.
 
-The bedroom goes, and the temple comes. The professor faces the camera, a man with glasses and a beard, and Uttara stands beside the lamp, and over the two of them the lines come:
+The bedroom goes. The temple comes. The professor faces the camera — a man with glasses and a beard. Uttara stands beside the lamp. Over the two of them the lines come:
 
 "Yahi hai hamari Naagrani. Naaglok ki Rani. Hum sabhi inhi ko pranam karte hain."
 
@@ -205,23 +207,24 @@ The score comes up under the bowing.
 
 "Ek baat aur hai." She says it to the lamp now, not to him. "Mahine ki dawa jo gate pe aati hai. Woh khaate se aati hai. Woh humara khaata nahin hai."
 
-The man looks up at that, and she is already shaking her head.
+The man looks up at that. She is already shaking her head.
 
 "Poochha tha. Wo ladka kuch nahin jaanta. Aur main us chaar rupaye ke peeche nahin padi hoon." Her hand comes off the bed. "Main bas yeh nahin jaanti ki us ghar mein kaun hai jo humein jaanta hai aur humein batata nahin."
 
-He puts his glasses on. It is the only thing he does.
+He puts his glasses on, with resolve. It is the only thing he does.
 
-The market again — the morning's market, the lane loud with buying, the sun through the tarpaulin and the light flat and white.
+The market again — the morning's market. The lane loud with buying. The sun through the tarpaulin. The light flat and white.
 
-Purvi goes down the lane in her layers — the brown cardigan, the green muffler, the socks, her bag and her list — and the crowd closes round her and closes over her, and she is one small back in a great deal of noise.
+Purvi goes down the lane in her layers — the brown cardigan, the green muffler, the socks, her bag and her list. The crowd closes round her. It closes over her. She is one small back in a great deal of noise.
 
-A woman stands at the end of the row of stalls with her sari over one shoulder and her hand up, and out of the stones a cobra comes to her palm and puts its hood in it, and the whole lane turns to look at that and forgets the girl entirely.
+A woman stands at the end of the row of stalls with her sari over one shoulder and her hand up. Out of the stones a cobra comes to her palm and puts its hood in it. The whole lane turns to look at that. It forgets the girl entirely.
 
 Over the lane, the last line of the night:
 
 "Anant kul ki Naagrani, Ananta."
 
 * * *
+
 ## What Comes Next
 
 *A precap of this serial's own, in the author's order of 2026-11-12: a precap closes every chapter. The episode gives none — its track ends on the Naagrani's name — so what follows is staged forward, unscored, from what the next chapter plays.*
@@ -250,7 +253,7 @@ NAMES: Bharani is the track's own name for the junior naagin (heard in a later e
     OC: none in this half — his thread in this part is carried, not declared (see `SPLIT:`)
     FENCE:   none — no scene in this chapter is fenced.
     SPLIT:    Part 2 of `Chapter_03_The_Award_Night`. Part 1 holds the scenes before `## The Road`; this half runs from `## The Road` to `## What Comes Next`. The two halves share one footer's evidence only where the evidence is the episode's; each half's figures (`picture_check`, `camera_check`, `thread_check`) are its own and are measured, not inherited.
-    RIPPLED:  none — R-01 to R-04 re-read against the rebuilt prose and nothing in it asserts a superseded fact. No Aryaman anywhere in this half; the pair are never near each other; he is in no scene and no silence is written on him; no score anywhere near a pairing. The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule that touches it must be named here instead of `none`.
+    RIPPLED:  none — R-01 to R-04 re-read against the rebuilt prose and nothing in it asserts a superseded fact. No Aryaman anywhere in this half; the pair are never near each other; he is in no scene and no silence is written on him; no score anywhere near a pairing. Style pass 2026-11-22 re-read: R-01/R-02/R-03 stand as asserted (no Aryaman anywhere; the pair never near each other; he is in no scene and no silence is written on him); R-04 stands — no new score named (the pranam's coming-up already stands on its marker); the roster keeps his hand. The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule that touches it must be named here instead of `none`.
     LEDGER:   run 2026-11-20 over the track and the frames (`O041`): two live butterflies touch this half
               (`BF-06`, `BF-32`); nothing new; the re-speakered reveal, the re-hung roll, the struck songs and the
               re-dressed road carried no numbers.
@@ -307,13 +310,13 @@ NAMES: Bharani is the track's own name for the junior naagin (heard in a later e
               off the bed; the glasses put on; the cut back and its light; the last line over the lane; the precap entire (the half past one, the wet marble, the pillar kept since half past ten,
               the lens off, the halfway print, his hand on the roster, the four in the morning, the wreck's three, the drying). The omens are ours and placed, not explained: the phone flaring
               once in the dark car; the dog behind the wall; the lamps leaning and standing with the still flame; the cloth lifting off the throne instead of falling; the bedroom lamp guttering
-              at the last line.
+              at the last line. Deep 2026-11-23: word-splits only; no line added, no aired text altered.
     DEFERRED: Who is meant by "Sunil ji" (`S-07`). Who speaks the pranam over the temple cut and the last line over the lane: the episode with sound will say. Whether the compulsion
               comes before the Mahasapera (`S-16`): the jaw stirs once and stills, and the page prepares without playing.
     PICTURE:  Every scene opens on its place and light — the headlights going up the tarmac, the one lamp in the temple doorway, the bedroom lamp on low — and each carries its frames:
               the yellow sari, the red jacket, the gajra, the bag, the phone, the bell rope, the been, the basket, the spectacles, the lamp, the painted scales, the cloth, the folded sari,
               the roster, the camera body. Struck in the rebuild: her sunglasses, the wall calendar, the wall-pictures. Tempered: the washed joints, the serpent carvings, the nightdress,
-              the hair-down, the fields. Her spectacles are whole on the road, on the steps and by the pillar; they break once, in Chapter 4.
+              the hair-down, the fields. Her spectacles are whole on the road, on the steps and by the pillar; they break once, in Chapter 4. The style pass of 2026-11-22 names no new score and owns one already named (coming-up m40:35 under the bowing), and names anger, wonder, hesitation, fear, disbelief, astonishment, awe, shame and resolve where the slammed door, the open mouth, the undecided feet, the snatched hand, the chest-pressed hand, the freeze, the unblinking eyes, the carpet gaze and the donned glasses show them (small-cross-frightened already stood). The road, the roll, the names and the market play unscored (no markers); the precap keeps its forward staging, unscored. No new string: nothing held asks for one. No tasha, no pair theme. Music-only: none in this half. Battery: picture 3/3 ok; camera green; thread 1/4 RED (pre-existing structural short — he is in no scene, only the precap's roster carries him; bare: Road/Naag Mandir/Swap); butterfly/eyes/score-0/money/ripple/oc/beat green; dialogue 7/7; gap 7/7 whole + 1 music block; rescan A2/B-paste1/C-new7 (pre-existing, unchanged — all sit on aired dialogue); check GREEN. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/scores/cues byte-identical; omens arc in-scene (Road car coughs-coughs-dies, flare-and-sleep, wind across-to-uphill; Mandir four-notes-and-again, been mouth-knee-mouth, jaw stirs-and-stills, hand on-off-frame, lamps lean-and-stand, cloth lifts, spectacles off-up-down; Swap lamp gutters-and-stands, glasses off-and-on); tissue chained (white-car rhyme; stopped-lamps-to-one-burning; ridge-woman back to Ch1; storm continues; mirror room; khaata collects BF-32; crowd-closes rhyme); no gravity (he is in no scene; roster keeps his hand); no new score, no new business.
     RECEIPT:  What each addition is for, and what it costs, per `L-27`. The been-player: the franchise's old devices spoken early (`S-14`'s eye, `S-16`'s body) — staging and preparation,
               no butterfly (rule 4). The jaw's stir: `S-16`'s first touch, unplayed — staging. "Bharosa kijiye" and the watchers remembered: Chapter 2's gate, claimed — no cost. Bharani's
               freeze: `TR`'s portrait, held — canon, no cost. The temple cut's open speakers: the episode with sound owns them — declared. The precap's lobby, roster and wreck: Chapter 4's opening,

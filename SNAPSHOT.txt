@@ -1,0 +1,9 @@
+SNAPSHOT — index of Drive builds (O007)
+
+Current archive: r80 (pushed 2026-11-23; Ch33P1 Vihaan-repair head)
+Workspace desk: naagin7/ — 33 chapters (59 files) + foundation/ + tools/ + canon/
+Chapter files: Chapter_01 through Chapter_33 (splits where split)
+Heads: `Naagin 7 — The Shesh Naag` Drive folder (59 Chapter_* + HISTORY.md, single copies)
+Superseded: 59 old heads trashed 2026-11-23 (recoverable 30 days)
+Build log: HISTORY.md §225–§227 in naagin7/
+Status: LIVE = PACKED. r79 superseded.

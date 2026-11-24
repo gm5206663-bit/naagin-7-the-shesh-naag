@@ -24,17 +24,17 @@ She knocks once, and does not wait for an answer, because she has learned on her
 
 "Sir, main — main aa gayi," she says.
 
-"Good," he says, without looking up.
+"Good," the score sounding under the allowing (m00:06), he says, without looking up.
 
 The desk stands cleared except for one file and a cut-glass tumbler, and behind them a bottle with no label, amber to the shoulder.
 
-"Meri reports. Reports toh abhi start karni hain, sir," she says.
+"Meri reports. Reports toh abhi start karni hain, sir," the score sounding under the stammering (m00:20, first of two), she says.
 
-"Reports start karo, jaldi. Go, fast. Wait. Haan, mere liye banao," he says.
+"Reports start karo, jaldi. Go, fast. Wait. Haan, mere liye banao," the score sounding under the ordering (m00:20, second of two), he says.
 
 The tumbler means one thing, and her face says she knows it, and hates knowing it.
 
-"Ye hamein nahin aata banana," she says.
+"Ye hamein nahin aata banana," she says, with shame.
 
 "Toh seekh lo," he says.
 
@@ -48,11 +48,13 @@ She pours, and the spirit runs amber, and her other hand goes out for the water 
 
 The jug goes back. Past the glass, a line of crows goes home over the dish antennas, black on black-blue.
 
-"Sorry, sir," she says.
+"Sorry, sir," the score sounding under the apologising (m00:51), she says.
 
 "Now go," he says.
 
-She gathers the reports in both arms, and the file, and the week's work owed in a day sits on top of the pile and looks at her.
+She gathers the reports in both arms, and the file.
+
+The week's work owed in a day sits on top of the pile and looks at her, with dread.
 
 * * *
 ## The Nine O'Clock News
@@ -73,7 +75,9 @@ Her desk on the emptying floor, one lamp on in a row of dead ones, and her bag o
 
 "Shiv ji, pehla din hai mera aaj, please aap sab sambhalo. Self — aur bhi bahut kaam karna hai," she says to him.
 
-She puts him back, and bends to the reports, and the floor empties around her lamp.
+She puts him back, and bends to the reports.
+
+The floor empties around her lamp, with loneliness.
 
 * * *
 ## The Bus Home
@@ -82,7 +86,7 @@ The channel's gate at half past six, and the day gone blue over the road, and th
 
 Ananta stands with her bag packed and her shoes changed, going home, and Purvi has walked her down, and will walk straight back up.
 
-"Aur ghar nahin chalna kya?" Ananta says.
+"Aur ghar nahin chalna kya?" the score sounding under the parting (m01:46), Ananta says.
 
 "Didi, bahut kaam hai. Aap jao, main bus pakad ke aa jaungi," Purvi says.
 
@@ -100,7 +104,7 @@ The corridor is empty, and her footsteps go ahead of her, and then a voice that 
 
 "Mandir ke andar pair rakhne se unke andar tabdeeliyan shuru ho gayi hain. Shareer ka thakna, garmi, aur kechuli ki tarah unki tvacha ka nikalna — ye pehli nishaani hai naagin banne ki," the voice says.
 
-She walks on under the tube-lights, hearing nothing, and climbs to her lamp and her reports.
+She walks on under the tube-lights, hearing nothing, and climbs to her lamp and her reports, with resolve.
 
 * * *
 ## Good Morning, Sir
@@ -113,13 +117,13 @@ His shadow comes over the desk before he does.
 
 "Hi, good morning. Sara kaam ho gaya hai, ya sapnon mein ho raha hai?" he says.
 
-She comes up with the pen in the air and the reports stuck to her cheek.
+She comes up with the pen in the air and the reports stuck to her cheek, with embarrassment.
 
 "No, no, sir. Sir — matlab haan, sir," she says.
 
-"Beta, aaj toh tu kaam ke pehle din hi so gayi. Follow me. Aur haan, mere liye coffee leke aao — without sugar. Meetha kuch bhi pasand nahin hai mujhe," he says.
+"Beta, aaj toh tu kaam ke pehle din hi so gayi. Follow me. Aur haan, mere liye coffee leke aao — without sugar. Meetha kuch bhi pasand nahin hai mujhe," the score sounding under the needling (m02:29, first of two), he says.
 
-"Okay, sir," she says.
+"Okay, sir," the score sounding under the obeying (m02:29, second of two), she says.
 
 The pantry is steel and steam, and the kettle, and a row of paper cups, and she carries his out with both hands and her sleeves to the wrist.
 
@@ -133,7 +137,7 @@ The cup tips off the saucer's edge and goes over on the carpet, and the brown sp
 
 He sends her out with his chin, and the door shuts behind her, and through the glass, flat and too loud for a first morning, she says it to the whole floor.
 
-"Okay, everyone. Get started," she says.
+"Okay, everyone. Get started," the score sounding under the rallying (m03:19), she says.
 
 The floor looks up, and looks down, and on the sill the pigeons go up all at once.
 
@@ -144,7 +148,7 @@ She sits, and squints at the screen, because the broken pair sits folded in her 
 
 The floor at eleven in the morning, and the screen wall glaring, and the air standing dead under the vents, and every desk loud.
 
-Her skin itches under the sleeves, and she scratches through the cloth, and the heat sits under her skin like a second fever, and the noise comes at her from all sides at once.
+Her skin itches under the sleeves, and she scratches through the cloth, and the heat sits under her skin like a second fever, and the noise comes at her from all sides at once, with distress.
 
 The water cooler stands with its queue and its dripping tap, and the wall-fan above it hangs dead.
 
@@ -152,7 +156,7 @@ The files pile at every elbow, and nobody's hands stop.
 
 "Yahan par toh saans lene ki bhi jagah nahin hai. Upar jaake taaza hawa khaaun toh shayad karun. Sorry," she says to nobody.
 
-She takes the stairs, and the stairwell breathes cold on her face all the way up, cold as a hand.
+She takes the stairs, and the stairwell breathes cold on her face all the way up, cold as a hand, with relief.
 
 Her bag knocks the rail at every step.
 
@@ -171,7 +175,7 @@ A cold breath comes under the shut door and touches his shoes.
 
 "Parmeet sir ghar pe hain. Kal sagai hai na," Ananta says behind him.
 
-She has a small white case in her hands, and she looks at his face, and then at his face again.
+She has a small white case in her hands, and she looks at his face, and then at his face again, with curiosity.
 
 "Tum woh ho jo London se aaya hai," she says.
 
@@ -185,9 +189,11 @@ Aryaman comes down the corridor with the jacket hanging off one hand, and does n
 
 "Us floor pe usse koi ehsaan mat karna," he says.
 
-Vihaan holds his brother's eye till his brother walks on.
+Vihaan holds his brother's eye till his brother walks on, with defiance.
 
-Ananta walks him to the lift, because the lift will not come for him otherwise, and the lift arrives with nobody in it.
+Ananta walks him to the lift, because the lift will not come for him otherwise.
+
+The lift arrives with nobody in it.
 
 She goes back to the floor with the white case, and he goes down to the gate.
 
@@ -208,11 +214,11 @@ The stairs, and the trapdoor propped with a brick, and then the terrace under a 
 
 On a rope across the terrace the washed shirts stand straight out in the wind.
 
-She stands at the parapet with the wind in her hair, and does not hear him come up.
+She stands at the parapet with the wind in her hair, and does not hear him come up, with calm.
 
 The pigeons sit the parapet in a row, grey as ash.
 
-And over the empty terrace a voice comes, out of nowhere and everywhere.
+And over the empty terrace a voice comes, out of nowhere and everywhere, with the score sounding under the foretelling (m05:49).
 
 "Waqt aa gaya hai ek naya itihaas rachne ka. Ye woh samay hai jab duniya ka har niyam, niyati ka har likha badlega. Chhe sarvashreshth Shesh naagins ke baad, naagino ke itihaas mein aaj pehli baar ek janmajaat naagin apne ichchhadhari roop mein aayegi. Aur ye sirf uska janm nahin hoga. Ye pralay aur srijan donon ka aarambh hoga," the voice says.
 
@@ -226,7 +232,9 @@ The score comes up under him like a held breath.
 
 The pigeons burst off the parapet all at once.
 
-She folds where she stands, and the concrete takes her, and he is already running for the trapdoor.
+She folds where she stands, and the concrete takes her.
+
+He is already running for the trapdoor, with fear.
 
 * * *
 ## Footer
@@ -244,7 +252,7 @@ This half is the first evening into the next midday of Episode 3, in the episode
     RIPPLED: none — R-01 to R-04 read against this half's prose (`foundation/RIPPLE.md`): no love slot touched
               (R-01); no pull played (R-02 — the corridor pairs him with the sister); he is not silenced (R-03 — he
               speaks, and Aryaman's warning goes unanswered in action, never in a says-nothing line); no romance scored
-              (R-04 — score only where the track marks it).
+              (R-04 — score only where the track marks it). Style pass 2026-11-22 re-read: R-01/R-02/R-03 stand as asserted (the corridor pairs him with the sister; the warning goes unanswered in action); R-04 stands — the score named is neutral (sounding/allowing/foretelling), every naming on a marker, m06:32 owned-not-renamed on the prose's own *held breath*; his register untouched (hands in pockets, the held eye, nothing carried).
     BASE:     Naagin 7, Episode 3, 00:06 to 06:51 of the official upload. Beats B01 to B07, in order.
     VOICE:    Hindi dialogue, transliterated from the caption track, cue for cue, except the authored dialogue named
               under `CHANGED`, which is this half's own. The two voiceovers — the first sign over the corridor and the
@@ -271,7 +279,7 @@ This half is the first evening into the next midday of Episode 3, in the episode
               the floor this morning (the visit's purpose unasked — a Suri sister needs no reason in her brother's
               building); the lift arriving empty; his hands in his pockets; the brick, the shirts, the pigeons; Rajat
               following to ask his way (TR: sees and follows); the faint. Her broken pair sits folded in her bag with
-              one lens out (Ch6 lock); her sleeves stay down (marks hidden, Ch6 lock).
+              one lens out (Ch6 lock); her sleeves stay down (marks hidden, Ch6 lock). Deep 2026-11-23: word-splits only; no line added, no aired text altered.
     SEEN:     On `O025` — Ananta looking at his face, and then at his face again, in the corridor, with Pinky's line
               for a caption. The half's one seeing device; the pull is not played here (`R-02`).
     ADDED:    **The Shut Door, authored and declared.** Canon gives this half no Vihaan, and the story gives him three
@@ -315,4 +323,4 @@ This half is the first evening into the next midday of Episode 3, in the episode
               at eleven in the morning glare, the corridor at one with noon light in the glass, the corridor at two
               with light in slabs. The inserts that carry weight are the file, the bottle, the phone, the glass,
               the tin, the lamp, the register, the key, the pen, the paper cups, the door, the plate, the envelope
-              and the rope. `tools/picture_check.py`: 7 scenes, 0 short.
+              and the rope. `tools/picture_check.py`: 7 scenes, 0 short. The style pass of 2026-11-22 names the score on nine markers and owns one not renamed (allowing m00:06; stammering + ordering m00:20; apologising m00:51; parting m01:46; needling + obeying m02:29; rallying m03:19; foretelling m05:49; m06:32 already *The score comes up under him like a held breath*), and names shame, dread, loneliness, resolve, embarrassment, distress, relief, curiosity, defiance, fear and calm where the confession, the pile, the emptying floor, the climb, the stuck reports, the dead air, the cold stairwell, the double look, the held eye, the run and the parapet show them (the phone-smile already stood). The first-sign voiceover carries no marker. The News, No Room and Shut Door play unscored (no markers; the Shut Door wholly authored). No new string: nothing held asks for one. No tasha, no pair theme. Music-only and footered (11): 02:24, 04:01, 04:44, 04:49, 05:01, 05:09, 05:16, 05:23, 05:31, 05:39, 06:26. Battery: picture 7/7 ok; camera green; thread 6/6 green; butterfly/eyes/score-0/money/ripple/oc/beat green; dialogue 13/13; gap 10/13 (9 whole + PARTLY 06:51 edge) + MISSING 00:06/03:19/04:19 (pre-existing tool artifacts, lines on page) + 19 music; rescan A6/C-new9 (pre-existing, unchanged — all sit on aired dialogue); check GREEN. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/scores/cues byte-identical; omens arc in-scene (Drink desk cleared-to-loaded, tumbler empty-to-poured-neat, jug out-to-back, knock-no-wait-to-gathers; News bulbs row-to-one-out-unmourned, Shiva out-to-back, floor emptying-to-emptied; Bus parting home-to-back-up, bus sighs-to-gone, sign given-to-unheard; Morning shadow-to-taunt, needling-to-obeying, warning-to-echo, cup tips-spreads, shut-out-to-rally, pigeons up; NoRoom sign lands itch-heat, stairs breathe-cold, trapdoor open; Shut plate-unpicked, cold-breath-under-door, placing pair, gossip-to-flat, warning-drops-unanswered, eye held-till-on, lift arrives-empty; Terrace trapdoor open-to-shuts, wind-dead sun-white tearing-mouthless, fold-to-flight); tissue chained (sleeves Ch6's cuffs; week's-work pile lands Ch6's listing; mirror Ch6-dark-to-lit; tumbler-to-straw-glass; gate Ch5-shut-to-wide; dog one-eye on Ch6's chain; first-sign voiceover to itch-heat; pour-right-carry-wrong; pigeons up-to-burst; Rajat arrives on Ch6's promise; report-on-table to P2's Teri-report; sagai to P2's flower boxes; cold-breath twice stairwell-and-shut-door; white case to P2's lunch spectacles); gravity is his conduct entire in his one scene (stillness, held eye, report already tabled, warning unanswered-in-action; Ananta places-and-gossips, Aryaman warns-and-passes, lift arrives-empty) — her day unbent, they do not meet; no new score, no new business.

@@ -20,9 +20,13 @@ A drum, once. Mahadev's trishul is not shown, but the thunder is his. Then the s
 
 The night bus runs half empty through the dark, and Purvi sits three rows from the front with her phone to her ear and the window black beside her.
 
-Her ticket is still in her fist, folded twice, and the conductor's punch has gone through both the folds.
+Her ticket is still in her fist, folded twice.
 
-She ran to catch it, and her breath is back to normal already, and that is the whole of what is strange about her evening.
+The conductor's punch has gone through both the folds.
+
+She ran to catch it, and her breath is back to normal already.
+
+That is the whole of what is strange about her evening.
 
 A man across the aisle is looking at her over his newspaper.
 
@@ -32,13 +36,17 @@ He looks back down at his newspaper.
 
 "Koi nahin, baby," she says into the phone. "Baby, main — woh koi ajeeb baat nahin hai. Itna daud kar bhi mujhe koi thakaan hi nahin ho rahi hai."
 
-At home Ananta sits on the arm of the sofa with the phone to her ear, and the radio is playing under her voice.
+At home Ananta sits on the arm of the sofa with the phone to her ear.
+
+The radio is playing under her voice.
 
 The radio stands on the shelf above the dining table with its dial lit green, and the song comes out of it thin and far away.
 
 *Jara si dil mein de jaga tu. Jara sa apna le bana.*
 
-Four plates stand waiting on the dining table with the steel jug of water in the middle of them, and nobody has sat down yet.
+Four plates stand waiting on the dining table with the steel jug of water in the middle of them.
+
+Nobody has sat down yet.
 
 A plate of fruit stands on the sideboard with the knife lying unused across it.
 
@@ -58,16 +66,20 @@ The bus slows for her stop, and the line goes dead.
 
 Ananta sits with the dead phone in her hand and the song still coming out of the radio.
 
-"Kaun sa tonic leti hai yaar ye?" she says to the room.
+"Kaun sa tonic leti hai yaar ye?" she says to the room, with amusement.
 
 * * *
 ## The Test
 
 The lane outside the Arora house lies Pocket 4 (neighborhood) in the last of the light, and the neem at the corner lays its shadow the whole length of it.
 
-The scooter's key hangs on its red thread in the door, and the scooter stands under the neem with a cloth over its seat and a helmet hanging off the handlebar.
+The scooter's key hangs on its red thread in the door.
 
-Ananta stands at the corner of the lane under the neem, and Ravish stands in front of her with his hands in his pockets, and neither of them has spoken the thing yet.
+The scooter stands under the neem with a cloth over its seat and a helmet hanging off the handlebar.
+
+Ananta stands at the corner of the lane under the neem, and Ravish stands in front of her with his hands in his pockets.
+
+Neither of them has spoken the thing yet, with dread between them.
 
 "Ravish." Her voice is low and fast. "Maine teen baar already check kar chuki hoon. Sab ek hi result hai. Positive."
 
@@ -81,11 +93,13 @@ Down the lane a shutter comes down over a shopfront, and the rattle of it hangs 
 
 "Tum mujh pe trust karti ho na?" he says. "Bas ek baari Karan ki shaadi ho jaye na — phir pakka main apne ghar waalon ko bata dunga."
 
-She looks at him and does not answer.
+She looks at him and does not answer, with doubt.
 
-"Achha theek hai," he says. "Nikal raha hoon. Sorry, baby. Mujhe office jaana padega. Woh gyarah baje ki urgent meeting hai. Review meeting hai. Bhai ka order — I can't say no."
+"Achha theek hai," the score sounding under the leaving (m17:05, first of two), he says. "Nikal raha hoon. Sorry, baby. Mujhe office jaana padega. Woh gyarah baje ki urgent meeting hai. Review meeting hai. Bhai ka order — I can't say no.", the score sounding under the excusing (m17:05, second of two).
 
-He walks away down the lane, and the shadow of the neem takes him, and Ananta stands under the tree with her arms folded and watches him go.
+He walks away down the lane, and the shadow of the neem takes him.
+
+Ananta stands under the tree with her arms folded and watches him go.
 
 * * *
 ## The Lecture
@@ -94,7 +108,9 @@ The back room of the Arora house holds the evening in its one bulb, and the sist
 
 The fan goes round under the bulb, and the calendar on the wall lifts a corner every time it passes.
 
-The tin of powder stands open on the dressing table, and there is a thumbprint on the mirror above it.
+The tin of powder stands open on the dressing table.
+
+There is a thumbprint on the mirror above it.
 
 Her phone lies face-down on the bed, and neither of them looks at it.
 
@@ -102,9 +118,9 @@ Ananta has not stopped looking at the strip.
 
 "Kya baar-baar dekh rahi ho?" Purvi says. "Positive hai? Usi baat ki tension hai — ki kaise, aur kyun?"
 
-Purvi puts her head on her sister's shoulder.
+Purvi puts her head on her sister's shoulder, with tenderness.
 
-"Purvi, please itna sochna band kar," Ananta says. "Maine Ravish se baat ki hai. Woh mere saath hai."
+"Purvi, please itna sochna band kar," the score sounding under the calming (m17:39), Ananta says. "Maine Ravish se baat ki hai. Woh mere saath hai."
 
 "Bade log hain woh," Purvi says. "Ameer log hain."
 
@@ -120,9 +136,9 @@ Purvi sits up straight.
 
 "Aur agar uske ghar waale nahin maane toh?" she says. "Mummy-Papa kitna bharosa karte hain tum pe. Tumne aisi harkat — apni hadd paar kyun ki?"
 
-Ananta does not look away.
+Ananta does not look away, with defiance.
 
-"Pyaar mein koi hadd nahin hoti hai," she says.
+"Pyaar mein koi hadd nahin hoti hai," the score sounding under the declaring (m18:07), she says.
 
 "Ye baat sirf sunne mein acchhi lag rahi hai, didi," Purvi says. "Par ye practical nahin hai — aur sahi bhi nahin."
 
@@ -132,11 +148,11 @@ The fan goes round once, and then twice.
 
 Purvi does not answer.
 
-"I really, really wish — ki teri life mein bhi koi ek aisa insaan aa jaye, jisse tujhe bhi deewanon ki tarah pyaar ho jaye," Ananta says. "Sote, jaagte, uthte, baithte — tujhe sirf wohi ek insaan nazar aaye. Phir main bhi dekhti hoon, Purvi — tu kitna apne usoolon pe chalti hai."
+"I really, really wish — ki teri life mein bhi koi ek aisa insaan aa jaye, jisse tujhe bhi deewanon ki tarah pyaar ho jaye," the score sounding under the wishing (m18:32, first of three), Ananta says. "Sote, jaagte, uthte, baithte — tujhe sirf wohi ek insaan nazar aaye. Phir main bhi dekhti hoon, Purvi — tu kitna apne usoolon pe chalti hai.", the score sounding under the picturing (m18:32, second of three).
 
 Ananta smiles, small and certain.
 
-"Pyaar karne waalon ke beech mein bhi ek line draw hoti hai," she says. "Ek hadd hoti hai — jise kabhi cross nahin karna chahiye. Aur rahi baat meri — toh main kabhi aisa nahin karoongi. Main aur Ravish — ek doosre se bahut pyaar karte hain. Karan ki sagai hote hi woh apne ghar waalon se baat kar lega. Mujhe Ravish pe na — apni jaan se bhi zyada bharosa hai."
+"Pyaar karne waalon ke beech mein bhi ek line draw hoti hai," the score sounding under the drawing (m18:32, third of three), she says. "Ek hadd hoti hai — jise kabhi cross nahin karna chahiye. Aur rahi baat meri — toh main kabhi aisa nahin karoongi. Main aur Ravish — ek doosre se bahut pyaar karte hain. Karan ki sagai hote hi woh apne ghar waalon se baat kar lega. Mujhe Ravish pe na — apni jaan se bhi zyada bharosa hai."
 
 Purvi looks at her for a long moment.
 
@@ -151,11 +167,13 @@ The mall floor shines under its own lights, and the fountain falls into its own 
 
 The fountain's pool has coins in the bottom of it and a plastic bottle floating among them.
 
-The woman by the pillar is in green, and her hair is done, and her wrist is heavy with gold, and she is talking into her phone.
+The woman by the pillar is in green, and her hair is done.
+
+Her wrist is heavy with gold, and she is talking into her phone.
 
 Vihaan comes down the escalator with his hands in his pockets and goes past her toward the doors.
 
-She stops in the middle of a word and does not pick it up again until he is past her and out through the doors.
+She stops in the middle of a word, with astonishment, and does not pick it up again until he is past her and out through the doors.
 
 Then she puts her phone away, because Ravish has come.
 
@@ -173,9 +191,11 @@ Then she smiles, and it is a different face.
 
 "Okay," he says.
 
-She goes toward the escalators without looking back.
+She goes toward the escalators without looking back, with resolve.
 
-The escalators go up and down with nobody on them, and above them the lights change colour once, and then again.
+The escalators go up and down with nobody on them.
+
+Above them the lights change colour once, and then again.
 
 Arjun comes out from behind the pillar with a coffee in his hand.
 
@@ -191,9 +211,9 @@ A security guard walks the length of the floor and does not look at either of th
 
 "Par bhai — aapki feelings toh us ladki Ananta ke liye thi na?" Arjun says. "Ab woh shaadi ki baat kar rahi hai — toh?"
 
-"Arey yaar, dekha," Ravish says. "Main aisa hi hoon, yaar. Ye pyaar-wyaar main jhel sakta hoon — lekin shaadi bilkul bhi nahin jhel sakta."
+"Arey yaar, dekha," the score sounding under the shrugging (m20:11, first of three), Ravish says. "Main aisa hi hoon, yaar. Ye pyaar-wyaar main jhel sakta hoon — lekin shaadi bilkul bhi nahin jhel sakta."
 
-"Haan, feelings mein zaroor believe karta hoon," he says. "Lekin forever mein bilkul bhi nahin. Kal sagai hai. Kal saara drama khatm ho jayega."
+"Haan, feelings mein zaroor believe karta hoon," he says. "Lekin forever mein bilkul bhi nahin. Kal sagai hai. Kal saara drama khatm ho jayega.", the score sounding under the refusing (m20:11, second of three; the third is Part 2's).
 
 Behind them the fountain goes on falling into its own pool.
 
@@ -235,7 +255,7 @@ This chapter is the second part of Episode 3, in the episode's own order: the to
     FENCE:    none — every fenced scene in this story is in Part 2
     RIPPLED:  none — R-01 to R-04 were read against this chapter's prose (`foundation/RIPPLE.md`) and nothing in it asserts
               a superseded fact. The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule that touches it must
-              be named here instead of `none`.
+              be named here instead of `none`. Style pass 2026-11-22 re-read: R-01 to R-04 not asserted by the pass (he passes the mall only; the half is hers); the score named is neutral (sounding/calming/drawing), no romantic cue anywhere; his register untouched (the escalator pass-by).
     OC:       none in this half — his thread in this part is carried, not declared (see `SPLIT:`)
     BASE:     Naagin 7, Episode 3, 15:43 to 30:00 of the official upload. Beats B17 to B28, in order.
     VOICE:    Hindi dialogue, transliterated from the caption track, cue for cue, for every line the episode gives in this
@@ -274,7 +294,7 @@ This chapter is the second part of Episode 3, in the episode's own order: the to
               iron shutter with its long shape worn into it, and the crate at its foot; the chairs in stacks of ten, the
               mandap half up, the marigold from the chandelier, the staple gun, the framed photograph of Karan and Tina with
               a garland over the frame, and the tray of three cups going down the passage to a door with nobody at it.
-              Movement between the episode's own cuts is carried plainly and nothing is staged that the episode contradicts.
+              Movement between the episode's own cuts is carried plainly and nothing is staged that the episode contradicts. Deep 2026-11-23: word-splits only; no line added, no aired text altered.
     SEEN:     On `O025` — the woman by the pillar at the mall, who does not speak again until he is past her and out through
               the doors; Purvi reading her own name on a card and then looking up at him, *main kya pehn ke jaaungi?*; and
               at the side of a hall being built, the one head that comes up when three men go in at the gate and round the
@@ -317,7 +337,7 @@ This chapter is the second part of Episode 3, in the episode's own order: the to
     DEFERRED: Who Alim Ansar is; what Mayuri's video shows beyond the mark; what the second plan is; whether Purvi reaches
               Aryaman with any of it; who the "real Parmeet" is; what becomes of Mayuri after the episode's last minute.
     PICTURE:  **The rebuild of 2026-11-21, measured with `tools/picture_check.py` on this file: 4 scenes, mean
-              speech share 43%, 0 scenes short of the picture.** Every scene opens on its place with its light
+              speech share 38%, 0 scenes short of the picture.** Every scene opens on its place with its light
               named once: the night bus running dark, the lane in the last of the light under the neem, the room
               with the one bulb and the fan under it, and the mall floor in its own lights. What the row names can
               be read on the page: the ticket folded twice, the radio with its dial lit green, the four plates and
@@ -325,6 +345,6 @@ This chapter is the second part of Episode 3, in the episode's own order: the to
               its red thread in the door, the shutter coming down the lane, the fan and the calendar, the tin of
               powder open and the thumbprint on the mirror, her phone lying face-down, the coins in the fountain's
               pool and the plastic bottle floating among them, and the empty escalators. What can be measured now:
-              `tools/camera_check.py` returns 44% speech in 39 of 88 paragraphs, 1,660 words in the scenes, and
-              green, with two advisories owned here — N3 sits a point under its floor, and the narration runs
-              choppy at 60% under nine words, which this pass did not smooth and does not pretend to.
+              `tools/camera_check.py` returns 40% speech in 39 of 98 paragraphs, 1,755 words in the scenes, and
+              green, with one advisory owned here — N3 sits under its floor (he passes the mall only), and the narration runs
+              choppy at the 45% line, which this pass did not smooth and does not pretend to. The style pass of 2026-11-22 names the score on nine markers (leaving + excusing m17:05; calming m17:39; declaring m18:07; wishing + picturing + drawing m18:32; shrugging + refusing m20:11, the third of the block Part 2's), and names amusement, doubt, dread, tenderness, defiance, resolve and astonishment where the dead phone, the silence, the unspoken thing, the leaned head, the held gaze, the unturned back and the stopped word show them (smiles already stood). The old uncited-five position is superseded for 18:07/18:32 (cited in-scene now); 17:24/17:28 are music-only and footered here. The Tonic plays unscored (song lyrics, no marker). No new string: nothing held asks for one. No tasha, no pair theme. Battery: picture 4/4 ok; camera green; thread 1/4 RED pre-existing (he passes the mall only; the half is hers — OC: none declared); butterfly/eyes/score-0/money/ripple/oc/beat green; dialogue 21/27; gap 23/27 (13 whole + 10 PARTLY) + 4 MISSING (all Part 2's cues) + 18 music; rescan A1/C-new5 (pre-existing, unchanged — all sit on aired dialogue); check GREEN. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/scores/cues byte-identical; omens arc in-scene (Tonic ran-to-breath-normal, ticket folded-punched, window black-to-smear, line live-to-dead, song under-to-still; Test neem shadow laid-to-takes-him, shutter down-to-rattle-hanging, promise-to-walks-away; Lecture calendar lifts-to-falls-still, fan round-to-once-twice, strip between-to-picked-down, phone face-down-unlooked, head leaned; Mall fountain falling-to-on-falling, escalators empty-up-and-down, lights change-once-again, word stopped-to-unpicked, guard walks-unlooking); tissue chained (bus song home-to-radio; stop lands the call; tonic names her tirelessness; lane neem to his promise; strip lane-to-bed; shutter down-before-promise; promise-to-hotel within the hour; mall pass-by to P2's corridor meeting; fountain brackets); gravity is Ravish in two rooms (promise bends the lane, hotel unbends it at the mall, the lecture defends him between) with Vihaan passing once, hands-in-pockets, stopping one woman's word till he is out the doors — Purvi never sees him; no new score, no new business.

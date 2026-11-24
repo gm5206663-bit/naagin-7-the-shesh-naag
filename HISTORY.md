@@ -3973,3 +3973,2006 @@ superseded Ch10 ×6 (1sW5hlNLMYPseSZGjWnv9mqBiqa0lRjek,
 1Ks7eEfFVYEbSXifL0OE5fPGQ0gwq5Jv6) + HISTORY
 (11m7SiI8FAe68iBzj6JaFe1FrcjB8nLTW) + REBUILD
 (1u5g2jD4ZJtFxuAsBoWFH-nIdhy587awF) trashed after the new heads verified.
+## §202 — TRUE REBUILD: Chapter 11 re-derived fresh (Parts 1 + 2), marked REBUILT (2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only ship. This
+chapter stood as two draft halves with stale wholes beneath them on the
+Drive; both halves re-derived cue by cue against the raw track and rebuilt
+in place from the derived spine — every exchange track-set, three ledger
+overrulings with cause, two fresh footers, no sentence inherited unexamined.
+Part 1 = B18–B23 (the grass to the threat) + TITLES; Part 2 = B24–B26 (the
+answer to the order) + the vow + the account + the bridge. Split law holds:
+shared TITLES, per-half footers + SPLIT rows, figures measured not
+inherited, bridge with Part 2 (dialogue-free, Ch8/Ch10 template), clean cut
+at B23|B24 — the threat stays Part 1's; the answer opens Part 2.
+
+READ: captions/E04.hi.txt L43–L61 read cue by cue (13:56–22:47, 19 blocks,
+14 with a marker, 21 markers, 2 music-only, 5 speech with no marker — the
+old footer's 20/6 miscount corrected); the full TellyReviews E04 recap, for
+the entrance, the stopped slap, the demand, the handkerchiefs, the order and
+the media vow; beats B18–B26. Rulings recorded during the cycle, pre-write:
+three declared ASR repairs (*use* to *usne*, *baad se munh kar* to *vaade se
+mukar*, *de want* to *don't want*) with stutters normalised (*usne usne*,
+*wo wo*, *ek ek*) and three names normalised (*Ravesh*, *Ravash* ×2, three
+of five *Ramesh*); five track words kept against the draft (*Big B*, *Big*,
+*Be*, *stylish*, *karte*, *bhediya* twice); four ledger overrulings with
+cause (14:35's *meri Didi* is Purvi's; 18:40's *keh rahi ho* is Arjun's; the
+sentence is Aryaman's and only *That's final* is Parmeet's; the media vow is
+Ananta's). No new butterflies, no new OPEN rows; BF-16, BF-17, BF-18, BF-19,
+BF-64, BF-65 kept and paid. DERIVE (spines on REBUILD row 11): the 18:26
+ask-replay, unlogged by the beats, staged as her quotation; the 22:47
+boundary carried as images only.
+
+P1, load-bearing fixes: the grass tail recurved (she follows — the next
+scene names her); *her own engagement* corrected to *the*; the *lekin*
+clause restored and *Poochho* struck; his reply in order with her present;
+*kaafi tez taraar thi wo*, *I loved your company*, her *time pass* in order;
+*his* dismissal and *her* eruption placed (*meri Didi*, Purvi's); 15:11 in
+order with the invention struck; *how dare you* restored; the stammer kept;
+*usne* repaired; *Big B* kept; *side/decide/deni hai* restored; the goad
+restored whole with *baat teri*; the oath in order; the room emptied between
+the threat and its finish; *dhokha bardasht* in order; her interjection
+restored whole; *Be — not one word*; the sentence to Aryaman; the entrance
+at *That's final* (once); *I don't want any arguments*; *ye Big*; the flip
+in order; her objection, the Dad-appeal, the unnamed brother, and *Arjun se
+hi poochh lo* restored whole; *Ramesh bhai* kept in the lying mouth; the
+*hello*-refusal restored with *karte* kept; the message in order; the replay
+quoted; her explanation in order; his retort re-speakered; her defence
+restored whole; *stylish* kept; *character* and *jo ki nahi hai* restored;
+the threat in order. P2: *you are wrong* without *so*; the media vow to
+Ananta with *chal*; the khaal warning kept with his watch (TWO_PAIRS §4.2,
+the object); the pocket and the doorway kept; stairs and study kept whole;
+the clocks struck; the call, the order, the plea, *bhediya hai, bhediya*,
+the scent, and the no-suspicion close in order; the vow restored with the
+inventions struck whole; the ring on Tina's finger; the account unclocked;
+the bridge without speech. Struck throughout: *jaiye*, the three
+veranda/hall openers, *Poochho*, *Haan, main sun raha hoon*, the second
+*Ravish?*, *Main cheat—*, his *tumne time pass kiya*, *Ananta—*, *Aur
+tumhare saath*, *Kya hua / Aryaman, kya hai*, *Kya kaha tune* and the glass,
+*Ye sab drama hai*, *Aryaman* for *Big B*, *tarafdaari/tay/milegi*, the
+lone *Aryaman—*, the look at the sideboard, *Ruk / main bol raha hoon*,
+the second *That's final*, *Sir, ye galat hai*, Tina's father's throat and
+ceiling (he had left), *Kya?*, *chalan*, *magar nahi hai*, the *Baithe...
+batao* paragraph, Dimple's two, his *Papa*, *so*, *Bahar nikal ... apna
+naam bhool jaata hai*, *Aur shak?*, *Suno, Parmeet Suri* through *naam
+mitaungi*, *an hour and a half*, the *Rohan* shouts, Nandini's warning, the
+scream-echo, and six invented clocks. Ledger amended with cause, local:
+WORLD's after-Ch11 checkpoint rewritten against the rebuilt page — its
+window line, its true thing in the wrong mouth, its told floor, its walk
+home, its names-and-faces vow, its two hours and its studio were three
+builds old, and it never recorded the goad, the interjection, the entrance,
+the brother, the split, the species or the flake.
+
+Gates: per-half battery green (P1 picture 7 scenes 0 SHORT; camera green
+with non-fatal N7+N8 advisories, 64 of 123 paragraphs, 2,912 words; oc
+green, six scenes, eight quotations; gap 13/13 with 15:11 owned as the
+tool's Devanagari-English truncation; thread 6/7 = 86% GREEN unfenced, bare
+scene named; dialogue 13/13; P2 picture 4 scenes 0 SHORT; camera green with
+a non-fatal N3 43% advisory, 39 of 90 paragraphs, 2,199 words; oc green, one
+scene, nine quotations; gap 6/6 with 22:47 owned as the imagistic boundary;
+thread 1/1 = 100% fenced, effect published; dialogue 6/6; beat, score,
+eyes, address, ripple, butterfly, screen, franchise, money green; said-count
+zero in both halves); check.py exit 0 with the final GREEN and zero
+RED/FAIL across the battery; DESK 8.3/10. Drafts, unaccepted. Episode 4
+stands open at 22:47 for Chapter 12.
+
+Ship (O084): Part 1 / Part 2 new heads
+1mkK9vqo6oILSZAOCUAfPH2HBSWMPzrzH / 1wYMKZnPpoDxLyx7gqmRJrENJ9IT8sZ1X
+(43,234 / 35,739 B, md5-verified); HISTORY + REBUILD re-shipped;
+superseded Ch11 ×2 (17-NUuZJbPAHD67lz8wEzV6Qqi6r0r0Zc,
+1BWT_zBO9PHz6jfePoOW3vGYkNpI0-QM9) + HISTORY
+(1Vsjsz8hWaYj2lmJY9WU1Qm2TokvM2gDn) + REBUILD
+(1o7z2nLsnuz33ezfVKrxgYem_Q3Vx1H2V) trashed after the new heads verified.
+
+## §203 — TRUE REBUILD: Chapter 12 re-derived fresh (Parts 1 + 2), marked REBUILT (2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only ship. This
+chapter stood as two draft halves with a stale whole beneath them on the
+Drive; both halves re-derived cue by cue against the raw track and rebuilt
+in place from the derived spine — every exchange track-set, the warnings
+re-speakered with cause, two fresh footers, no sentence inherited unexamined.
+Part 1 = B27 (the lane) + the run + the jacket + TITLES; Part 2 = B28–B29
+staged below its window (the roof, the depot) + B30–B32 (the temple, the
+study, the ground) + the precap + TITLES. Split law holds: shared TITLES,
+per-half footers + SPLIT rows, figures measured not inherited, the 27:37
+music-only block counted in both halves, B28–B29 staged whole in Part 2 —
+the jacket stays Part 1's; the temple opens Part 2; the cut is at B29|B30.
+
+READ: captions/E04.hi.txt L62–L102 read cue by cue (22:47–36:30, 41 blocks,
+24 with a marker, 29 markers, 14 music-only, 17 speech with no marker — 10
+of them shreds); the full TellyReviews E04 recap tail, for the warnings, the
+run, the roof, the depot, the temple and the change; beats B27–B32. Rulings
+recorded during the cycle, pre-write: five declared grammar repairs (darogi,
+dogi, dunga, bachaungi, band-kar-de); six track words kept against the draft
+(akele, akela, Ae, Arey, Om, ki-shakti); four rulings with cause (TR's
+Rohan-urges owned as shape-not-mouth, the warnings re-speakered to Vihaan
+and Ananta; the draft's Saath-baras struck unsourced; B31's readiness ruled
+Parmeet's; the wolf held back with the track ruling over TR). No new
+butterflies, no new OPEN rows; BF-66, BF-67, BF-68, BF-69, BF-93, BF-94 kept
+and paid. DERIVE (spines on REBUILD row 12): 26:49's run-content in Part 1
+with its drivers' frame in Part 2; B28's sentence and B29's frame staged
+whole below Part 2's window; the inversion owned against the unquoted 25:16.
+
+P1, load-bearing fixes: the warnings re-speakered (24:26 to Vihaan — Rohan.
+l.89, Rohan! l.93; 24:49 to Vihaan — Woh-kutta-nahi-hai, Andar twice; 24:58
+to Ananta — Bhaago-Khadi-ke-paas l.119); the inversion owned (Ruko/Mat-bhaago
+l.113–121, the unquoted 25:16 carried l.151); the royal dog omitted per B27;
+the neighbours aged (Nandini 21, Rohan 19); the mother-exchange authored;
+25:54 whole; the run framed (the heel, the gift-book name l.182, the
+watchmen, blood-is-his l.194, the cloth l.196, Wo-wapas-nahi-aayegi l.213);
+the jacket kept whole (01:30, the Kutta lie, Nahi l.256, the laugh, the date
+and the car l.268, the naming l.290–294, the dupatta once l.312/318, the
+warmth l.306–308, the torch l.322). P2: 26:12 restored whole (l.34/36/50);
+teesra-as-begun l.56; the hiss l.66; 26:49 restored (l.89/99/101); the vanish
+authored; the B30 stop kept with Saath-baras struck; the saken-repair;
+Sampark twice; the price dialogue with its grammar; the scooter coda; the
+B31 sentence whole (l.169) with readiness to Parmeet and the step-is-she
+(khulegi l.183); B32 without dialogue (the Didi breath l.232, Om twice
+l.220/224, ki-shakti l.240, Om-hawa-om l.242); the cost l.246; the footprint
+l.248; the precap without dialogue. Struck throughout: Daudo and
+Khadi-ki-tarf; the sukhriya-inversion; the Aa-gayi-na-Mummy footer-invention;
+the 25:36, 30:18 and 33:45 mishears; the 26:12 paraphrase-cluster; the B31
+nine-synonym cluster and its Tab; Saath-baras; shika; and the draft's
+41-in-both count. Ledger amended with cause, local: WORLD's after-Ch12
+checkpoint rewritten against the rebuilt page — its wolf in the lane, its
+hymn in a house, its unwaking boy, and its Vihaan-whose-whole-is-a-shout
+were three builds old, and it never recorded Bharani, the pariksha, the
+jacket, the naming, the warm cloth, the price, the call, the change, or the
+precap.
+
+Gates: per-half battery green (P1 picture 3 scenes 0 SHORT; camera green
+with non-fatal N7+N8 advisories, 75 of 148 paragraphs, 3,118 words; oc
+green, three scenes, sixteen quotations; gap 8/9 with 26:12 owned as the
+split-window share — the cue is this half's, the staging is P2's; thread 3/3
+unfenced; dialogue 8/9, same ownership; P2 picture 5 scenes 0 SHORT; camera
+green with non-fatal N3+N7 advisories, 45 of 118 paragraphs, 3,077 words; oc
+green, none declared, SPLIT owns it; gap 5/5; thread fenced with effect
+published, bare scene named (What Comes Next); dialogue 5/5; thread total
+5/6 = 83% GREEN; beat, score, eyes, address, ripple, butterfly, screen,
+franchise, money green; said-count zero in both halves); check.py exit 0
+with the final GREEN and zero RED/FAIL across the battery; DESK 8.3/10.
+Drafts, unaccepted. Episode 4 stands CLOSED at 36:30; Episode 5 opens
+constable-morning for Chapter 13.
+
+Ship (O084): Part 1 / Part 2 new heads
+15LLjMOERBK4d-91fhaukLHGcR9vQBIcS / 1kaMxQRLIUeAUWYH16ONEmDEEDzajhiKm
+(40,545 / 37,195 B, md5-verified); HISTORY + REBUILD re-shipped;
+superseded Ch12 whole (1bTJvKtI8W-k_IZSD8SJxzYUiMvyy2Kqx) + HISTORY
+(1q_jYXIWIZZc5AUkvNAK7rd64fWfBZay3) + REBUILD
+(1lDTGTo1RxsDWbp7wTrPnRreiriOfrJrU) trashed after the new heads verified.
+
+## §204 — TRUE REBUILD: Chapter 13 re-derived fresh (Parts 1 + 2), marked REBUILT (2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only ship. This
+chapter stood as two draft halves with two stale wholes beneath them on the
+Drive; both halves re-derived cue by cue against the raw track and rebuilt
+in place from the derived spine — every exchange track-set, the temple
+merge and the fifteen owned cuts declared with cause, two fresh footers, no
+sentence inherited unexamined. Part 1 = B01–B20 (the constable through
+the two weddings) + TITLES; Part 2 = B21–B38 (the thali through the hunter
+at the door) + the precap + TITLES. Split law holds: shared TITLES, per-half
+footers + SPLIT rows, figures measured not inherited, the cut at B20|B21
+(12:54) — and the crossings owned: the 02:21 clock is Part 1's cue and Part
+2's staging, carried whole in the temple scene (reading 9), while the 13:35
+fixing is Part 2's cue staged in Part 1 (l.318; its reaction trimmed,
+reading 10).
+
+READ: captions/E05.hi.txt L1–L85 read cue by cue (00:00–38:34, 85 blocks,
+the season's first episode cut with no recap beside it — every line the
+track's, and the track names almost nobody); beats B01–B38 with the eight
+rulings of §2; the TITLES_SEQUENCE §I question; BF-22, BF-23, BF-70, BF-71,
+BF-72, BF-131 kept live; JOHRO and caption spelling checks (जोरो/जोरों is
+a variant, not the name — S-20 stays withheld). Rulings recorded during
+the cycle, pre-write: the Kumbh answer is Vihaan's (the family's London
+end is his, one scene with his father, the camera line last); Samir named,
+the wronged husband left Uncle; Gurinder's accusation to an empty room;
+the car, the eyelash and the contempt played as canon plays them; the
+washroom the wrong face and nobody believing her; Ananta's happiness
+written straight; Uttara's law the season's spine with Ratiq named once
+and nothing invented; the specialist Aryaman, the enemy teaching the
+audience how to kill her. No new butterflies, no new OPEN rows. DERIVE
+(spines on REBUILD row 13): the 02:21 weather-and-clock carried forward
+into the 11 a.m. temple scene with the 35:29–36:13 question-and-keemat,
+said once; B30 (the clothes) not staged, owned with cause; fourteen lines
+trimmed where their scenes' beats stand without them; B15's threat-voice
+ruled Rishabh's, logic-forced (reading 11).
+
+P1, load-bearing fixes: none in the prose — the half verified clean cue by
+cue (the constable's notebook on the bonnet l.23; Paanch-chhe at the tap
+l.70; Johro-did-not-come-back l.114; the sample ordered l.120; Purvi's
+message face-down on the cushion l.159; her boss named Aryaman once l.163;
+teen-baar l.180, the camera line l.190; six people in a four-foot passage
+l.211; Rishabh's fifty years and the twenty-five-year threat l.231–235,
+Vihaan gone for water and not hearing; I-am-really-sorry l.310; parson
+shaadi, usi mandap l.318; mithai called for l.324). The half's changes are
+footer readings 9 and 10. P2: prose verified whole scene by scene
+(pehle-kahin-dekha l.26, put back square l.30; twelve kilos at his feet
+l.71, the empty-room accusation l.73; the eyelash l.112, Understood l.132;
+the clock whole l.143–151 with the delivery problem l.153 and B07's true
+form inside Bharani's question l.145; the lecture whole l.197–264 with
+roop-taking, vardaan, century, superhero, Naagmani, spine and eye; 18:24
+verbatim l.180; the washroom l.268–284; the kechuli joke and the flake
+under the cuff l.286–290; chaar-down l.296; the pasand question l.306, the
+marriage claim l.314 denied with hands at sides l.320; the List whole
+l.323–419 with B31's happiness, B32's bad eyes and the confession l.407–
+417; the good chair l.446, the rakhiyan room l.452; the tray refused l.509,
+the bulb l.527; the laddoo, the cushion, the three-hours joke l.538–552;
+Fans alert l.564; the case opened on the veranda l.602, the barring over
+Dimple's order l.604–610, carried in l.614, the lamp out l.616). A strict
+distinctive-word audit of all 77 measured cues caught what the glue-
+tolerant matcher cannot: one un-staged beat and fourteen trimmed lines,
+all masked as whole — every one owned in reading 10. 18:24 owned as the
+tool's English-cue blind spot, verbatim on the page. Struck throughout:
+nothing in the prose; the workshop-meta sentence in WORLD's checkpoint is
+struck there, not here.
+
+Ledger amended with cause, local: WORLD's after-Ch13 checkpoint rewritten
+against the rebuilt page — its temple bullet carried a workshop synthesis
+that never belonged in the world, its Maa Sapela let the house swallow the
+barring, and it never recorded Rishabh's twenty-five-year threat, the
+delivery problem, Ratiq, the flake, the washroom, the marriage claim, the
+confession, the lecture, the chair, the tray, the bulb, or the lamp. E05_BEATS
+B15 amended with cause (the table’s ‘husband’ was the track’s unnamed mouth;
+the voice is Rishabh’s, footer reading 11).
+
+Gates: per-half battery green (P1 picture 8 scenes 0 SHORT, mean speech
+49%; camera green with a non-fatal N8 advisory, 80 of 151 paragraphs, 3,024
+words; oc green, three scenes, eight quotations; gap 23/23 with 02:21 owned
+as the split-window share — the cue is this half's, the staging is P2's;
+thread 4/8, bare scenes named (Constable, Five or Six Things, What Ananta
+Said, Organic Mehendi); dialogue 23/23; P2 picture 9 scenes 0 SHORT, mean
+speech 58%; camera green with non-fatal N7+N8 advisories, 186 of 301
+paragraphs, 6,284 words; oc green, three scenes, nineteen quotations; gap
+53/54 with 18:24 owned as the tool's blind spot, verbatim on the page;
+thread 7/10; dialogue 54/54; thread total 11/18 = 61% GREEN on the chapter
+floor; beat, score, eyes, address, ripple, butterfly, screen, franchise,
+money green; said-count zero in P2, P1's one hit the scene title, not a
+tag); check.py exit 0 with the final GREEN and zero RED/FAIL across the
+battery; DESK 8.3/10. Drafts, unaccepted. Episode 5 stands CLOSED at 38:34;
+Episode 6 opens on the morning of the sangeet for Chapter 14.
+
+Ship (O084): Part 1 / Part 2 new heads
+1MaVXmr3hS316k05EKvxeuJnjuq778ciI / 1iU6ay9voOcpR_4HK1GHe3Jf_pLCiclRW
+(32,433 / 50,073 B, md5-verified); HISTORY + REBUILD re-shipped;
+superseded Ch13 wholes (10q6_ckYS7iZi2pbehRdtO3Juoa94WGQq +
+1G2wjvdjaIf0tEtJyQraSy72ZuPyK0BZM) + HISTORY
+(1KTmofqdtfho0IGmX6ix_7Iio0nSRaPMr) + REBUILD
+(1-tQz08cWexrql45UvmG0NkijgZuYqw-K) trashed after the new heads verified.
+
+## §205 — TRUE REBUILD: Chapter 14 re-derived fresh (single file), marked REBUILT (2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only ship. This
+chapter stood as one draft file with three stale wholes beneath it on the
+Drive; re-derived cue by cue against the raw track and rebuilt in place from
+the derived spine — every exchange track-set, three prose fixes and a footer
+rebuilt line by line, no sentence inherited unexamined. Single file, no
+split: B01–B28 (the objection through *enough, guys*) + TITLES + a precap
+for Chapter 15. Split law holds across the episode boundary: Chapter 15
+carries B29–B43, per-chapter footers, figures measured not inherited, the
+cut at B28|B29 — and the shared block owned on both sides: the 22:42 cue is
+counted by both chapters, its substance Chapter 15’s, its plan-line carried
+here in the precap as a preview.
+
+READ: captions/E06.hi.txt read cue by cue in this window (00:06–22:42, 58
+blocks of the file’s 95; the season’s second episode cut with no recap
+beside it and no stills consulted); beats B01–B43 with the eight rulings of
+§2 (B29–B43 read for the boundary only); the TITLES_SEQUENCE §I question;
+BF-13/15/76/84 (R-01), BF-81 (R-02) kept live. Rulings recorded during the
+cycle, pre-write: the elder is Parmeet (§2.2); the bride’s father is
+Gurinder (§2.3); the prank phone is the cousins’ off a table (§2.4); the
+unwell woman is Dimple (§2.5); the birthday is this night, the source’s
+24th milestone kept separate from O062’s age-25 rule (§2.6); the gold
+kechuli is the born Naagrani’s alone (§2.7); his four touches carry no
+canon line (§2.8). No new butterflies, no new OPEN rows. DERIVE (spine on
+REBUILD row 14): B01’s wedding-reason restated as canon gives it (Ravish
+and the minister’s wife — the house truth under Chapter 13’s cover); the
+ledger’s masculine verbs for Maa Sapela corrected to ruling 7’s woman;
+Chapter 13’s B30-cut checked for costs here and none found owing (B01
+restates the operative fact).
+
+Load-bearing fixes, three in the prose: *Brother sahab* corrected to the
+track’s *Bhai sahab* (l.30); *Baby Penguin* struck from l.765 (the track
+coins it at 24:57, B32 — Chapter 15’s to stage, and the page had Aryaman
+say it a night early); the precap rebuilt (its warrant, fire and staircase
+match nothing in B29–B43; the chapter keeps B29’s parapet opener and
+previews the complaint, the cars, the brides, the storm and the fourth
+stage — all Chapter 15’s). The footer rebuilt line by line: RIPPLED
+re-checked (R-01 owns the prank-confession as the surviving specific event;
+R-02’s lamp struck as not-on-page; R-03 re-measured 10/16; denominators
+re-measured; RIPPLE line-refs corrected to l.42/49/56/62); CORRECTED
+re-measured (gap 38/38, PARTLY 08:43 owned as transliteration trivia);
+EVIDENCE markers 78→80 with the shared block owned; VOICE re-derived a
+third time (line numbers refreshed, the three *come on* phrases split to
+their cues); PICTURE re-measured (camera 53%, picture mean 49%); ADDED
+l.458→l.473; SEEN’s cousins’-hands softened and its twice-looking cut;
+REGISTER’s lying man corrected to the man beside him; STAGING’s bulb
+struck; palm/skin’s eight cues struck (twenty blocks); her scenes
+four→five; S-20 carried as still open (*jonron* spoken, undefined).
+Struck throughout: *Brother*, *Baby Penguin*, the warrant, the fire, the
+staircase, the lamp twice over, the lying, the twice-looking, and the
+eight.
+
+Ledger amended with cause, local: WORLD’s after-Ch14 checkpoint rewritten
+against the rebuilt page — its Gurinder knew too much, its palm was still
+empty (BUTTERFLY-2 never landed there), its skin was a strip nobody saw (a
+coin Ananta saw and let go for the night), its sentence could not be taken
+back (retracted in the same breath, and misquoted in canon order), its
+kechuli was found by unnamed people (the hunter herself, naming Ananta,
+stayed for the Naagmani), and its Vihaan clapped three times with a panel
+in his hands (he never clapped; the panel was struck from the footer on
+2026-11-14 and lived on only here).
+
+Gates: full battery green (picture 19 scenes 0 SHORT, mean speech 49%;
+camera green with a non-fatal N8 advisory, 207 of 387 paragraphs, 8,103
+words; oc green, two scenes declared, eighteen places, seven scenes with
+fourteen lines; gap 38/38 with 08:43 owned as transliteration trivia
+(10/Das, sir/sar, sorry/soree); thread 10/16 = 62% GREEN, seven named, six
+bare scenes named (Strange Coincidence, Incident, Folk Music, Under the
+Skin, Hymn Again, Message on the Table), four fenced; dialogue 37/38 with
+20:16 owned as the tool’s blind spot, verbatim l.681; beat, score, eyes,
+address, ripple, butterfly, screen, franchise, money green; said-count
+zero); check.py exit 0 with the final GREEN and zero RED/FAIL across the
+battery; DESK 8.3/10. Draft, unaccepted. Episode 6 stands open at 22:42;
+its second half is Chapter 15.
+
+Ship (O084): single-file new head
+1bjDBHz6okSAviD_sSwYbLtRXGbR9M-TF
+(63,881 B, md5-verified); HISTORY + REBUILD re-shipped;
+superseded Ch14 wholes (1qyeCms5PE-XPWtM--J27LYIjswszz_2W +
+1RylzBic5OT6xSfYuPklO1WgSBHCRzOhk +
+1bQQJ2cy9dWoKYrGzEzrjA9WuNaL5kclz) + HISTORY
+(1lqWxqNrhEq-vZbO_Jsz1ZA4vgy4mvoog) + REBUILD
+(1sdl4Axl6EWfz0InyxOBjkDB4qyfRzEJ3) trashed after the new head verified.
+
+## §206 — TRUE REBUILD: Chapter 15 re-derived fresh (two halves), marked REBUILT (2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only ship. This
+chapter stood as two draft halves with three stale wholes beneath it on the
+Drive; re-derived cue by cue against the raw track and rebuilt in place from
+the derived spine — every exchange track-set, seven prose fixes and two
+footers rebuilt line by line, no sentence inherited unexamined. Two halves,
+per the split law: Part 1 B29–B34 plus the 27:59 card head, Part 2 the
+basement head from 28:38 through B43, per-half footers, figures measured not
+inherited, the cut inside B35 — and the shared block owned on both sides:
+the 27:59 cue is counted by both halves, its card words Part 1's, its
+basement head Part 2's.
+
+READ: captions/E06.hi.txt read cue by cue in this window (22:42–36:24, 38
+blocks of the file's 95; no recap beside it — tr:6/tb:6 NO FILE — and no
+stills consulted); beats B29–B43 with §2 rulings 3 and 6 (the rest read for
+the boundary only); E07_BEATS B01–B41 read whole for the precap's grounding;
+BF-27/28/29/30 (filed), BF-84/86 (R-01), BF-81 (R-02) kept live. Rulings
+recorded during the cycle, pre-write: none new — §2 stands as Chapter 14
+left it. One butterfly filed (`BF-132`, the print on the board); `BF-96`
+amended (its five corrected, its carry cites re-pointed); no new OPEN rows.
+DERIVE (spine on REBUILD row 15): beat-quote audit B29–B43 all on the page
+after one restoration (B39's fashion line); the 30:17 caller owned as a
+voice down the shaft, speaker open; the two night clocks re-set inside
+canon's night; the precap re-grounded on E07.
+
+Load-bearing fixes, seven in the prose: the guests' scene re-timed from
+morning to two in the morning (P1 l.297) and the print room from half past
+twelve to ten minutes to two (P1 l.340) — canon plays both inside the night
+and ahead of Part 2's car; *"Yaar abba"* given back to Gurinder (P2 l.44)
+and the 30:17 caller staged as a voice down the shaft (P2 l.50), speaker
+open; B39's fashion line restored (P2 l.169); *The room waits* corrected to
+*The wind waits* (P2 l.293); the elder's English bridge corrected to Hindi
+(P2 l.295); the precap re-grounded (P2 l.316/318 — the staircase man and the
+stone hall with its throne matched nothing in E07 and are out; the sealed
+paper, the two brides, the pandit's fire, the knife in the not-a-hand and
+the sleeper are in). The footers rebuilt line by line, per half: RIPPLED
+re-checked (R-01 bites in Part 1, l.70/78/122; R-02's dupatta at l.290; R-03
+re-measured 17 and 4; R-04 no score staged in either half; RIPPLE line-refs
+corrected to l.42/49/56/62); CORRECTED re-measured (P1 gap 13/13,
+dialogue 12/12; P2 gap 20/21 with the 27:59 seam owned, dialogue 21/21 with
+30:17 staged not matched away); EVIDENCE
+split 13/7/14 and 26/16/22 with the shared block owned; VOICE re-derived
+whole (fifteen and eight — `BF-96`'s five was Part 2 short-counted and Part
+1 unlisted); PICTURE re-measured (means 57% and 45%); `ADDED` 1's third
+image struck as never-on-page (l.392 is the indicator line); SEEN, REGISTER,
+STAGING, CHANGED, DEFERRED all half-scoped; S-16, S-19 and S-20 carried as
+still untouched. Struck throughout: the morning, the midnight, the phantom
+speaker, the room, the English bridge, the staircase, the throne, the five,
+and the held carton.
+
+Ledger amended with cause, local: WORLD's after-Ch15 checkpoint rewritten
+against the rebuilt page — its father went to the channel at midnight (ten
+minutes to two, on his own errand), its priestess read a birth (birthday —
+twenty-four begun), and its hunter promised a death (qurbani and the
+naagmani). REBUILD carries the chapter in two rows, Part 1 and Part 2.
+
+Gates: full battery green on both halves (P1: picture 6 scenes 0 SHORT, mean
+57%; camera 61%, 113 of 186, 3,672 words, N8 advisory non-fatal; thread 4/4
+= 100%, 3 named, 2 fenced; oc green, 4 scenes, 13 quotations; gap 13/13;
+dialogue 12/12; P2: picture 6 scenes 0 SHORT, mean 45%; camera 51%, 75 of
+146, 2,995 words, N8 advisory non-fatal; thread 3/4 = 75%, 2 named, 3
+fenced, bare What Comes Next; oc green, 2 scenes, 5 quotations; gap 20/21
+with 27:59 owned as the seam; dialogue 21/21 with 30:17 staged; beat, score,
+eyes, address, ripple, butterfly, screen, money green both; said-count
+zero); check.py exit 0 with the final GREEN and zero RED/FAIL across the
+battery; DESK 8.3/10. Draft, unaccepted. Episode 6 CLOSED at 36:24; its next
+morning is Chapter 16.
+Ship (O084): two new heads
+127eIcpI7i94GgaZofDWotyEA5HFdecRV (P1)
+1xDN3nFfUAKw0fA7T7sz6tUY_y14DlLwc (P2)
+(36,980 + 28,677 B, md5-verified); HISTORY + REBUILD re-shipped;
+superseded Ch15 wholes (1NcqdFf6_umUaAnky9WEPvSFRHkLrr8SY +
+1hRuO1ZRfArT-wS0H8lVfhLw02t2h_mKX +
+1fMqXnt52TN6oxNx-BeZzfopZ4_ePqqMm) + HISTORY
+(1FQl1zNkuMEV9bVQ06806C4x5fCHIa96p) + REBUILD
+(1DTyZTeyqbBAdm2TWG-26ProJ11SPeXHr) trashed after the new heads verified.
+
+## §207 — TRUE REBUILD: Chapter 16 re-derived fresh (two halves), marked REBUILT (2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only ship. This
+chapter stood as two draft halves with the Episode 7 track beneath them;
+re-derived cue by cue against the raw captions and rebuilt in place from
+the derived spine — six prose fixes and two footers rebuilt line by line,
+no sentence inherited unexamined. Two halves, per the split law: Part 1
+B02–B11 (00:36–08:11, the wish through the inspector's exit), Part 2
+B12–B20 (08:11–13:31, the white car through the claim), per-half footers,
+figures measured not inherited, the cut inside B12/B13 — and the shared
+blocks owned on both sides: the 08:11 cue is counted by both halves, its
+tail and head both staged in Part 2, and the 13:31 cue is shared with
+Chapter 17, B20's claim here and B21's reed there.
+
+Canon and foundation state, pre-write: E07_BEATS B01–B41 with §2 rulings
+and §3 coverage; the caption file 70 single-line cues, one block to a
+line, 00:00:12–29:14. B01 ruled out (the voice with no face, declared in
+both footers); R-01 read with a verdict in Part 1 (Ananta's two Aryaman
+lines are her opinion plus a hypothetical blessing — BF-86's carve-out,
+not love in any register); R-02/R-03/R-04 no shapes; Part 2 out of the
+house from B12 by canon's order (ruling 2, OPEN-04, O003), so the B12–B20
+hall plays bare of him. BF-31–34 and BF-97 kept live; O049 item (i)
+verified to exist before the footers cited it (RIPPLED: none carries its
+reasons). No new OPEN rows. Two caption verdicts owned in CHANGED: the
+inspector's closing Inspector good boy (B11, 07:37) is cut — praise with
+no mouth in the hall, the exit plays on Main inko dekh lunga — and Tina's
+aside at the order (B05) is cut — the track mangles it past clean voicing
+(02:32: or everything will be hand you), its work carried in blocking.
+
+DERIVE (spine on REBUILD rows 16.1–16.2): beat-quote audit B02–B20 all on
+the page after four restorations (the exit line, the two sisters' names,
+the track's own Uski); the 02:32 line read whole (915 characters — Rishabh
+and sambhal-lunga split by a music marker, the zaroorat verified as
+Parmeet's); the order timed inside the hour after ten on the book's clock
+and B05 (02:32–03:04) on the episode's; the back-of-hall presence struck
+as impossible against the hotel at ten past twelve.
+
+Load-bearing fixes, seven in the prose: The Warrant's ending re-pointed
+from the book never there to the exit (P1 l.162 — Vihaan turns and goes
+to call the cars); the bags given back to Pinky (P1 l.173), which settles
+the brother's onto her; the gaze given back to Ananta (P1 l.328);
+Parmeet's canon Uski restored from Uska (P1 l.152); the back-of-hall
+Vihaan struck out of Kaun Ho Tum (P2 — ADDED: 4, ruling 2 and Chapter
+17's Ring Road all forbid the presence); the stray chair struck (P2
+l.267); Gurinder's cry reworded off the workshop's one prose said (P2
+l.141). The footers rebuilt line by line, per half: head paras re-timed
+and re-pointed (the folder goes out, the book stays, the client waits);
+RIPPLED re-verdict with reasons; WITNESS half-scoped (B02–B11, rulings
+1–3 and 7; B12–B20, rulings 2, 4, 7, 8 and 14); CHANGED owning both
+cuts; EVIDENCE split 17/8/10 and 13/9/14 with both shared blocks owned;
+VOICE re-derived (the chapter's two English lines in Part 1 with the
+zaroorat test, canon's two in Part 2, Wah kept, Paanch-baje-se struck);
+STAGING half-scoped with Dayal's name declared and kiraye-ka struck;
+SEEN re-pointed (the fader at the warrant; the gate and the hotel) with
+the dawn struck; ADDED-3/4 tagged BF-33/BF-32; ADDED-5 minted for the
+sagai card; ADDED re-cited with the staff card; REGISTER re-pointed with
+the microphone, the coil, the carton, the frame and the carried books
+struck; FIXED's order cite corrected (l.152–162) and its clocks
+re-pointed (hotel P2 l.68, Bargain P2 l.211); PICTURE re-measured per
+half; SPLIT keyed on Part 1. Struck throughout: the twenty-three
+minutes, the carried book, the absent client, the dawn, the knees, the
+spare microphone, the rented microphone, the carton, the hand on the
+frame, the five-in-the-morning, the hall presence, the said, and the
+chair.
+
+Ledger amended with cause, local: two butterflies filed (BF-133, the
+sagai card with the third name; BF-134, the staff card in the file);
+BF-97 corrected (its sound-table reality claim does not survive the
+rebuild — the table is on the page only at the warrant — and its
+whole-file cites re-pointed to the split); the size line corrected to
+134 entries, 125 live (BF-132 had not been counted). WORLD's after-Ch16
+checkpoint rewritten against the rebuilt page — its warrant came at
+eleven (inside the hour after ten), its Vihaan watched the name taken
+(out of the house from B12, at a hotel at ten past twelve), and its
+books went out under his arm (on the low table; only the folder goes
+out) — with the staff card, the sagai card and the meeting recorded for
+the first time. REBUILD carries the chapter in two rows, Part 1 and
+Part 2.
+
+Gates: full battery green on both halves except the one owned RED (P1:
+picture 9 scenes 1 SHORT, mean 51%; camera 54%, 95 of 176, 3,520 words,
+N8 advisory non-fatal; thread 7/9 = 78%, 5 named, bare The Wish and The
+Handcuffs; oc green, 5 scenes, 15 quotations; gap 17/17; dialogue 16/16;
+P2: picture 8 scenes 0 SHORT, mean 52%; camera 53%, 82 of 155, 2,975
+words, N8 advisory non-fatal; thread 3/8 = 38% RED WITH CAUSE — canon's
+order puts him out of the house from B12 and the struck hall line was
+Kaun Ho Tum's only carry, 2 named; oc green, 2 scenes, 7 quotations; gap
+9/9; dialogue 9/9; beat, score, eyes, address, ripple, butterfly, screen,
+money green both; said-count zero); check.py exit 0 with zero RED/FAIL
+once BF-133 and BF-134 were filed; DESK 8.3/10. Draft, unaccepted.
+Episode 7 OPEN at 13:31; B21–B41 are Chapter 17's.
+Ship (O084): two new heads
+10EdRy4LSD6e67PvI7fOAvjd0_hO_j6cg (P1)
+1LT8AA78vapRYi1wbDOryxUfM2s_SM8qk (P2)
+(51,515 + 44,132 B, md5-verified); HISTORY + REBUILD re-shipped;
+superseded Ch16 wholes (1_U2PNQ4WSb_3yzMt4dVKyhg5QEc0oMfW +
+16BP0-GGgxMmOtjme1XtZupH8iUnpfp4h) + HISTORY
+(1Qwuww0pNkPifwMrexPPJO6bLeHmR7OeO) + REBUILD
+(17vitDrpU0sN0pZXEX0evG3M_XFsqcEuz) trashed after the new heads verified.
+
+## §208 — TRUE REBUILD: Chapter 17 re-derived fresh (two halves), marked REBUILT (2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only ship.
+This chapter stood as two draft halves with the Episode 7 track beneath
+them; re-derived cue by cue against the raw captions and rebuilt in
+place from the derived spine — thirteen prose fixes and two footers
+rebuilt line by line, no sentence inherited unexamined. Two halves, per
+the split law: Part 1 B21–B35 (13:31–24:41, the weakness through the
+knife), Part 2 B36–B41 (24:41–29:14, the final plan through the lament,
+opening on the invented newsroom), per-half footers, figures measured
+not inherited — and the shared blocks owned on both sides: the 13:31
+cue is shared with Chapter 16 (B20's claim there, B21's reed here), and
+the 24:41 cue is shared between the halves (PARTLY in Part 1, FULL in
+Part 2).
+
+Canon and foundation state, pre-write: E07_BEATS B21–B41 with §2
+rulings; the chapter's 41-block window (27 music-bearing, 31 markers,
+14 speech) verified cue by cue against the file. The body read as
+Ananta's (ruling 5, declared reversible); the face read as Bharani's
+hand in Vihaan's shape with the cruelty unspoken (ruling 10, the
+author's ×3 correction); S-16 answered by canon (ruling 12 — the been
+fails because the naagin is not in the room); Dad and Tauji read as
+Ravish's and Karan's mouths (ruling 14); the dragon spoken, never shown
+(ruling 13). R-01 and R-02 touched in Part 1 with reasons; Part 2
+declares none with reasons. BF-35–BF-39 kept live. O057 untouched (no
+Rohan on the page; the brother's death stays inside the buried unnamed).
+No new OPEN rows. Five caption verdicts owned: God-meri-family cut for
+the reunion staging (cue 57 stays on the page through Trust me);
+What-the-hell reworded to Kuch-to-galat-hai; the 100%-sure cruelty
+unspoken per ruling 10; Bhai-sahab given to the constable's mouth
+(canon assigns none); B41's mock voices cut (no mouth in the hall of
+stone, the lament carries the cue).
+
+DERIVE (spine on REBUILD rows 17.1–17.2): the clock audit broke the
+draft three ways — Part 1 killed at four-to-five while its own Upstairs
+synced to the two o'clock kerb call and Part 2 swept the hall by three
+— resolved by moving Part 1 to one-to-two, against which the bulletin,
+the burial, the dragon at four and the Ring Road since four all stand;
+the calls audit found prose three against ledger two against WORLD four
+— the ledger stands, the third dialing struck, the hall dialogue
+re-pointed at the afternoon pair; kamzoti restored to kamzori; the shoes
+given one removal; the watching children reduced to the one awake;
+three has-saids reworded with the one canon I-said licensed; the knife
+found in both its places (tray before, ash after — the sweep's strike
+reversed); six frames counted on the page against four claimed in key
+and checkpoint.
+
+Load-bearing fixes, thirteen in the prose: the four killing-hours
+re-timed (P1 l.21/54/164/187); kamzori (P1 l.37); has-spoken ×3 (P1
+l.27/191/363); the awake child singular (P2 l.70); the third Shyam
+dialing struck (P2 l.80); the hall dialogue re-pointed (P2 l.252/256);
+the second shoe removal struck (P2 l.292). The footers rebuilt line by
+line, per half: WITNESS half-scoped (B21–B35, rulings 2, 5–7, 10–12,
+14; B36–B41, rulings 2, 5, 13, 14; O030 and §3b added, S-17 dropped);
+RIPPLED split (Part 1 keeps R-01/R-02 with repointed cites, Part 2
+none-with-reasons); STAGING's ash strike reversed with both placements
+cited; CHANGED's stale cruelty sentence rewritten to CHANGED-9's
+settlement, the mock cut owned; VOICE repointed with the said-license;
+every whole-chapter cite split-numbered; PICTURE re-measured per half
+with the new clocks; SPLIT keyed on Part 1; CORRECTED appended;
+four-frames corrected to six; BF-135 cited. Struck throughout: the
+four-o'clock killing, the third dialing, the morning-three-calls, the
+second shoe removal, the watching plural, the kamzoti, the three
+has-saids, the police car one back, the wet fingers, the night face,
+and the four frames.
+
+Ledger amended with cause, local: one butterfly filed (BF-135, the
+button off his placket); BF-38 and BF-98 cites split-numbered and
+BF-98's recount noted; BF-35's Ring Road corrected to the kerb; the
+size line corrected to 135 entries, 126 live. WORLD's after-Ch17
+checkpoint rewritten against the rebuilt page — eight wrongs (calls,
+police car, repeat blamed, drive ending, wet fingers, four frames,
+night face, changed woman in the room) — with the afternoon's hours
+recorded for the first time. RIPPLE's untriaged count corrected to 91.
+REBUILD carries the chapter in two rows, Part 1 and Part 2. Owed
+forward, noted not fixed: WORLD's after-Ch18 firewall still says four
+photographs (Ch18's pass owns it); the button's landing is owed
+(BF-135).
+
+Gates: full battery green on both halves with no RED (P1: picture 13
+scenes 0 SHORT, mean 38%; camera N3 42%, 79 of 188, 3,531 words,
+below-band advisory owned to the window; thread 7/10 = 70%, 4 named, 3
+fenced; oc green, 2 scenes, 6 quotations; gap 13/15 with both seams
+owned; dialogue 15/15; rescan A0, C-max 0.71; P2: picture 5 scenes 0
+SHORT, mean 52%; camera N3 48%, 76 of 157, 3,286 words, N8 choppy
+advisory owned to the night; thread 4/5 = 80%, 3 named, 1 fenced; oc
+green, 2 scenes, 10 quotations; gap 10/10; dialogue 10/10; rescan A0,
+C-max 0.77; beat, score, eyes, address, ripple, butterfly, screen,
+money green both; said-count one licensed plus zero); check.py exit 0
+with zero RED/FAIL; DESK 8.3/10. Draft, unaccepted. Episode 7 CLOSED
+at 29:14; Episode 8 opens Chapter 18.
+Ship (O084): two new heads
+1uhoUFHitzEqKWWfU43h_zsfemlMquyJZ (P1)
+1VmcNKJFaQufx60qDLSoQAsF0JPTerAeq (P2)
+(48,338 + 46,544 B, md5-verified); HISTORY + REBUILD re-shipped;
+superseded Ch17 whole (1TY3Stlo1Zbd1kJsWji7HvchCi5ELMbiF) + HISTORY
+(1mDcP8jV-yR3vb7Qcupop6rrk7WCDacBe) + REBUILD
+(1MizOnX4vRpwIH1tjeoQJiTfCijmPZDGx) trashed after the new heads verified.
+
+## §209 — Chapter 18 read whole against canon and repaired in place (two halves; 2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only
+ship. This chapter stood as two split halves with the Episode 8
+track beneath them; read whole — both bodies, both footers, both
+written updates, the ledger and the captions — and repaired in
+place from what the read found: five prose fixes and two footers
+re-pointed line by line, no cite left unexamined. Two halves, per
+the split law: Part 1 B01–B14 (00:09–13:46, the grave through the
+battle), Part 2 B15–B22 (13:46–31:15, the denial through the
+recall), per-half BASE/OC/CORRECTED, figures measured not
+inherited — and the shared evidence owned on both sides by the
+SPLIT key, with the 13:46 cue shared between the halves (PARTLY
+in Part 1, FULL in Part 2).
+
+Canon and foundation state, pre-write: E08_BEATS B01–B22 with
+B10b/B10c and §2 rulings; the chapter's 50-block window (cues
+00:09–31:15) verified against the file. The buried bride read as
+Ananta's (the book's own inversion, O041); the naming read at the
+Kumbh ground over a fire (B10 corrected 2026-11-14, the lane
+struck); the battle read shown with authored dialogue (ruling 8
+overturned); the thirteen read as faces only (R16, ruling 2); the
+sender of the hacked message left open (ruling 6); Aryaman's
+Manohar left cruel (ruling 7). R-01 declared in both halves with
+reasons. BF-36/40/45/87/88/89/92/106/107 checked live. No new
+OPEN rows. The E08 written updates found in canon/sources
+(tellyreviews + tellyboosters, 2026-01-18) and read against the
+page for the first time this pass.
+
+DERIVE (spine on REBUILD rows 18.1–18.2): the clock audit found
+the body missing the phrase six witnesses describe — narration's
+"At four" before the pickup, recorded §70 and never in doubt
+except on the page, where a later rescan had taken it out —
+restored, with the room's closing moved to four so the hour
+passes instead of contradicting; the count audit found forty
+minus eleven leaving eight, and the tent's "who are left" cut to
+what it means; the firing audit found Gyarah denying the shots
+its own powder spends and the fire scene fires — goliyan chali
+hain now; one dropped period restored. The footers' whole-draft
+line numbers, orphaned by the split, re-pointed Part by Part
+against the split files (ten cites, one OC_VIHAAN line, Part 1
+l.85 kept as it resolves); the Canon key's box, road, kul-three,
+Parmeet-order, Ravish-wedding and London-office claims corrected
+to what canon and the page actually carry; the coverage table's
+first three rows unshifted (B01–B03 to Mitti where the pit is)
+and its B12/B13 rows moved to the tent where the call is.
+
+Load-bearing fixes, five in the prose: At-four restored (P1
+l.110); the close at four (P1 l.126); the eight un-left (P1
+l.319); the fired shots (P1 l.295); the dropped period (P1
+l.331). The footers re-pointed line by line, per half: ten
+Part-scoped cites; WITNESS's TR scope widened to B10b/B10c/B14
+with O034/O041 added; ADDED's midnight corrected to three with
+the Sardar bridge owned; CHANGED's three thousand corrected to a
+raise; MONEY's eleven lines corrected to twelve; DEFERRED's
+canon-four slide corrected to the page's; the Canon key's six
+claims corrected; P2's SILENT struck (Ch17 P2 precedent — no
+silent scene in the half); P2's BASE timecode repaired. Struck
+throughout: the midnight Verma line, the unraised three thousand,
+the eleven lines, the box on the road, the kul counting three,
+the B14-only TR scope, the necklace price, the second's
+precision, the song over the lane, and the Terah Aadmi name.
+
+Ledger amended with cause, local: no butterfly filed — the pass
+found none to mint; BF-88's Ch19 yard figure corrected (four
+lakh for six); the size line stands at 135 entries, 126 live.
+E08_BEATS §3 repaired: twenty-four beats (not twenty-five) in
+the two named part files; rows 1–3 rebuilt, B08–B09 de-boxed,
+B10–B10b renamed, B11 de-sung, B12/B13 re-homed to Adhoora Call,
+B18's necklace set right, B20's second minuted; one
+original-staging row added for the hall, the register and the
+report. MONEY's six Ch18 cites re-pointed to Part 2 with two
+glosses corrected (chaar lakh is the set's price, ek lakh the
+unrecovered bill). WORLD's after-Ch18 checkpoint rewritten
+against the rebuilt page — five wrongs (lane staging, grass
+spectacles, the unsaid word, four photographs, the watchman) —
+with the six-month jump recorded for the first time. RIPPLE's
+untriaged count stands at 91. REBUILD carries the chapter in two
+rows, Part 1 and Part 2. Owed forward, noted not fixed: the
+button's landing is owed (BF-135).
+
+Gates: full battery green on both halves with no RED (P1: gap
+20/21 with 10:14 owned; dialogue 17/22; thread 7/8 = 88%; oc
+green; money green; eyes 0 verdicts; ripple R-01; P2: gap 28/29
+with 21:32 owned; dialogue 28/29; thread 7/10 = 70%; oc green;
+money green; eyes 0 verdicts; ripple R-01; picture, camera,
+score, clock green both); check.py exit 0 with zero RED/FAIL;
+DESK 8.4/10. Draft, unaccepted. Episode 8 CLOSED at 31:15;
+Episode 9 opens Chapter 19.
+Ship (O084): two new heads
+1Nja1lGKvBuCan7KYuKSzkxpwe7kyb4Ia (P1)
+1m0biZk3269djfFO8uYL5bvjxDWjT8aWc (P2)
+(59,127 + 55,288 B, md5-verified); HISTORY + REBUILD re-shipped;
+superseded Ch18 whole (1jYkip-PXHJf8JINvaGVQIAMwwz_XzMHB) + HISTORY
+(1c9-sV8aHpRq3bgYARHU57U1OAUjRHUET) + REBUILD
+(1uJnjCBKAw9XZc1pChQ4WDGaDJmnVlp4U) trashed after the new heads verified.
+
+## §210 — Chapter 19 read whole against canon and repaired in place (two halves; 2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only
+ship. This chapter stood as two split halves with the Episode 9
+track beneath them; read whole — both bodies, both footers, the
+written update, the ledger and the captions — and repaired in
+place from what the read found: eight prose fixes, the card
+re-set as the first day’s close, and two footers re-pointed line
+by line, no cite left unexamined. Two halves, per the split law:
+Part 1 B01–B16 (00:04–23:46, the riverbank through the
+invitation), Part 2 B17–B24 (23:46–37:45, the figures through
+the vow), per-half BASE/OC/CORRECTED, figures measured not
+inherited — and the shared evidence owned on both sides by the
+SPLIT key, with the 23:46 seam block shared between the halves.
+
+Canon and foundation state, pre-write: E09_BEATS B01–B24 with
+the §3 placement table, §4 coverage and ruling 6 (canon’s
+returning brother is Vihaan); the chapter’s 93-block window
+(cues 00:04–37:45) verified against the file. The pair read
+Vihaan-substituted (O044/BF-84/BF-86); the price read
+twice-spoken (BF-83); the money read forty-lakh-owed-twice
+(O048/BF-88); the card read a day-close, not a precap (BF-80).
+R-01 declared in both halves with reasons. BF-47/48/49/50/73
+through 77/80 through 88/100 checked live. No new OPEN rows.
+The E09 written update (tellyreviews 2026-01-24: the Airul
+ten-day deadline, Ahana’s arrival, the Saphera–Bharani–Ananta
+end) read against the page for the first time this pass.
+
+DERIVE (spine on REBUILD rows 19.1–19.2): the read found the
+page sound and its furniture stale — the prose needed eight
+touches and the footers needed re-pointing Part by Part. The
+gender audit found Vihaan promising in the wrong voice and he
+promises in his own now; the vowel audit found refusal and hate
+misspelled and both spelled now; the weather audit found noon
+sun misheard as a drum and it shines now; the mirror audit
+found the list naming the sister the room must not name, and
+the list names the brother now; the phone audit found the
+pocket’s history contradicting the six months, and the phone
+was left when he left; the count audit found twenty short
+against thirteen on every side of it, and thirteen stand now;
+the card audit found the book’s last word standing on a season
+that ran past nineteen chapters, and the card closes the first
+day now. The footers’ whole-draft line numbers, orphaned by
+the split, re-pointed Part by Part against the split files;
+Part 1’s BASE narrowed to this half (00:04 to 23:46, B01–B16)
+with the seam owned, its English inventoried line by line with
+the track’s order kept against the page’s; Part 2’s SPLIT key
+written fresh, its OC/SILENT/FENCE declared (two fenced), its
+WITNESS widened to O046, its MONEY read off the page in five
+figures, its RIPPLED carries keyed, its CORRECTED re-verified.
+
+Load-bearing fixes, eight in the prose: doonga (P1 l.258);
+mana (P1 l.203); dhoop (P1 l.340); Terah kam (P1 l.262); the
+phone left (P1 l.72); Rohan (P2 l.180); nafrat (P2 l.252);
+badle (P2 l.337); and the card re-set (P2 l.382/390/392). The
+footers re-pointed line by line, per half: Part 1’s BASE,
+EVIDENCE, VOICE, WITNESS, STAGING, PICTURE, MONEY, RIPPLED,
+CORRECTED, CHANGED, ADDED, DEFERRED and FIXED; Part 2’s
+SPLIT, OC, SILENT, FENCE, BASE, EVIDENCE, VOICE, WITNESS,
+STAGING, PICTURE, MONEY, RIPPLED, CORRECTED, CHANGED, ADDED,
+DEFERRED and FIXED. Struck throughout: the London pocket,
+the twenty short, the mirror Ananta, the noon drum, the
+book’s-last-word card, the whole-draft cites, the B01–B12
+BASE, the 24:00 approximation, and the yaqeen close.
+
+Ledger amended with cause, local: no butterfly filed — the
+pass found none to mint. FORWARD’s BF-82 row struck of its
+stale ch19 claim (withdrawn rows pay nothing and cite
+nowhere — the clock’s FC2 goes green on the ledger, not the
+page). BUTTERFLY amended: BF-83 re-pointed (Pinky reports at
+the panel, Parmeet prices at two); BF-85 corrected (the
+midnight room, not the love-story told wrong); BF-80 amended
+(the day’s close, not the book’s). MONEY’s five Ch19 cites
+keyed to the split halves. OC_VIHAAN’s door-beat and mirror
+cites re-pointed (P1 l.299; P2 l.170). E09_BEATS §3/§4
+re-pointed to the split files with per-half figures. WORLD’s
+after-Ch19 checkpoint re-verified against the rebuilt page —
+four wrongs (the count, the mirror list, the bag, the
+sendings) and one precision (the channel’s register); the
+size line stands at 135 entries, 126 live. RIPPLE’s
+untriaged count stands at 91. REBUILD carries the chapter in
+two rows, Part 1 and Part 2. Owed forward, noted not fixed:
+the button’s landing is owed (BF-135).
+
+Gates: full battery green on both halves with no RED (P1: gap
+42/51; dialogue 49/51; thread 7/8 = 88%; oc green; money
+green; eyes 0 verdicts; ripple R-01 to R-04; P2: gap 24/26;
+dialogue 25/26; thread 6/6 = 100% with 2 fenced; oc green;
+money green; eyes 0 verdicts; ripple R-01; picture, camera,
+score, clock green both; rescan A0/B0 with C-max 0.71);
+check.py exit 0 with zero RED/FAIL; doctor 12 green. Draft,
+unaccepted. Episode 9 CLOSED at 37:45; Episode 10 opens
+Chapter 20.
+Ship (O084): two new heads
+1bwMgHHpzl7DfMj_UJanolO4iFsR8gbEh (P1)
+14Sm9jLgolKmfM-rlqgtETyG-jmQE2ZCu (P2)
+(36,940 + 32,363 B, md5-verified); HISTORY + REBUILD re-shipped;
+superseded Ch19 whole (16wgvs5GemiPuDiZ5JW2Ys9AdGX4Bs8gT) + P1
+(14KXNOMU1M77N5U6zx-tLS6REMUZ8wkgH) + P1 (1uguhdmA_FGgQ78G6q-sLckQRfyxRJBHX)
++ P2 (1bPDMb3i1PDmHreTYJkwQmk4zc-WiziEG) + P2 (1vCdwC6UM0DMT2_3dyN-wllSXqH13QchM)
++ P2 (1LWhDphLs6oOw_GBpmJaOKg-4ACTM4h5g) + HISTORY
+(14cZiFZU-Ls-wV25g4E4GOWUXGdWbcK5R) + REBUILD
+(1bgUvILkRvPd9_mxyLVFMb4C0p8IdIIKO) trashed after the new heads verified.
+
+## §211 — Chapter 20 read whole against canon and repaired in place (whole; 2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only
+ship. This chapter stands whole — Episode 10 in one chapter, ten
+scenes, no split — with the track beneath it; read whole, body
+and footer, both written updates, the ledger and the captions,
+and repaired in place from what the read found: ten certain
+prose fixes, five answered queries, one two-line canon
+restoration, and the footer and ledger re-pointed, no cite left
+unexamined. Whole-chapter BASE/OC/CORRECTED, figures measured
+not inherited; B25 omitted from the draft and owned, B27 kept
+out per the ledger.
+
+Canon and foundation state, pre-write: E10_BEATS B01–B27 with
+§2 rulings and the location repair standing (the captions do
+not name him, neither update places him, and he is never at
+Sameer's house); the chapter's 115-block window (cues
+00:05–37:32) verified against the file. The flirtation read
+Vihaan-targeted (B06–B09 rederived, no bump, no photo, no
+breakdown); the warning read general (B07, no Radhika in the
+track); the two-places question read without its taunt (R-01);
+the cameras read two-dead with the rest unresolved (O058).
+R-01 through R-04 declared with reasons. BF-81 paid (the jaw);
+BF-106's tape standing; BF-114 held and absent. No new OPEN
+rows. Both E10 written updates (tellyreviews 2026-01-25,
+tellyboosters 2026-01-26) read against the page for the first
+time this pass.
+
+DERIVE (spine on REBUILD row 20): the read found a green page
+with stale furniture and tired vowels. The script audit found
+Devanagari still on the page after the sweep claimed it gone,
+and an ASR name copied letter for letter, and both read Latin
+now. The vowel audit found the cave misspelling its master and
+its trembling and its errand, and the lawn misspelling a
+steadying hand, and all spelled now. The grammar audit found
+what he saw written as what he showed, and honorific sense
+written as its opposite, and both straight now. The address
+audit found the track's Sona normalised to Swarna at the
+wrist-grab, and Sona stands now. The continuity audit found a
+drawer shown from London, and it was shown before he left.
+The naming audit found the bulletin remembered by Someone,
+and Baljeet remembers now. The tense audit found the pass's
+own new sentence breaking present tense, and camera_check
+caught it the same hour. The gap audit found 62/66 whole with
+two PARTLYs owned, two misses owned, and one spurious match
+disowned: 14:06's revenge words are not on the page and their
+speaker stays unassigned.
+
+Load-bearing fixes, fifteen in the prose: the Latin (l.501/
+505); Ahana (l.483); Guruji (l.27/31/35/45); kampta (l.43);
+keh do (l.33); kanpaao (l.71); Sona (l.317); saanth (l.325);
+dekha hai (l.339); chadhengi (l.361); the drawer (l.167);
+theek hona (l.353); Baljeet (l.459); the fingers on the pen
+(l.21); and the sorry with its it's-okay (l.109–111). The
+footer re-pointed: STAGING owns six adaptations (the muhurat
+to Parmeet, Karan's suspicion, the shoe's ek, Sameer's saanth,
+Tina's nineteen, the floor's English); CHANGED owns the ring-talk
+re-homed; CORRECTED re-verified with true figures. Struck
+throughout: the Devanagari, the ASR name, the double vowels,
+the shown sight, the mis-honorific car, the London showing,
+the Someone, the snatched-back pen, and the 65/66 claim.
+
+Ledger amended with cause, local: no butterfly filed — the
+pass found none to mint. E10_BEATS §3/§4 re-pointed past §89
+(three OC scenes with his turns, one original scene, both
+audits green — the 2026-11-14 conflict note superseded).
+OPEN's Chapter 20 line re-pointed the same way. MONEY's lakh
+row gains the shoe (Ch20:59), the chapter's sole figure. The
+size line stands at 135 entries, 126 live. RIPPLE's untriaged
+count stands at 91. REBUILD carries the chapter in one row.
+Owed forward, noted not fixed: the button's landing (BF-135);
+27:15 unassigned; O058 open on the cameras.
+
+Gates: full battery green with no RED (gap 62/66 whole with
+33:42 and 36:41 PARTLY, both owned; dialogue 68/70; thread
+3/3 = 100%; oc green; money green; eyes 0 verdicts; ripple
+R-01 to R-04; picture, camera, score, clock, beat,
+original-scene green; rescan A0/B0 with C-max 0.73);
+check.py exit 0 with zero RED/FAIL. Draft, unaccepted.
+Episode 10 CLOSED at 37:32; Episode 11 opens Chapter 21.
+Ship (O084): one new head
+1e811kp7-ZC1tH4fWjXtJgomk1GRsshzj (Ch20, whole)
+(42,709 B, md5-verified); HISTORY + REBUILD re-shipped;
+superseded 19 Ch20 copies (1Gs-EhkITM8chycSQCpTeVK5w5kbCV8wH,
+1VBUulfBoINkwWaN5ZnyOHnktTXeSjwTR, 1_8WmGiZ4WnVbyDt142onn6BHAv_XLTg8,
+1vkVNqERBbPuXXoM0xtkno30KNz62Rhj9, 1y7BPQJ6HbA6WXJ_fQAOiwIbZsFD4oFQe,
+1YXIm3zHlM8_tsWrGUKtvFvPHrxasarB9, 1j2SFGbQGQNmk7Bx_yUUwmkrJrj4KAlJ6,
+1UDiz0JypaYm1D3OsLboxOtJIdMDz9AVj, 1R_RpWE71Il2hMr0l8YohSd74N7UgJkB6,
+1TYK5xxdQ_vqC0sWs0qmi92EIzVkgaCjt, 1anK2QJzjPcBazgI2hTw07QEmfZMjog0K,
+1DU9QsAa9jIGf5VFXPfPSStN2DuYPitS3, 1LPOmUm8WsdV8MypFNUfaA17HcVLYigOs,
+1cfYEAZbtMp502diYXZq-qcHgIEfrsa9L, 1zqQDuaX7Lr4IEZmzmuTTUUzlONrENDCP,
+1GNuAgOwosKAeluusZ_xunK7mnAixs2I9, 1UKXjVzfC7aneuj2rIAR0pjId1_QA5j7C,
+1esUejK_3zq27zfFt-D97VosK7hp2mFel, 1Cm1KpGq9A7m-wAYeER0k1x_6DCFm4qok)
++ HISTORY (1uL8MN2uvyM9Uq9iWCIidB9k11NhyaIvq) + REBUILD
+(18JR7MpWKUz9m0cVC0GELHg63c2SxAEzr) trashed after the new heads verified.
+
+## §212 — Chapter 21 read whole against canon and repaired in place (whole; 2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only
+ship. This chapter stands whole — Episode 11 in one chapter,
+fourteen scenes, no split — with the track beneath it; read
+whole, body and footer, both written updates, the ledger and
+the captions, and repaired in place from what the read found:
+sixteen certain prose fixes, five footer fixes, two ledger
+proofs, and one struck orphan, no cite left unexamined.
+Whole-chapter BASE/OC/CORRECTED, figures measured not
+inherited; B08's handoff and all of B09 stay off-page per
+O065, the recording standing for Chapter 22.
+
+Canon and foundation state, pre-write: E11_BEATS B01–B11
+with the B09 narrow speaker finding standing (official
+upload sampled 24:23–24:33, local ASR supporting the
+childhood-friend meaning, no human listen, no diarization);
+the chapter's 79-block window (cues 00:00:10–00:37:23)
+verified against the file. The dance read unstaged-intent
+(TB's deliberate-trap claim unattributed, per the ledger);
+the jeep's questioner read neutral (B10 ambiguity held);
+the pool night read off-page with its recording existing
+(O065); Aryaman's wedding-day past read established
+(CHARACTERS §4, TIMELINE, E06 B15/B42 — Radhika, unnamed
+in E11). R-01 through R-04 declared with reasons. No new
+OPEN rows. Both E11 written updates (tellyreviews and
+tellyboosters 2026-01-31) read against the page for the
+first time this pass.
+
+DERIVE (spine on REBUILD row 21): the read found a green
+page with wrong mouths. The speaker audit found the noon
+dispute giving Vikram's stand to its target, the coda's
+bride claiming her groom's no-show, the wife-figure's
+planning speech in the husband's mouth with its pronouns
+and genders flipped and its *nahin* dropped, the jeep's
+honey-flirt in a man's mouth, Tina's grief in Dimple's —
+and an invented Parmeet sentence and an invented Aryaman
+sentence sitting inside staged canon dialogue, both cut.
+The register audit found Pinky tutoiing her *aap*-brother
+and Vikram *tum*-ing his *tu*-friend. The wording audit
+found a life sentence softened to punishment, a talent
+show ungrammared, and a mongoose anglicised out of a Hindi
+list. The restoration audit found Aryaman's stakeout past
+dropped (the car, the husband, the wedding-day leaving —
+the motive for his allergy, his *nafrat*, his vow), Tina's
+objection halved, the *Shivam baby* taunt gone, and *main
+naagin* folded into the wrong scream. The footer audit
+found three scenes where five stand, an unpaid claim the
+ledger shows absorbed, a gate interaction from another
+chapter, a Bharani form never assumed, and Ahana lifting
+Pinky's water. O085 governed throughout: every mouth
+decided from aired evidence and the book's own facts, no
+question frozen back to the author, the two hard proofs
+written in the ledger.
+
+Load-bearing fixes, sixteen in the prose: Vikram's stand
+(l.349); the Pinky coda with its chase (l.361–377); the
+*bhi* and the *achanak se* (l.387); the stakeout past
+(l.411); *aapki* (l.413); *tere* sorry (l.425); Tina whole
+and Dimple captioned (l.555/557); *umar qaid* (l.345);
+*Story's got talent* (l.129); *Nevla* (l.517); the woman
+in uniform (l.685); Sameer's pointing finger (l.655); the
+wife's speech with its *nahin* (l.709–713); the *Shivam*
+taunt (l.717); the split scream (l.719/721); and the two
+cuts (the Parmeet sentence, the Aryaman sentence). The
+footer re-pointed: five scenes with five events, BF-56
+scoped to this chapter, the gate struck, the form struck,
+Pinky lifting her own water, CORRECTED re-verified at
+C-max 0.97. Struck throughout: the wrong mouths, the
+wrong registers, the softened sentence, the *is got*,
+the mongoose, the man, the pointing stranger, the
+husband's speech, the dropped *nahin*, the missing taunt,
+the merged scream, the two inventions, the count of three,
+the gate, the form, and the wrong lifter.
+
+Ledger amended with cause, local: no butterfly filed — the
+pass found none to mint. E11_BEATS gains two workshop
+readings with their proofs (B05: the Pinky coda —
+possessives plus TB's claim plus TR's *let's see*;
+B11: the wife-voice speech — first person, feminine,
+married-to-the-minister — with *Shivam* staged and left
+unresolved, canonized nowhere). WORLD strikes the
+orphaned 2026-11-19 Chapter 20 reconstruction the §211
+insert left standing above the §211 block. The size line
+stands at 135 entries, 126 live. RIPPLE's untriaged
+count stands at 91. REBUILD carries the chapter in one
+row. Owed forward, noted not fixed: the button's landing
+(BF-135); 22:35 unassigned; O058 open on the cameras;
+*Shivam* — name or pet-name — unresolved.
+
+Gates: full battery green with no RED (gap 66/67 with the
+22:35 anjaam line outside the B08 selection, speakers
+unidentified, standing; dialogue 66/66; thread 9/14;
+oc green; money green; eyes 0 verdicts; ripple R-01 to
+R-04; picture, camera, score, clock, beat,
+original-scene green; rescan A0/B0 with C-max 0.97, the
+three near-verbatim runs owned as restoration);
+check.py exit 0 with zero RED/FAIL. Draft, unaccepted.
+Episode 11 CLOSED at 37:23; Episode 12 opens Chapter 22.
+Ship (O084): one new head
+16Ctlaycem4zTqPu5dLkpzokUaE-4fuPn (Ch21, whole)
+(48,006 B, md5-verified); HISTORY + REBUILD re-shipped; no
+stale Ch21 copies in the workshop folder (the Room file
+1jdX3etkty-I8XLzpx1CGruIeTbl3kd92 is no-touch); HISTORY
+(1_ZDuZkelOqUytzEK9mBUYXOdmExCfHP6) + REBUILD
+(1ebfzkUQUAR7N9AvVVnQGe-PSJJcBGWyi) trashed after the new heads verified.
+
+## §213 — Chapter 22 read whole against canon and repaired in place (whole; 2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only
+ship. This chapter stands whole — Episode 12's first span in
+one chapter, thirteen scenes, no split — with the track
+beneath it; read whole, body and footer, all four written
+updates, the ledger and the captions, and repaired in place
+from what the read found: one prose rewrite, two footer
+fixes, two ledger proofs, and one struck stale checkpoint,
+no cite left unexamined. Whole-chapter BASE/OC/CORRECTED,
+figures measured not inherited; B10 omitted as unattributed,
+B16–B26 belong to Chapter 23.
+
+Recon: local chapter 457 lines / 35,523 bytes; `E12_BEATS`
+303 lines; `E12.hi.txt` 101 blocks through 00:35:38; TR, KB,
+JSB, BT updates read whole. Drive recon: sole stale head
+(the Room file 1oam_2t06HM7FknxSt5JkkNf4KCT-PBHb, 2026-11-05,
+same `chapters`-folder mismatch, unresolved, no-touch).
+
+Battery 12/12 GREEN (gap 33/34 with PARTLY 04:20 declared;
+dialogue 34/34; thread; oc; picture; camera 4,380w; money;
+eyes; ripple with 91 still untriaged; score 0 faults; beat 13
+scenes; original_scene). Clock GREEN. Cite E12: 28 stamps
+00:04–15:40. Check GREEN. Rescan at open: A1 (L351),
+C-new=10, C-max 0.77.
+
+The read's findings, spec `specs/ch22_spec.md`: **C1**
+Parmeet's resolve spoke Ahana's E17 B04 captioned line
+verbatim (`E17_BEATS` B04; absent from E12 captions; Ch28
+stages the true line) — rewritten to `Aur unke hisse—sirf
+maut`, A1 to A0. **F1** STAGING called Vincent standing —
+repo-wide grep names him nowhere before Ch22, and Ch13 holds
+no Vincent and no London call — footer now declares the
+first naming. **F2** CORRECTED recorded the close sweep.
+**L1** ORIGSC row 22 declares it. **L2** BF-65's Lands
+(`Vincent's calls in Chapter 13`) corrected — the catch is
+Ch11, the caller unnamed there; the London line from Ch22
+on finds a man who has already chosen once.
+
+Run1: chapter 2 + ORIGSC 1 + BUTTERFLY 1 (35,523 to 35,618
+B). Run2: CORRECTED note (35,776 B). Post-battery 12/12
+GREEN, clock GREEN, check GREEN, rescan A0 C-max 0.77.
+Close: WORLD Ch22 checkpoint replaced (struck the 2026-11-19
+reconstruction), REBUILD row 22, this §213.
+
+E12 half-closed B01–B15 at the verdict; B16–B26 open Chapter
+23. BF-116 paid in full (the report-back); BF-115 preparation
+shown, its access, result and cost owed to Ch23.
+
+Ship (O084): one new head
+17tHTIVt3vkC_gfNijUEk36-GN4LMOaCx (Ch22, whole)
+(35,776 B, md5-verified); HISTORY + REBUILD re-shipped; no
+stale Ch22 copies in the workshop folder (the Room file
+1oam_2t06HM7FknxSt5JkkNf4KCT-PBHb is no-touch); HISTORY
+(1yI5xO9zasUr7DfogWDEL-_7JXX19T4Cp) + REBUILD
+(1Q0e_oDv5KSTRiIYV7oqY5MnunnSWbbQx) trashed after the new heads verified.
+
+## §214 — Chapter 23 read whole against canon and repaired in place (whole; 2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only
+ship. This chapter stands whole — Episode 12's second span in
+one chapter, sixteen scenes, no split — with the track
+beneath it; read whole, body and footer, all four written
+updates, the ledger and the captions, and repaired in place
+from what the read found: two prose fixes and three footer
+fixes, no cite left unexamined. Whole-chapter BASE/OC/CORRECTED,
+figures measured not inherited; B26 recap-only TR/TE, its
+purpose unstated and E13's 'cannot escape' unimported.
+
+Recon: local chapter 633 lines / 45,101 bytes; `E12_BEATS`
+303 lines; `E12.hi.txt` 101 blocks through 00:35:38; TR, KB,
+JSB, BT updates read whole. Drive recon: sole stale head
+(the Room file 1TA6rC-d1c-8yBljIIQdav8iGMuALroDT, 2026-11-05,
+same `chapters`-folder mismatch, unresolved, no-touch).
+
+Battery 12/12 GREEN (gap 35/36 with 35:24 declared on v/w
+drift; dialogue 36/37; thread 10/10; oc; picture; camera
+5,707w; money; eyes; ripple with 91 still untriaged; score 0
+faults; beat 16 scenes; original_scene). Clock GREEN. Cite
+E12: 28 stamps 15:40–35:38. Check GREEN. Rescan at open: A0,
+C-new=25, C-max 0.77.
+
+The read's findings, spec `specs/ch23_spec.md`: **C1** L29
+swapped the caption's word (`hungama` for 15:40's `gadbad`;
+L333 keeps it) — restored, C-max to 0.79 on the staged
+apology. **C2** L349 gave Dimple's mehendi-artist line to
+Pammi — TE and KB name Dimple, none names Pammi — reassigned,
+Pammi keeping the unattributed `bachchon`. **F1** VOICE gains
+the three invented speakers (Baljeet's B18 laugh, Parmeet's
+`sanskari` beam, the B21 split). **F2** STAGING declares the
+mirror's green-and-gold authored (TR/TE report the reflection
+only). **F3** CORRECTED recorded the close sweep with the new
+C-max. No beats errors, no ledger changes: the FORWARD rows
+already sign the ch23 payments.
+
+Run1: chapter 4 (45,101 to 45,382 B). Run2: CORRECTED note
+(45,529 B). Post-battery 12/12 GREEN, clock GREEN, check
+GREEN, rescan A0 C-max 0.79. Close: WORLD Ch23 checkpoint
+replaced (struck the 2026-11-19 reconstruction), REBUILD row
+23, this §214.
+
+E12 CLOSED at 35:38; E13 opens Chapter 24. BF-115 paid in
+full (access, result, cost; the note amended, the decision
+bound to the wedding fires); BF-116 paid in full (Parmeet's
+counsel; errand closed); BF-117 entries shut, its decision-
+effect owed before the Ep15 marriage.
+
+## §215 — Chapter 24 read whole against canon and repaired in place (split; 2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only
+ship. This chapter stands split — Episode 13 entire in two
+halves, eighteen scenes, the track beneath them — read whole,
+body and footer of both parts, all four written updates, the
+ledger and the captions, and repaired in place from what the
+read found: one prose fix and two footer fixes, no cite left
+unexamined. Split-chapter BASE/OC/CORRECTED per half, figures
+measured not inherited; the E12-tail replay stays out
+(Chapter 23's Powder stands); E14 unread.
+
+Recon: local parts 410 lines / 34,649 bytes + 463 lines /
+44,443 bytes; `E13_BEATS` 320 lines; `E13.hi.txt` 82 blocks
+through 00:31:54; TR, TB, KB, TOI updates read whole (TOI ends
+B16). Drive recon: one stale whole (2026-11-19, 50,738 B) plus
+the Room file (2026-11-05, no-touch).
+
+Battery 12/12 GREEN both halves (P1 dialogue 28/30, gap 27/28
+with 00:16 PARTLY + three stands, all declared; P2 dialogue
+27/27, gap 26/27 with 20:03 false-neg declared; thread; oc;
+picture; camera; money; eyes; ripple; score 0 faults; beat;
+original_scene). Clock GREEN. Cite E13: 44 stamps 00:00–31:54.
+Check GREEN. Rescan at open: P1 A0 C-new9 C-max 0.77; P2 A0
+C-new3 C-max 0.74.
+
+The read's findings, spec `specs/ch24_spec.md`: **C1** P2's B21
+gave Aryaman's captioned self-blame to the house ("ye ghar le
+dooba" for 26:41's "maine khud barbaad kar li"; B21 quotes it,
+KB/TB agree) — restored with an emphatic 'hi', which also
+breaks the beats-echo the bare restoration flagged (A0 bar per
+the L-39 precedent). **F1** STAGING's garble list gains seven
+carries (B04 fauran, B06 taaj, B07 naata, B10 sehra, B12 betal-
+drop, B14 middle-drop, B15 Daan as-tracked). **F2** VOICE B13
+gains Pammi's beam (pyaar softened to pasand). **F3** CORRECTED
+recorded each half's close sweep with its C-max. No beats
+errors, no ledger changes: the FORWARD rows already sign the
+ch24 payments.
+
+Run1: two files, five edits (C1 + F1 + F2 both halves). Run1b:
+the 'hi' (A0/B0 restored). Run2: CORRECTED notes. Post-battery
+12/12 GREEN both halves, clock GREEN, check GREEN, rescan P1
+A0 C-max 0.77, P2 A0 C-max 0.74. Close: WORLD Ch24 checkpoint
+replaced (struck the 2026-11-19 reconstruction), REBUILD row
+24, this §215.
+
+E13 CLOSED at 31:54; E14 opens Chapter 25. BF-13 paid in full
+(the whisper; horizon met); BF-117 paid in full (the sitting
+altered; three entries shut); BF-112's marriage paid, its four
+costs running; BF-118 born (the question with an address);
+BF-81 and BF-56 paid; BF-115 dormant on the wedding day;
+O064's onset now owed.
+
+## §216 — Chapter 25 read whole against canon and repaired in place (whole; 2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only
+ship. This chapter stands whole — Episode 14 entire in one
+chapter, sixteen scenes, no split — with the track beneath it;
+read whole, body and footer, all four written updates, the
+ledger and the captions, and repaired in place from what the
+read found: two prose fixes and four footer fixes, no cite left
+unexamined. Whole-chapter BASE/OC/CORRECTED, figures measured
+not inherited; E13's closing vow stays out (Chapter 24's
+Brought Home stands); E15 unread, no precap imported.
+
+Recon: local chapter 547 lines / 49,287 bytes; `E14_BEATS`
+183 lines; `E14.hi.txt` 64 blocks through 00:27:35; TR, TB,
+KB, TOI updates read whole (TOI ends B10). Drive recon: one
+same-day chapter_25.md on Drive (57,099 B — unrelated xianxia
+draft, no-touch) plus Room-era files (no-touch).
+
+Battery 12/12 GREEN (dialogue 47/51 with four stands declared;
+gap 51/51 with 06:24 PARTLY declared; thread; oc; picture;
+camera; money; eyes; ripple; score 0 faults; beat;
+original_scene). Clock GREEN. Cite E14: 23 stamps 00:05–27:35.
+Check GREEN. Rescan at open: A0/B0, C-new18, C-max 0.77. FIXED
+§§107–111 verified in prose: no dagger/dand/hanging/death-
+press anywhere in B09–B13, precedents Bela/Shesha/Vani with
+Shivanya only in dated history.
+
+The read's findings, spec `specs/ch25_spec.md`: **C1** B05's
+dread dropped Aryaman's name ("Dekh liya usne" for 10:32's
+named line; B05 quotes it) — restored, keeping the stutter
+off the beats-quote. **C2** B04's torch carried an undeclared
+'army-issue' pointing it at B07's military across beats, with
+nothing built on it — stripped. **F1** OC/FENCE left two
+scenes unaccounted (prose claims four): The Feed joins OC with
+its silence owned under SILENT: (OC11 fired mid-pass; Ch18/
+Ch19 convention), The Mines joins FENCE. **F2** STAGING gains
+six carries (B03 poochho→bhool + Aryaman-clause dropped, B04
+06:49 filler dropped, B06 pel-se dropped, B07 KB's military,
+B13 munh→ise + bhai dropped). **F3** the single-witness
+sentence reworded (TOI's dagger held, not staged). **F4**
+CORRECTED recorded the close sweep with the C-max. No beats
+errors, no ledger changes: the FORWARD rows already sign the
+ch25 payments.
+
+Run1: ten edits (C1 + C2 + F1 + F2 + F3); one CROSS refusal
+re-anchored. Run2: CORRECTED note. Run3: the SILENT: row
+(OC11 → GREEN). Post-battery 12/12 GREEN, clock GREEN, check
+GREEN, rescan A0/B0 C-max 0.77. Close: WORLD Ch25 checkpoint
+replaced (struck the 2026-11-19 reconstruction), REBUILD row
+25, this §216.
+
+E14 CLOSED at 27:35; E15 opens Chapter 26. BF-119 paid in full
+(the embrace formed and found; O069's onset staged); BF-112's
+costs running with the instrument owed forward; BF-118 held
+unasked; BF-121/122 live (card unspent, glimpse filed);
+BF-115/120 dormant; the wipe quest owed E15+.
+
+## §217 — Chapter 26 read whole against canon and repaired in place (split P1/P2; 2026-11-21)
+
+Author order (rewrite_first, standing since §194): no split-only
+ship. This chapter stands split, Part 1 (B01–B14) and Part 2
+(B15–B25), each half read whole with the track beneath it —
+body and footer, all three written updates, the ledger and the
+captions — and repaired in place from what the read found: one
+prose fix and ten footer fixes across the halves, no cite left
+unexamined. Split-chapter BASE/OC/CORRECTED per half, figures
+measured not inherited; E14's closing order stays replay-
+bridge (Chapter 25's Smriti stands); E16 unread, no precap
+imported.
+
+Recon: local P1 552 lines / 55,946 bytes, P2 527 lines /
+52,260 bytes; `E15_BEATS` 461 lines (B01–B25 plus §2); the
+E15 caption track 77 blocks through 00:32:34; TR, TB, JSB
+updates read whole (no TOI/KB account exists). Drive recon:
+one same-day chapter_26.md on Drive (32,836 B, unknown
+folder — unrelated xianxia draft, no-touch) plus the Room-era
+file (no-touch).
+
+Battery 12/12 GREEN both halves (P1 gap 34/34, dialogue
+34/34; P2 gap 34/34, dialogue 34/34; thread; oc; picture;
+camera; money; eyes; ripple; score 0 faults; beat;
+original_scene chapter-level via Where She Was — the per-file
+P2 RED is the known split artifact, tool judges by chapter).
+Clock GREEN. Cite E15: 41 stamps 00:16–32:34. Check GREEN.
+Rescan at open: P1 A0/B0/C-new8 C-max 0.75, P2 A0/B0/C-new12
+C-max 0.77 — as footered. The footers differ only in lede,
+BASE, CORRECTED figures, SPLIT and OC/SILENT/FENCE; shared
+prose patched in both halves together (Ch24 precedent).
+
+The read's findings, spec `specs/ch26_spec.md`: **C1** the Tip
+ran at night between an evening and a dusk (dusk-after-night
+broken) — its two nights become evenings. **F1** OC/FENCE
+left seven scenes unaccounted (both SILENT lines stood alone):
+partitions completed to 4+5 and 6+3 in scene order, SILENT
+kept-and-joined (P1) and extended to Kriti + Message (P2,
+both OC11-class mute, owned with reasons). **F2** presence
+counts wrong twice (nine for ten; nine talking scenes for
+seven with nine turns) and his stunned word mislabeled a joke
+— all three corrected. **F3** the single-witness sentence
+claimed the forehead touch staged (only the wipe-mark plays;
+the touch itself never on-page) — staged-or-held, Ch25-F3
+class. **F4** EVIDENCE re-measured (4,177 stale → 4,183);
+the ledger header carries the same stale figure (canon
+freeze, noted, untouched). **F5** CORRECTED claimed the
+enumeration trimmed per Ch18 (STAGING+VOICE run whole in
+both halves; Ch18 P1 itself discusses B15+) — corrected to
+the Ch24 precedent. **F6** the B12 parenthetical was garbled
+and contradicted Adaptation work — cleaned to the Ch25 B01
+pattern. **F7** B03's mechanism declared (canon's Aryaman-
+form line not transferred, no in-world muddle staged — the
+ledger demanded the pick). **F8** five micro-carries declared
+(B09 tail, B10 jhankaar tail, B12 Ananta-di, B13 opener, B24
+middle). **F9** "kadha night" mislabeled the afternoon.
+**F10** P2's SPLIT pointed at a nonexistent What Comes Next —
+to the end of the chapter (Ch24's identical boilerplate is
+shipped and frozen). No beats errors, no ledger changes:
+clock GREEN with the footers signing; O066/O068/O032 match
+OPEN.md; BF-125/126 row texts describe the stagings.
+
+Run1: thirty-four edits (C1 + F1 + F2 + F3 + F4 + F5 + F6 +
+F7 + F8 + F9 + F10) applied clean, no refusals. Run2:
+CORRECTED close notes with post-repair C-maxima. Post-
+battery 12/12 GREEN both halves, clock GREEN, check GREEN,
+rescan steady (P1 A0/B0 C-max 0.75, P2 A0/B0 C-max 0.77).
+Close: WORLD Ch26 checkpoint replaced (struck the 2026-11-19
+reconstruction), REBUILD row 26, this §217.
+
+E15 CLOSED at 32:34; E16 opens Chapter 27. BF-125/126 minted
+and staged (deal file; marked back); O032/O066/O068 amended
+as recorded; BF-112's costs running with the instrument owed
+forward; BF-121 live (card unmoved); BF-118 held unasked;
+BF-115/120 dormant; the coda's question open (owed, not
+free); Rishabh's fate and the officer's killer open.
+## §218 — Chapter 27 read whole against canon and repaired in place (split P1/P2; 2026-11-21)
+
+Author order (rewrite_first, standing since
+§194): no split-only ship. This chapter stands
+split, Part 1 (B01–B14) and Part 2 (B15–B21 +
+B22 ruled), each half read whole with the track
+beneath it — body and footer, all three written
+updates, the ledger and the captions — and repaired
+in place from what the read found: one dialogue
+verbatim-sweep (D1) and six footer fixes (F1–F6),
+no cite left unexamined. Split-chapter BASE/OC/
+CORRECTED per half, figures measured not
+inherited; STAGING+VOICE enumerate per half (each
+half witnesses its own beats — declared departure
+from the Ch24 whole-in-both convention; no cross-
+half claims but the span lines). E15's closing
+order stays replay-bridge (Chapter 26's Message
+stands); E17 unread, TB's precap not imported.
+
+Recon: local P1 409 lines / 31,741 bytes, P2
+238 lines / 21,522 bytes, pre-repair;
+`E16_BEATS` 304 lines (B01–B22 plus §2); the E16
+caption track 61 blocks through 00:25:13; TR, TB,
+TOI updates read whole (TOI harvested locally).
+Drive recon: one same-day chapter_27.md on Drive
+(29,134 B, unknown folder — unrelated xianxia
+draft, no-touch) plus the Room-era file
+(no-touch).
+
+Battery 12/12 GREEN both halves (P1 gap 27/27,
+dialogue 28/28; P2 gap 13 whole + PARTLY 17:17 +
+PARTLY 24:12 + MISSING 20:20, dialogue 16/17 —
+three translit false-negs with the lines verbatim
+on page plus one ruled omission, all accounted in
+the spec; thread; oc; picture; camera; money;
+eyes; ripple; score 0 faults; beat;
+original_scene chapter-level via The Call — the
+per-file P2 RED is the known split artifact).
+Clock GREEN. Cite E16: 38 stamps 00:08–25:13.
+Check GREEN. Rescan at open: P1 A=12 B-paste=3
+B-review=1 B-trace=1, P2 A=4 B-trace=1 — repaired
+to A0/B0 both halves (C-max 0.98/0.96, the C-lists
+held as repaired).
+
+The read's findings, spec `specs/ch27_spec.md`:
+**D1** twelve + four beats-exact segments and six
+caption-runs reworded single-word-class (hi,
+bas/koi/hum/tum/sahab/mera/to/na, rahi-pointing,
+haath-se and ise-main/aisa-main swaps, dila-dena,
+dekh-hi-raha-tha, koi-reorder) — A0/B0 both,
+coverage intact. **F1** OC/FENCE left five scenes
+unaccounted (every SILENT line stood alone):
+partitions completed to 7+5 and 4+3 in scene
+order. **F2** presence/speech counts wrong (six
+for seven; silent scenes line-listed under BF-81;
+R-03 mixed non-speech and dropped two presences;
+VOICE-tails carried STAGING's non-mouths) —
+speech-threes owned, silent presences filed.
+**F3** BF-112 misinvoked as era-cost in both
+halves (the row is the marriage): the vow-pay
+moved to STAGING B08 (Ch22 L383 verified), the
+share-arithmetic cut (no Ch26 PoA precedent —
+verified absent), true marriage-costs footed
+(Aryaman loses rite-pairing + canon marriage),
+authorities +BF-112. **F4** the Part-2 span named
+B15–B22 twice vs B22 omitted — fixed, DEFERRED
+sharpened to the ruling. **F5** the carrying's
+witness house→temple. **F6** refusal-to-sell→
+deal-refusal. No beats errors, no ledger changes:
+clock GREEN with the footers signing; O074/075/
+076 stand as staged; no rows minted or amended.
+
+Run1: thirty-seven edits (D1 + F1 + F2 + F3 + F4
++ F5 + F6) applied clean, no refusals. Run1b: one
+reorder (L141 koi-postposing, 1.00→0.98). Run2:
+CORRECTED close notes with post-repair C-maxima
+and coverage accounting. Post-battery 12/12 GREEN
+both halves, clock GREEN, check GREEN, rescan A0/
+B0 both (P1 C-max 0.98, P2 C-max 0.96). Close:
+WORLD Ch27 checkpoint at top, REBUILD row 27,
+this §218.
+
+E16 CLOSED at 24:12 (B22 omitted per the E12-B10
+ruling; the 25:13 tail is precap-adjacent and
+stays out); E17 opens Chapter 28. No rows minted
+or amended; BF-112's costs running (rite-pairing
++ marriage); BF-115 revived on Mahadev's timing;
+BF-126 named without new seeing; BF-121 live
+(card unmoved); BF-118 held unasked; BF-113/111
+dormant; the coda's question open (owed, not
+free); Rishabh's fate and the highway killer
+open.
+
+## §219 — Chapter 28 read whole against canon and repaired in place (split P1/P2; 2026-11-21)
+
+Author order (rewrite_first, standing since
+§194): no split-only ship. This chapter stands
+split, Part 1 (B01–B08 + three authored) and
+Part 2 (B09–B17 + two authored, B12 ruled),
+each half read whole with the track beneath
+it — body and footer, all three written
+updates, the ledger and the captions — and
+repaired in place from what the read found:
+one dialogue verbatim-sweep (D1) and one span
+fix (F1), no cite left unexamined.
+Split-chapter BASE/OC/CORRECTED per half,
+figures measured not inherited; STAGING+VOICE
+enumerate per half (each half witnesses its
+own beats — declared departure from the Ch24
+whole-in-both convention; no cross-half claims
+but the span lines). E16's closing stays paid
+(Chapter 27's molten gold stands); E18's beats
+stand ahead, nothing imported past B17.
+
+Recon: local P1 361 lines / 35,447 bytes, P2
+283 lines / 27,232 bytes, pre-repair;
+`E17_BEATS` 309 lines (B01–B17 plus §2); the
+E17 caption track 66 blocks through 00:31:01;
+TR, TB, TOI updates read whole (TOI harvested
+locally). Drive recon: three same-day
+chapter_28 hits noted, untouched (no-touch
+standing), plus the Room-era file (no-touch).
+
+Battery 12/12 GREEN both halves post-repair
+(P1 gap 35 whole + PARTLY 16:28, dialogue
+36/36; P2 gap 22 whole + PARTLY 21:58/29:34 +
+MISSING 22:24/29:59, dialogue 26/27 — six
+translit/music false-negs with the words
+verified on page plus one empty music cue,
+all accounted in the spec; thread; oc;
+picture; camera; money; eyes RED at open on
+two narration adjectives, GREEN post-D1;
+ripple; score GREEN; beat; original_scene
+GREEN in both halves — no split artifact).
+Clock GREEN. Cite E17: 31 stamps 00:09–31:01.
+Check GREEN. Rescan at open: P1 A=3 B-review=2
+B-trace=3, P2 A=2 B-paste=1 — repaired to A0/B0
+both halves (C-max 0.98/1.00, the C-lists held
+as repaired).
+
+The read's findings, spec `specs/ch28_spec.md`:
+**D1** five beats-exact segments and six
+caption-runs reworded single-word-class (+hi/
++to/+tum/+na/+apne), two narration adjectives
+replaced (glittering, shining) — A0/B0 both,
+eyes GREEN, coverage intact. **F1** the Part-2
+span named B09–B17 without the ruled cut —
+carried (B12 omitted). Belief rows verified
+whole against his word (O055/O079/O081, R-02,
+BF-45/BF-121, O078; the B11 transfer mouths,
+the B12 cut): no city on the flight, no
+verdict on the page, the pull once and
+unexplained, Anantveer faceless, the report
+unanswered, the card unnoticed. No beats
+errors, no ledger changes: clock GREEN with
+the footers signing; O079/O081 stand as
+staged; no rows minted or amended.
+
+Run1: twelve line-edits (D1) applied clean, no
+refusals. Run2: CORRECTED close notes with
+post-repair C-maxima and coverage accounting
++ the F1 span. Post-battery 12/12 GREEN both
+halves, clock GREEN, check GREEN, rescan A0/B0
+both (P1 C-max 0.98 @12:23, P2 C-max 1.00
+@25:01, aired riff held). Close: WORLD Ch28
+checkpoint at top, REBUILD row 28, this §219.
+
+Final: P1 372 lines / 36,272 bytes
+`f3595cf0c61c77c154a2afaf7f1b663d`, P2 296
+lines / 28,133 bytes
+`d529cb863e62d34ae9d83648c0749f63`.
+
+E17 CLOSED at 31:01 (B12 omitted per O080 —
+the near-miss cannot happen in our story);
+E18 opens Chapter 29. No rows minted or
+amended; BF-113's money-heard flight-unsent
+staged (arrival E18); BF-121's first spending
+staged (notice/asking owed); BF-112's costs
+running; BF-45 held, the report unanswered;
+Anantveer still faceless (O032 holds); BF-118
+held unasked; BF-111 dormant; Rishabh's
+home-thread opened; the highway killer open;
+the coda's question open (owed, not free).
+
+## §220 — Chapter 29 read whole against canon and repaired in place (split P1/P2; 2026-11-21)
+
+Author order (rewrite_first, standing since
+§194): no split-only ship. This chapter stands
+split, Part 1 (B01–B07) and Part 2 (B08–B15 +
+authored interlude and coda), each half read
+whole with the track beneath it — body and
+footer, all five written updates, the ledger
+and the captions — and repaired in place from
+what the read found: one dialogue
+verbatim-sweep (D1) and two footer fixes
+(F1–F2), no cite left unexamined.
+Split-chapter BASE/OC/CORRECTED per half,
+figures measured not inherited; STAGING+VOICE
+enumerate per half (each half witnesses its
+own beats — declared departure from the Ch24
+whole-in-both convention; no cross-half claims
+but the span lines). E17's closing stays paid
+(Chapter 28's old enemy stands); E19 is
+undrafted, its precap stays out, nothing
+imported past B15.
+
+Recon: local P1 340 lines / 26,195 bytes, P2
+419 lines / 34,133 bytes, pre-repair;
+`E18_BEATS` 313 lines (B01–B15 plus §2); the
+E18 caption track 69 blocks through 00:29:40;
+TR, TB, TE, TOI and BT updates read whole
+(first max-source pass). Drive recon: nine
+Chapter_29 hits — six same-name drafts in a
+non-ship folder (two size-matching local),
+one unknown-folder stray, one Room file, one
+folder — all noted, untouched (no-touch
+standing).
+
+Battery 12/12 GREEN both halves post-repair
+(P1 gap 28/28, dialogue 27/27; P2 gap 28 whole
++ PARTLY 20:05, dialogue 29/29 — one
+translit-English false-neg with the cue
+verbatim on page, accounted in the spec;
+thread; oc; picture; camera; money; eyes;
+ripple; score GREEN; beat; original_scene
+GREEN in both halves — no split artifact).
+Clock GREEN. Cite E18: 26 stamps 00:04–29:40.
+Check GREEN. Rescan at open: P1 A=8 B-paste=1
+B-trace=1, P2 A=14 B-review=1 B-trace=4 —
+repaired to A0/B0 both halves (C-max
+0.93/0.95, the C-lists held as repaired).
+
+The read's findings, spec `specs/ch29_spec.md`:
+**D1** twenty-two beats-exact segments and
+seven caption-runs reworded single-word-class
+(hi/to/na/are/hoon, bhala/abhi/khud/sirf,
+beta/ji/Lo — the L291/L301 refusal takes an
+identical insertion, mirrored within the
+chapter) — A0/B0 both, coverage intact.
+**F1** P2's OC/FENCE left The Valentine
+unowned (his scene entire): partition
+completed to 4+7 in scene order. **F2** P2's
+speech counts dropped the valentine (three
+for four): CHANGED and R-03 completed.
+Belief rows verified whole against his word
+(O082/O083/O085, BF-113/127/128/129, the O077
+cuts, the R-02 verdict, the London tracks):
+Mumbai authorized and landed, his knowledge
+filed with irrelevance declared, the card
+decided and carried, no city unrowed, no
+verdict smuggled. No beats errors, no ledger
+changes in this pass: clock GREEN with the
+footers signing; BF-113 stands as the draft
+left it (last-paid ch29); no rows minted or
+amended.
+
+Run1: twenty-eight edits (D1 + F1 + F2)
+applied clean, no refusals. Run2: CORRECTED
+close notes with post-repair C-maxima and
+coverage accounting. Post-battery 12/12 GREEN
+both halves, clock GREEN, check GREEN, rescan
+A0/B0 both (P1 C-max 0.93 @09:25, P2 C-max
+0.95 @18:02). Close: WORLD Ch29 checkpoint at
+top, REBUILD row 29, this §220.
+
+Final: P1 350 lines / 26,894 bytes
+`434e5afa2b263c738718daa89958aae7`, P2 432
+lines / 35,109 bytes
+`acfb552e68bf20ab49f1366a9c3ec25b`.
+
+E18 CLOSED at 29:40 (precap stays out — E19
+undrafted); E19 opens Chapter 30. No rows
+minted or amended; BF-113 landed Mumbai,
+thread live in India; BF-127's face-debt open
+(Dawan out cold); BF-128's telling owed (ch30
+heavier); BF-129's purpose unasked (morning's
+asking owed); BF-112's costs running; BF-45
+held, the report unanswered; BF-115
+active-faceless; BF-118 held unasked; BF-111
+dormant; the desh-warning received;
+Aryaman knows nothing of the refusal; the
+Purav-face mystery shut unwitnessed; the
+highway killer open; the coda's question open
+(owed, not free).
+
+## §221 — Chapter 30 read whole against canon and repaired in place (split P1/P2; 2026-11-21)
+
+Author order (rewrite_first, standing since
+§194): no split-only ship. This chapter stands
+split, Part 1 (B01–B08) and Part 2 (B09–B17 +
+authored Confession), each half read whole with
+the track beneath it — body and footer, all
+four written updates, the ledger and the
+captions — and repaired in place from what the
+read found: one dialogue verbatim-sweep (D1),
+no footer fixes, no cite left unexamined.
+Split-chapter BASE/OC/CORRECTED per half,
+figures measured not inherited; STAGING+VOICE
+enumerate per half (each half witnesses its
+own beats — declared departure from the Ch24
+whole-in-both convention; no cross-half claims
+but the span lines). E18's closing stays paid
+(Chapter 29's Mumbai landing stands); E20 is
+undrafted, its precap stays out, nothing
+imported past B17.
+
+Recon: local P1 365 lines / 27,737 bytes, P2
+435 lines / 32,425 bytes, pre-repair;
+`E19_BEATS` 380 lines (B01–B17 plus §2); the
+E19 caption track 87 blocks through 00:35:45;
+the TOI, SG, TE and BT updates read whole (TR
+and TB carried no E19 recap). Drive recon:
+seven Chapter_30 hits — five same-name drafts
+in the non-ship drafts folder, one
+unknown-folder same-name file (26,045 bytes,
+size-matching neither half), one old
+predecessor in a third folder — all noted,
+untouched (no-touch standing).
+
+Battery 12/12 GREEN both halves post-repair
+(P1 gap 40/43, dialogue 41/43 — three gap
+false-negs + two dialogue false-negs, cues
+staged whole or paraphrase-covered, accounted
+in the spec; P2 gap 34/34, dialogue 34/34;
+thread; oc; picture; camera; money; eyes;
+ripple; score GREEN; beat; original_scene
+GREEN in both halves — no split artifact).
+Clock GREEN. Cite E19: 31 stamps 00:00–35:45.
+Check GREEN. Rescan at open: P1 A=2 B-paste=1
+B-review=1, P2 A=5 B-paste=1 B-review=1
+B-trace=4 — repaired to A0/B0 both halves
+(C-max 0.98/0.98, the C-lists held as
+repaired).
+
+The read's findings, spec `specs/ch30_spec.md`:
+**D1** seven beats-exact segments and eight
+caption-runs reworded single-word-class
+(hi/akhir/na/bhi, itna/abhi/kahin/bhai/to —
+the L11/L223 questions take an identical
+vocative, mirrored within the chapter) —
+A0/B0 both, coverage intact. **No footer
+fixes** (eyes AMBERs on-mouth, FENCE/OC
+consistent, R-02 verdicts true, no omitted
+beats). Belief rows verified whole against
+his word (O086/BF-130/122/118/128, BF-10, the
+R-02 verdicts, the city/pull/made-for
+sweeps): the confession said complete with
+the pull unnamed and the question unasked,
+his read re-derived on the channel floor with
+the audit ahead, her telling owed heavier,
+no city unrowed, no verdict smuggled. No
+beats errors, no ledger changes in this pass:
+clock GREEN with the footers signing; BF-130
+stands as the draft minted it (said ch30);
+no rows minted or amended.
+
+Run1: fifteen edits (D1) applied clean, no
+refusals. Run2: CORRECTED close notes with
+post-repair C-maxima and coverage accounting.
+Post-battery 12/12 GREEN both halves, clock
+GREEN, check GREEN, rescan A0/B0 both (P1
+C-max 0.98 @15:55 tie @19:12, P2 C-max 0.98
+@34:54). Close: WORLD Ch30 checkpoint at top,
+REBUILD row 30, this §221.
+
+Final: P1 380 lines / 28,759 bytes
+`19aeac9657045817913f683c6009a6bf`, P2 444
+lines / 33,048 bytes
+`cc924978612cbab7deeafb7976b035de`.
+
+E19 CLOSED at 35:45 (no precap past B17 on the
+track — E20 undrafted); E20 opens Chapter 31.
+No rows minted or amended; BF-130 said aloud,
+her answer owed; BF-128's telling owed
+heavier; BF-118's question held with all
+else said; BF-122 said once, pull-and-file;
+BF-10's audit ahead; BF-113's Mumbai thread
+live; BF-127's face-debt open (Dawan out
+cold); BF-129's purpose unasked (morning's
+asking owed); BF-112's costs running; BF-45
+held, Verma's file unanswered; BF-115
+active-faceless; BF-111 dormant; the
+desh-warning received; the book's warning
+read; the train threatened and rolling
+(trace ordered, Pathankot ahead, seizure
+ordered); Tina's suspicion opened; Dinesh
+bought; Radhika's beg-off open; Aryaman
+knows nothing of the refusal; the Purav-face
+mystery shut unwitnessed; the highway killer
+open; the confession's question held (owed,
+not free).
+
+## §222 — Chapter 31 drafted fresh from the ledger and repaired in place (split P1/P2; 2026-11-22)
+
+Author order (rewrite_first, standing since
+§194): no split-only ship. This chapter stands
+split, Part 1 (B01–B08 + his authored Dark
+House) and Part 2 (B09–B17), each half read
+whole with the track beneath it — body and
+footer, all three written updates, the ledger
+and the captions — and repaired in place from
+what the gates found: one L-39 verbatim sweep
+(D1 rounds), two staged cue-misses (§2.2), one
+Vihaan restructure per the author's standing
+correction. Split-chapter BASE/OC/CORRECTED
+per half, figures measured not inherited;
+STAGING+VOICE enumerate per half (each half
+witnesses its own beats; no cross-half claims
+but the span lines). E19's closing stays paid
+(the confession's question held); E21 is
+undrafted, TE's trailing Recap is its precap
+and stays out, nothing imported past B17.
+
+Recon: `E20_BEATS` 447 lines (B01–B17 plus
+§2), accepted pre-draft (O087 butterfly, S-04
+E20 DONE); the E20 caption track 78 blocks
+through 00:32:25, read in full; TR + TE + TOI
+held local (three independent texts; TOI ends
+at the smoke; TE page-dated pre-airdate, its
+trailing Recap OUT); F247's E20 page dead,
+Bollyserial's fetch failed, no fourth source.
+
+Battery 12/12 GREEN both halves post-repair
+(P1 gap 32/32, dialogue 32/32; P2 gap 32/32,
+dialogue 32/32; thread; oc; picture; camera;
+money; eyes; ripple; score GREEN; beat;
+original_scene GREEN in both halves — no split
+artifact). Clock GREEN. Cite E20: 31 stamps
+00:00–32:25, read side-by-side, all true.
+Check GREEN (Ch16 thread RED pre-existing,
+untouched). Rescan at open: P1 A=2 B-paste=2
+B-trace=2, P2 A=7 B-paste=5 B-trace=6 —
+repaired to A0/B0 both halves (C-max
+0.97/0.96, the C-lists held as repaired).
+
+The gates' findings: **L-39** two beats-hits
+and four caption-hits (P1) plus seven
+beats-hits and eleven caption-hits (P2)
+reworded token-class — A0/B0 both, coverage
+intact. **D1** ten near-verbatim segments
+broken word-class (lahu/phenksa/machaa/
+berahmi; mehfooz/khat/museebat/haath/mulk/
+paa-sakta), C-max 0.97 @02:07 (tie @14:37) /
+0.96 @26:16 (tie @31:29), the C-lists held as
+repaired. **Cue-misses** 02:36 (dagaaba-address)
++ 09:53 (tannoy completion) staged per §2.2 —
+dialogue/gap 32/32 both. **Vihaan
+restructure** (the author's no-meaning
+correction, BF-85's standing charge): the
+five-scene office shadow cut — pad to Dinesh,
+desk-defense cut, dark-floor orders and lamp
+to Aryaman, Blackout fenced (naag material,
+ORIGINAL_SCENE §3); two home-scenes raised —
+Dread guest (one flat line, stays) + Dark
+House engine-3 (held house, calmed elder,
+filed question); register row 31 rewritten;
+O046 via Dark House + Ointment. **Footer**
+rewritten to the restructure (OC/FENCE/
+STAGING/VOICE/CHANGED/RIPPLED/SITUATION/
+WITNESS); eyes GREEN no-mouth. Belief rows
+verified whole (BF-128 telling-owed-heavier,
+BF-130 said, BF-118 held, BF-112 open-door,
+BF-10 unwitnessed-this-half, B13/B17 bends
+standing, O087 holding): no rows minted or
+amended; no ledger changes in this pass.
+
+Run1: L-39 rewords applied clean (A0/B0
+both). Run2: D1 near-verbatim breaks (C-max
+0.97/0.96 held). Run3: Vihaan restructure +
+cue-miss staging, footer rewritten, register
+row 31 rewritten. Run4: CORRECTED close notes
+with post-repair C-maxima and coverage
+accounting. Post-battery 12/12 GREEN both
+halves, clock GREEN, check GREEN (Ch16
+pre-existing), rescan A0/B0 both (P1 C-max
+0.97 @02:07 tie @14:37, P2 C-max 0.96 @26:16
+tie @31:29). Close: WORLD Ch31 checkpoint at
+top, REBUILD row 31, this §222.
+
+Final: P1 392 lines / 22,946 bytes
+`148d69bc779419932d9f952b38668219`, P2 401
+lines / 28,660 bytes
+`07ba99d3dba2756eee14c20a2b752aea`.
+
+E20 CLOSED at 32:25 (TE's trailing Recap is
+the E21 precap and stays out — E21 undrafted);
+E21 opens Chapter 32. No rows minted or
+amended; BF-130 said aloud, her answer owed;
+BF-128's telling owed heavier (his question
+filed at the stair-foot); BF-118's question
+held with all else said; BF-122 said once,
+pull-and-file; BF-10's audit ahead
+(unwitnessed this half); BF-113's Mumbai
+thread live; BF-127's face-debt open (Dawan
+out cold); BF-129's purpose unasked
+(morning's asking owed); BF-112's costs
+running (the open door); BF-45 held, Verma's
+file unanswered; BF-115 active-faceless;
+BF-111 dormant; the desh-warning received;
+the book's warning read; the train crashed
+and saved (farishta aired, nothing recorded
+— BF-106 confirmed); the bulletin named
+Changistan (disguised warning aired); the den
+reads farishta, orders the dragon, Tiger
+arrived; the mani doubt open, the poornima
+test ahead (dateless); the five to finish
+(six-letter, one dead); the washroom lie
+filed shut; Tina's suspicion opened; Dinesh
+bought; Radhika's beg-off open; Aryaman knows
+nothing of the refusal; the Purav-face
+mystery shut unwitnessed; the highway killer
+open; the ch30 orders standing (trace,
+Pathankot, seizure).
+
+## §223 — Canon-essence style pass closed whole-book Ch32→Ch1 + ship verification (2026-11-22)
+
+Full-book restyle per `canon/STYLE_PASS.md`
+(ledger owns method + per-chapter rows):
+Ch32 down through Ch2 closed 2026-11-22,
+Ch1 (both parts) already stamped the same
+day — 58 chapter files, 27,489 lines.
+Every half: score on the track's markers,
+feelings on frames, Vihaan's OC register
+untouched; gap + rescan detail-identical
+to pre-pass baselines throughout; per-file
+`check.py` GREEN on all 58 files.
+Standing shorts carried, all pre-existing:
+picture/thread shorts (Ch26 Message, Ch25
+Ultimatum+Smriti, Ch21 Impossible, Ch16P1
+Warrant, Ch16P2 thread-RED r2, Ch13P1 +
+Ch8P1 thread-RED, Ch4P1 2-short, Ch3P2 +
+Ch2P2 thread-RED); gap PARTLY/MISSING
+pairs (Ch5P1 18:38, Ch4P1 00:12, Ch3P1
+33:30+37:22, Ch4P2 13:12/13:31).
+Full-book `check.py --all`: RED-1 standing
+Ch16 whole thread 59% (pre-existing
+structural, zero-name ruling 2) — nothing
+regressed by the pass. Ship manifest
+`.scratch/SHIP_MANIFEST_2026-11-22.md5`
+(58 files); Drive book folder holds 30
+pre-pass heads (md5-mismatched) + stale
+Ch10 splits + unsplit Ch11/Ch15 — push
+planned, not yet executed. Nothing
+packed, nothing uploaded, nothing touched
+on Drive by this entry.
+
+## §224 — Post-style-pass push shipped whole (2026-11-22)
+
+59 heads pushed to the book folder
+(`Naagin 7 — The Shesh Naag`): 58
+chapter files (27,489 lines,
+2,253,105 bytes) + HISTORY.md through
+§223 (770,571 B, md5 `169f8500…e61d`).
+Mechanism: resumable-upload sessions +
+PUT, because `upload_file` rate-limited
+(9 of 10 failed) and
+`update_file_content` takes inline text
+only — so new heads, IDs churned, old
+versions in trash 30 days. New IDs in
+`.scratch/SHIP_PROGRESS_2026-11-22.txt`
+(all `final`); HISTORY head now
+`1Gd1a_n0WMSmYAphY0HvlnKwhm1QLS0Aa`.
+Verify: all 59 Drive md5s equal the
+manifest (`.scratch/SHIP_MANIFEST_2026-11-22.md5`)
+byte for byte — Ch1P1 `3da9c2d7…`,
+Ch10P1 `dce52bbe…`, Ch12P1 `346e2792…`,
+Ch32P2 `5233977a…` among them; folder
+holds exactly 59 heads + the 2 untouched
+zips, no dupes. Trashed 50 after verify:
+33 old heads (30 pre-pass Ch12–Ch30 +
+stale Ch10 splits + live HISTORY) + 6
+unsplit Ch11/Ch15 + 11 stale HISTORY
+dupes (IDs in `.scratch/SHIP_PLAN_2026-11-22.md`).
+Overflow, patches, portraits, Soul_Land
+untouched. `SNAPSHOT.txt` is r78;
+LIVE = PACKED; r77 superseded. This §224
+is local-only until the next push.
+GitHub repush still BLOCKED (no clone,
+no token; behind since 2026-11-11).
+Book state unchanged: per-file GREEN,
+`--all` RED-1 standing Ch16 thread 59%.
+
+## §225 — Deep re-cut rolled whole-book Ch1→Ch33 + final sweep GREEN (2026-11-23)
+
+58 heads re-cut sentence-short
+(Ch1–Ch32, 109–164 items each;
+quotes/scores/cues byte-identical,
+words +11 footer tag each) + Ch33P1
+drafted fresh and cut same day (160
+items, 204 quotes). 28,122 lines →
+44,370. Every half: probe-exact OC
+(glue his turns, decouple others',
+KEEP_WHOLE where the opener's first
+sentence orphans place or light —
+new with Ch33), picture/camera/
+thread/gap/dialogue/rescan green,
+foot + rollout log
+(`.scratch/DEEP_ALL_2026-11-23.md`).
+Final `--all` sweep repaired its two
+standing REDs: Ch16 thread 10/17→
+11/17 (Drama Band Karo accounts for
+the children, ADDED touch 5) and
+Ch25 S110×3 (Ultimatum names the
+law's true subject — Vihaan, not
+the man on the flags). `--all` now
+GREEN on every gate; only DESK
+weight RED (12.0 MB, standing,
+owner's action). Butterfly allowlist
+re-keyed post-deep (line-keyed).
+This §225 ships with the re-push;
+the push record is §226.
+
+## §226 — Post-deep push shipped whole (2026-11-23)
+
+60 heads pushed to the book folder
+(`Naagin 7 — The Shesh Naag`): 59
+chapter files (44,370 lines,
+2,497,480 bytes) + HISTORY.md through
+§225 (772,905 B, md5 `3440ddbb…e731c`).
+Mechanism: resumable-upload sessions +
+PUT, same as §224 — new heads, IDs
+churned, old versions in trash 30 days.
+New IDs in
+`.scratch/SHIP_PROGRESS_2026-11-23.txt`;
+HISTORY head now
+`13XF2BTfRcOOdboy9zyZSSrpsEzh5-6jv`.
+Verify: all 60 Drive md5s equal the
+manifest
+(`.scratch/SHIP_MANIFEST_2026-11-23.md5`)
+byte for byte — Ch1P1 `f37bf5c7…`,
+Ch32P1 `da39fbf3…` (genuine, looks
+empty, is not — triple-verified),
+Ch33P1 `4ccc70c3…` among them; folder
+holds 59 heads + HISTORY single-copy,
+no dupes. Trashed 59 after verify (58
+old heads + old HISTORY; IDs in
+`.scratch/trash_list.txt`). Zips +
+Overflow, patches, portraits,
+Soul_Land untouched. `SNAPSHOT.txt`
+is r79; LIVE = PACKED; r78 superseded.
+This §226 is local-only until the next
+push. GitHub repush still BLOCKED (no
+clone, no token; behind since
+2026-11-11). Book state: per-file
+GREEN, `--all` GREEN every gate (DESK
+weight RED standing, owner's action).
+
+## §227 — Ch33P1 Vihaan repair re-pushed (2026-11-23)
+
+Author's fourth Vihaan-passivity
+correction: Ch33P1 left him sorting
+paper with no event (1 OC scene, 9/10
+scenes fenced, gates green by
+exemption). Repair: the Drawer answers
+the inquiry's summons (term set on
+Verma's file, signature cost priced),
+authored Handover coda closes the loop
+same evening (folder counted out, his
+name leaves the house); the locker's
+dismissal recut; OC declares two
+scenes; ORIGINAL_SCENE.md §5 row 33
+re-ruled; O090's audit-event lands its
+first taking (BF-10 minister's file
+still ahead). No canon beat touched.
+Gates: oc/thread/butterfly/orig-scene/
+ripple/picture/money/address/beat/
+dialogue/gap/eyes/score/screen/camera
+green; check.py content gates green
+(DESK weight RED standing, owner's
+action). Re-push: Ch33P1 new head
+`1cD-6q0CpenfoQjZehsso8fsu2OfEVdRi`
+(54,034 B, md5 `6c5a5ceb…d32ec`,
+Drive-verified); old head
+`19MocF7KNYoeTTLoSAA_VkV6AC8B0GFV5`
+trashed. Manifest line 59 amended.
+`SNAPSHOT.txt` is r80; LIVE = PACKED;
+r79 superseded. This §227 is
+local-only until the next push.

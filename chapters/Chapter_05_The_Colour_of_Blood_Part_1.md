@@ -18,7 +18,9 @@ A drum, once. Mahadev's trishul is not shown, but the thunder is his. Then the s
 
 ## The Gate
 
-The lane past midnight, and a tube light burning over the gate with the moths going round it, and the car standing outside on the road with its engine off and its lamps still on.
+The lane past midnight, and a tube light burning over the gate with the moths going round it.
+
+The car stands outside on the road with its engine off and its lamps still on.
 
 A paper shade hangs over the tube, gone stiff with the rain.
 
@@ -40,17 +42,25 @@ The two of them come up the lane in the wrong light. Purvi's broken spectacles h
 
 "Time." He stands in the gate in his kurta and slippers with his phone in his hand.
 
-"Aa gaya."
+"Aa gaya," the score sounding under the noting (m16:23, first of three).
 
-"Ho gayi tumhari party khatm. Koi time hai ghar aane ka?" He holds the phone up. "Ek phone karke tum dono bata nahin sakte the ki late ho rahe ho? Kab se call kar rahe hain? Phone kyun nahin utha rahe the?"
+"Ho gayi tumhari party khatm. Koi time hai ghar aane ka?"
+
+He holds the phone up.
+
+"Ek phone karke tum dono bata nahin sakte the ki late ho rahe ho? Kab se call kar rahe hain? Phone kyun nahin utha rahe the?"
 
 "Ammi—"
 
-"Woh party mein pata hi nahin chala time ka." Ananta talks over her, and her arm goes through her sister's. "Aur bahar mausam itna kharab hai ki network bhi nahin tha. Hum bahut thak gaye hain. Subah baat karte hain."
+"Woh party mein pata hi nahin chala time ka." Ananta talks over her, and her arm goes through her sister's, with protectiveness.
 
-"Theek hai." He stands back from the gate. "Subah baat kar— sun."
+"Aur bahar mausam itna kharab hai ki network bhi nahin tha, the score sounding under the excusing (m16:23, second of three). Hum bahut thak gaye hain. Subah baat karte hain."
 
-His eyes find the cut. He stops.
+"Theek hai." He stands back from the gate.
+
+"Subah baat kar— sun," the score sounding under the stopping (m16:23, third of three).
+
+His eyes find the cut. He stops, with alarm.
 
 "Ek minute. Ek minute, yeh kya hai? Yeh kya hua? Haan? Yeh chot kaise aayi? Yeh kahan lagi tumhein? Yeh kaise hua?"
 
@@ -64,34 +74,46 @@ Their mother stands in the doorway in her glasses, with the house dark behind he
 
 "Job lag gayi."
 
-"Arre bhaiya." He laughs, and his hand comes down. "Beta, job lag gayi. Toh bahut khushi ki baat hai."
+"Arre bhaiya." He laughs, and his hand comes down.
 
-"Excitement mein jump ki—" Ananta's hands come together. "Aur gir gayi, toh chot lag gayi."
+"Beta, job lag gayi. Toh bahut khushi ki baat hai."
+
+"Excitement mein jump ki, the score sounding under the lying (m16:54)—" Ananta's hands come together. "Aur gir gayi, toh chot lag gayi."
 
 "Pata hi tha." Their mother comes down the steps. "Meri bachchi badi kaabil hai."
 
 "Sahi hai." His face beams proud. "Iski bhi job lag gayi. Tab toh apnon ko late aana banta hi hai. Arre, mast."
 
-Inside, the walls are brick, and a dining table stands under a white cloth, and the four of them stand round it in the doorway light.
+Inside, the walls are brick, and a dining table stands under a white cloth.
 
-"Mummy, bahut neend aa rahi hai." Purvi leans on her mother's shoulder. "Subah jaldi bhi uthna hai hum dono ko. Hum so jaate hain."
+The four of them stand round it in the doorway light, and Purvi's broken spectacles hang from her hand still.
+
+"Mummy, bahut neend aa rahi hai." Purvi leans on her mother's shoulder, with weariness. "Subah jaldi bhi uthna hai hum dono ko. Hum so jaate hain."
 
 "Haan, good night, Maa. Good night, Papa."
 
 "Achha achha." The mother turns her towards the stairs. "Woh kuch laga dena, beta. Main aati hoon. Good night." She laughs, tired.
 
-The gate comes shut. The tube light keeps the moths.
+The gate comes shut on the keys in its lock. The tube light keeps the moths.
 
-Up the stairs one window is lit and the rest of the house is dark. The lane smells of wet earth and of the drain at the far end of it.
+Up the stairs one window is lit and the rest of the house is dark.
+
+The lane smells of wet earth and of the drain at the far end of it.
 
 * * *
 ## The Man in the Room
 
 A room behind a shut door, and the corridor bulb burning its line under the door, and a bandaged man held down on the bed.
 
-A sheet lies half off the bed. A cup of water stands on the floor beside it.
+A sheet lies half off the bed.
 
-"Woh maar degi mujhe." He throws against the hands on him. "Maar degi mujhe. Maar degi mujhe."
+A cup of water stands on the floor beside it.
+
+"Woh maar degi mujhe."
+
+He throws against the hands on him, with terror.
+
+"Maar degi mujhe. Maar degi mujhe."
 
 Two pairs of hands hold him down. A voice tries to reach him through it.
 
@@ -107,20 +129,26 @@ A girl stands at the door in dark clothes. She has found him and brought him in,
 
 "Rajat."
 
-He hears his name. The fight goes out of him for a second, and the hands on him ease, and the room holds still.
+He hears his name. The fight goes out of him for a second.
 
-Out in the corridor a boy comes with another cup. "Sar, sar, sar, woh aapki coffee."
+The hands on him ease, and the room holds still, with relief.
+
+Out in the corridor a boy comes with another cup.
+
+"Sar, sar, sar, woh aapki coffee."
 
 "Abhi nahin." The voice comes from inside the room.
 
-The boy stands with the cup in his hands. The bulb burns its line under the door. Behind it, the breathing goes on.
+The boy stands with the cup in his hands.
+
+The bulb burns its line under the door. Behind it, the breathing goes on.
 
 ## Footer
 
     OC: none in this half — he is on the night desk till four (`BF-52`); his thread in this part is carried, not declared (see `SPLIT:`)
     FENCE:  The Gate · The Man in the Room
     SPLIT:  Part 1 of `Chapter_05_The_Colour_of_Blood`. Part 2 holds the scenes from `## Pinky`; this half runs from `## The Gate` to `## The Man in the Room`. The two halves share one footer's evidence only where the evidence is the episode's; each half's figures (`picture_check`, `camera_check`, `thread_check`) are its own and are measured, not inherited.
-    RIPPLED:  none — R-01 to R-04 re-read against the rebuilt prose and nothing in it asserts a superseded fact. No Aryaman anywhere in this half; the pair are never near each other; he is in no scene and no silence is written on him; no score anywhere near a pairing. The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule that touches it must be named here instead of `none`.
+    RIPPLED:  none — R-01 to R-04 re-read against the rebuilt prose and nothing in it asserts a superseded fact. No Aryaman anywhere in this half; the pair are never near each other; he is in no scene and no silence is written on him; no score anywhere near a pairing. Style pass 2026-11-22 re-read: R-01/R-02/R-03 stand as asserted (no Aryaman anywhere; the pair never near each other; he is in no scene and no silence is written on him); R-04 stands — the score named is neutral (sounding/noting/excusing/stopping/lying), every naming on a marker; his thread carried, not declared, per `SPLIT`. The chapter's own divergences are on `foundation/BUTTERFLY.md`; a rule that touches it must be named here instead of `none`.
     LEDGER:   run 2026-11-20 over the track and the frames (`O041`): two live butterflies touch this half
               (`BF-52`, the fence-cause; `BF-54`, the car that waits outside); nothing new; the re-homed room, the real girl,
               and the restored Raja carry no new divergence.
@@ -146,7 +174,7 @@ The boy stands with the cup in his hands. The bulb burns its line under the door
               on the floor and the sheet half off; the girl's dark clothes (the 18:00 frame); the corridor, the boy, and *abhi
               nahin* (`BF-08`). Movement between the episode's cuts is carried plainly and nothing is staged that the episode
               contradicts. Struck from the draft: the mother brought down late; the channel building and its 4 a.m.; the
-              empty-doorway voice; the holder's *dekho meri taraf*, which the track never says.
+              empty-doorway voice; the holder's *dekho meri taraf*, which the track never says. Deep 2026-11-23: word-splits throughout (split-point rewordings: stands/hands); two continuity carries on page-existing nouns (keys keep the shut gate; spectacles stay in her hand) — no new object, no new sound, no new feeling, no aired text altered.
     SEEN:     none in this half — he is in no scene, and nobody looks at him. `O025` is Part 2's.
     CHANGED:  none — no canon line moves mouths. The block-splits (*theek hai*, *job lag gayi*) are readings and are owned in
               `EVIDENCE`.
@@ -162,4 +190,4 @@ The boy stands with the cup in his hands. The bulb burns its line under the door
               (TR-backstory, unstaged); what the track's masculine *aa gaya* truly is.
     PICTURE:  Both scenes open on place with light named once: the lane past midnight under the tube light, the shut room with the
               corridor bulb under the door. The inserts that carry weight are the keys in the lock, the father's phone, the doorway,
-              the white cloth, the sheet and the cup. Speech share under two-thirds in both scenes, `camera_check` green.
+              the white cloth, the sheet and the cup. Speech share under two-thirds in both scenes, `camera_check` green. The style pass of 2026-11-22 names the score on four markers (noting m16:23, first of three; excusing m16:23, second of three; stopping m16:23, third of three; lying m16:54), and names alarm, protectiveness, weariness, terror and relief where the found cut, the talking-over, the leaned shoulder, the throwing body and the eased hands show them (his laugh, her tired laugh and his beaming pride already stood). The Man in the Room plays unscored (no markers). No new string: nothing held asks for one. No tasha, no pair theme. Music-only: none in this half. Battery: picture 2/2 ok; camera green; thread 0/0 green (he is in no scene, fenced with cause — no short); butterfly/eyes/score-0/money/ripple/oc/beat green; dialogue 8/9; gap 7/8 + MISSING 18:38 (Part 2's boundary cue, pre-existing, reported-never-chased) + 3 music blocks; rescan C-new3 (pre-existing, unchanged — all sit on aired dialogue); check GREEN. Deep pass 2026-11-23 (the author's everything): narration re-cut stage-short, quotes/scores/cues byte-identical; omens arc in-scene (Gate lamps on-and-on, keys hang-to-shut, phone up-to-down, spectacles hand-to-hand, house dark-to-window; Room hands hold-to-ease, cup floor-to-hand, bulb line-to-line, fight-to-breath); tissue chained (gate-shut to room-shut; doorway light to corridor line; cup answered by another); no gravity (he is in no scene; the fence holds, no silence written); no new score, no new business.
