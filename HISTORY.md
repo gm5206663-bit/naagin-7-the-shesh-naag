@@ -5976,3 +5976,35 @@ trashed. Manifest line 59 amended.
 `SNAPSHOT.txt` is r80; LIVE = PACKED;
 r79 superseded. This §227 is
 local-only until the next push.
+## §228 — r81 re-fence re-push (2026-11-24)
+
+The every-chapter Vihaan audit
+(§227's follow-up) struck
+comfort-fencing in three footers:
+Ch20 (Ahana's Door unfenced),
+Ch30P2 (fence struck whole),
+Ch33P1 (fence struck whole).
+Footer-only; no prose touched.
+Gates on all three: thread 75/70/
+73 green, oc green, butterfly
+clean, original-scene green.
+Re-push: Ch20 new head
+`1G9fdD5MUO9DQgdj9Bbf9ba4iI2sGFeZu`
+(65,448 B, md5 `d6d06277…f5c05`,
+Drive-verified); old head
+`1PiA4IQrkkbsD_wyQ1PcJbSy7FLepGOF5`
+trashed. Ch30P2 new head
+`1QHhJSyu_RD_WCMh1sJTwFVfqyMi2A3A5`
+(39,115 B, md5 `77223d6f…e0219`,
+Drive-verified); old head
+`1wuCutKnu8qR0el06esgGY0_8spmzf4JX`
+trashed. Ch33P1 new head
+`1C9LQG2l9sS0pT6UB9Ak5ZeLiQ4UjrrWe`
+(54,014 B, md5 `41b36b15…d5def7`,
+Drive-verified); old head
+`1cD-6q0CpenfoQjZehsso8fsu2OfEVdRi`
+trashed. Manifest lines 38/54/59
+amended. `SNAPSHOT.txt` is r81;
+LIVE = PACKED; r80 superseded.
+This §228 is local-only until
+the next push.

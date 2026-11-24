@@ -1082,6 +1082,6 @@ Her glass of water stands untouched on the floor by the bed, and the curtain doe
 
 OC: The Engagement · The Attari File · The Dance Floor
 
-FENCE: The Cave · Sameer's Door · The Murder · The Arrest · Ahana's Door · Two Places · The Sisters
+FENCE: The Cave · Sameer's Door · The Murder · The Arrest · Two Places · The Sisters
 
 RIPPLED: R-01 · R-02 · R-03 · R-04 · BF-81 (Vihaan's unexplained physical response remains unrecognized) · BF-86 (E10 function is rederived toward Vihaan, not line-swapped; this local application does not reopen O045's closed ruling or alter the separate BF-13/BF-15 event rows). Style pass 2026-11-22 re-read: R-01/R-02/R-03/R-04 hold — the taunt stays unassigned; the pull unrecognized; he speaks; no romantic cue anywhere.

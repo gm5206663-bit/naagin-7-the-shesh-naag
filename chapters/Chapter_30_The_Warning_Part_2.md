@@ -969,7 +969,7 @@ This half adapts **Episode 19, B09–B17** in story order: the trial, the segmen
               holding-back his, the staying hers (hand, kiss, forehead, neck-kiss,
               his mark — bodied, 2026-11-22). The pass's score-lines are the score's (C-marked nineteen: honesty, eyes-line, valley, Martand, tehzeeb, aside, call, grievance, refusal, death-turn, Tawi, guess, huddle, cover, sob, papers, tears, secret, grilling), its feelings their feelers' (nerve hers, triumph the floor's, jealousy Purav's, greed Parmeet's, fear Dimple's then Airul's, dread the feed's, terror the compartment's, care Radhika's, grief Radhika's, despair Radhika's), the two low strings his (O039).
     OC:      The Trial · The Trio · The Channel · The Showing · The Confession
-    FENCE:    The Segment · The House · The Order · The Terrace · The Begging
+    FENCE:    none — no scene stages naag-cause; the count is honest (re-fenced 2026-11-23, comfort-fencing struck)
     SITUATION: One night from the trial to the terrace — an anchor tried, a valley praised, a trio arrived, a house plotting, a channel opened, a showing survived, an order given, a terrace wept, a begging refused answers, a confession said.
     RIPPLED:  R-01 (canon's marriage never pastes — the stay, the boundary and the pledge keep aired functions cut of false premises) · R-02
               (the pull unplayed; his four turns play as backing, never as made-for)
